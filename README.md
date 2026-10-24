@@ -516,8 +516,11 @@ Slicers on all three dashboards show single selections (e.g., Destination = Agra
 
 **Name:** Ankar Goswami
 **Role:** '[Supply Chain / Data Analyst]'
+
 **LinkedIn:** '[https://www.linkedin.com/in/ankar-goswami-23a196245/]'
+
 **GitHub:** '[https://github.com/Ankar-G]'
+
 **Email:** '[goswamijit99@gmail.com]'
 
 ---
