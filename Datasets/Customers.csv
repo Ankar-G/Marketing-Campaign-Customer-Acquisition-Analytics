@@ -1,0 +1,2051 @@
+Customer_ID,Acquisition_Date,Acquisition_Channel_ID,Customer_Age_Group,Gender,City,Customer_Segment
+100001,2025-07-01,4,18-24 Years,Female,Kolkata,Value Seeker
+100002,2025-07-01,5,18-24 Years,Male,Jaipur,Occasional Gifter
+100003,2025-07-01,6,25-34 Years,Female,Bengaluru,Mid-Market
+100004,2025-07-01,8,25-34 Years,Male,Lucknow,Premium
+100005,2025-07-02,1,25-34 Years,Male,Mumbai,Mid-Market
+100006,2025-07-02,1,55+ Years,Male,Delhi,Value Seeker
+100007,2025-07-02,4,18-24 Years,Female,Chennai,Value Seeker
+100008,2025-07-02,6,25-34 Years,Male,Kolkata,Value Seeker
+100009,2025-07-04,1,45-54 Years,Male,Bengaluru,Value Seeker
+100010,2025-07-04,5,25-34 Years,Male,Lucknow,Mid-Market
+100011,2025-07-05,1,18-24 Years,Male,Lucknow,Value Seeker
+100012,2025-07-05,2,18-24 Years,Male,Mumbai,Value Seeker
+100013,2025-07-05,4,25-34 Years,Male,Pune,Premium
+100014,2025-07-06,2,25-34 Years,Male,Pune,Occasional Gifter
+100015,2025-07-09,2,25-34 Years,Male,Lucknow,Value Seeker
+100016,2025-07-09,8,35-44 Years,Male,Delhi,Mid-Market
+100017,2025-07-10,1,25-34 Years,Female,Ahmedabad,Mid-Market
+100018,2025-07-10,4,18-24 Years,Female,Bengaluru,Mid-Market
+100019,2025-07-10,1,45-54 Years,Female,Kolkata,Mid-Market
+100020,2025-07-11,1,45-54 Years,Female,Kolkata,Mid-Market
+100021,2025-07-11,1,18-24 Years,Female,Bengaluru,Mid-Market
+100022,2025-07-11,2,45-54 Years,Female,Chandigarh,Mid-Market
+100023,2025-07-11,2,18-24 Years,Female,Jaipur,Mid-Market
+100024,2025-07-11,1,25-34 Years,Female,Lucknow,Value Seeker
+100025,2025-07-11,1,45-54 Years,Female,Ahmedabad,Mid-Market
+100026,2025-07-11,1,18-24 Years,Male,Mumbai,Premium
+100027,2025-07-11,2,25-34 Years,Female,Delhi,Mid-Market
+100028,2025-07-12,2,35-44 Years,Male,Mumbai,Value Seeker
+100029,2025-07-12,1,25-34 Years,Female,Hyderabad,Mid-Market
+100030,2025-07-12,1,25-34 Years,Male,Mumbai,Mid-Market
+100031,2025-07-12,1,25-34 Years,Male,Jaipur,Value Seeker
+100032,2025-07-13,1,25-34 Years,Female,Mumbai,Occasional Gifter
+100033,2025-07-13,1,35-44 Years,Female,Chennai,Mid-Market
+100034,2025-07-13,1,25-34 Years,Male,Lucknow,Value Seeker
+100035,2025-07-14,1,25-34 Years,Female,Delhi,Mid-Market
+100036,2025-07-14,2,25-34 Years,Female,Bengaluru,Premium
+100037,2025-07-14,2,25-34 Years,Female,Kochi,Mid-Market
+100038,2025-07-14,1,25-34 Years,Male,Hyderabad,Mid-Market
+100039,2025-07-15,1,35-44 Years,Male,Kolkata,Mid-Market
+100040,2025-07-16,4,18-24 Years,Female,Delhi,Value Seeker
+100041,2025-07-16,4,18-24 Years,Female,Hyderabad,Mid-Market
+100042,2025-07-16,1,18-24 Years,Male,Mumbai,Mid-Market
+100043,2025-07-16,1,18-24 Years,Male,Kolkata,Value Seeker
+100044,2025-07-17,1,25-34 Years,Female,Delhi,Mid-Market
+100045,2025-07-17,3,18-24 Years,Male,Pune,Mid-Market
+100046,2025-07-17,2,35-44 Years,Male,Lucknow,Mid-Market
+100047,2025-07-17,1,18-24 Years,Male,Kolkata,Value Seeker
+100048,2025-07-19,2,35-44 Years,Female,Kolkata,Mid-Market
+100049,2025-07-19,1,25-34 Years,Female,Pune,Occasional Gifter
+100050,2025-07-19,1,25-34 Years,Male,Hyderabad,Premium
+100051,2025-07-19,2,55+ Years,Female,Delhi,Occasional Gifter
+100052,2025-07-19,2,35-44 Years,Female,Delhi,Premium
+100053,2025-07-19,1,25-34 Years,Female,Ahmedabad,Mid-Market
+100054,2025-07-19,1,45-54 Years,Female,Chandigarh,Value Seeker
+100055,2025-07-20,2,25-34 Years,Male,Delhi,Mid-Market
+100056,2025-07-20,1,25-34 Years,Male,Mumbai,Mid-Market
+100057,2025-07-21,1,25-34 Years,Male,Mumbai,Premium
+100058,2025-07-21,1,18-24 Years,Female,Mumbai,Mid-Market
+100059,2025-07-22,5,25-34 Years,Female,Mumbai,Value Seeker
+100060,2025-07-23,2,35-44 Years,Male,Bengaluru,Mid-Market
+100061,2025-07-23,1,45-54 Years,Female,Chennai,Mid-Market
+100062,2025-07-24,1,55+ Years,Male,Bengaluru,Value Seeker
+100063,2025-07-24,1,25-34 Years,Male,Bengaluru,Mid-Market
+100064,2025-07-24,1,25-34 Years,Female,Lucknow,Mid-Market
+100065,2025-07-24,2,25-34 Years,Female,Delhi,Mid-Market
+100066,2025-07-24,1,25-34 Years,Male,Mumbai,Value Seeker
+100067,2025-07-24,1,25-34 Years,Female,Chennai,Value Seeker
+100068,2025-07-25,2,25-34 Years,Female,Hyderabad,Occasional Gifter
+100069,2025-07-25,2,25-34 Years,Male,Delhi,Mid-Market
+100070,2025-07-25,1,45-54 Years,Female,Ahmedabad,Mid-Market
+100071,2025-07-25,1,45-54 Years,Female,Mumbai,Value Seeker
+100072,2025-07-25,1,55+ Years,Female,Bengaluru,Occasional Gifter
+100073,2025-07-26,1,18-24 Years,Female,Jaipur,Occasional Gifter
+100074,2025-07-26,4,18-24 Years,Male,Mumbai,Value Seeker
+100075,2025-07-26,1,25-34 Years,Male,Bengaluru,Mid-Market
+100076,2025-07-27,2,35-44 Years,Female,Mumbai,Value Seeker
+100077,2025-07-27,1,25-34 Years,Female,Delhi,Mid-Market
+100078,2025-07-27,1,18-24 Years,Male,Hyderabad,Mid-Market
+100079,2025-07-28,1,35-44 Years,Female,Delhi,Value Seeker
+100080,2025-07-28,1,25-34 Years,Male,Delhi,Value Seeker
+100081,2025-07-28,1,25-34 Years,Male,Kolkata,Mid-Market
+100082,2025-07-28,1,35-44 Years,Male,Lucknow,Occasional Gifter
+100083,2025-07-28,1,25-34 Years,Male,Lucknow,Value Seeker
+100084,2025-07-28,1,25-34 Years,Female,Chennai,Premium
+100085,2025-07-29,4,18-24 Years,Female,Bengaluru,Mid-Market
+100086,2025-07-29,1,18-24 Years,Female,Lucknow,Value Seeker
+100087,2025-07-29,1,18-24 Years,Male,Mumbai,Value Seeker
+100088,2025-07-29,1,25-34 Years,Male,Delhi,Value Seeker
+100089,2025-07-30,1,18-24 Years,Female,Chandigarh,Value Seeker
+100090,2025-07-30,2,45-54 Years,Female,Bengaluru,Value Seeker
+100091,2025-07-30,4,45-54 Years,Male,Mumbai,Value Seeker
+100092,2025-07-30,4,25-34 Years,Female,Bengaluru,Mid-Market
+100093,2025-07-30,1,25-34 Years,Female,Hyderabad,Value Seeker
+100094,2025-07-31,1,35-44 Years,Male,Chennai,Value Seeker
+100095,2025-07-31,4,25-34 Years,Female,Chennai,Premium
+100096,2025-07-31,2,25-34 Years,Female,Mumbai,Mid-Market
+100097,2025-07-31,1,35-44 Years,Female,Hyderabad,Occasional Gifter
+100098,2025-07-31,1,25-34 Years,Female,Mumbai,Premium
+100099,2025-07-31,1,25-34 Years,Male,Kolkata,Value Seeker
+100100,2025-07-31,4,25-34 Years,Male,Mumbai,Occasional Gifter
+100101,2025-08-01,1,18-24 Years,Female,Delhi,Mid-Market
+100102,2025-08-01,4,25-34 Years,Male,Ahmedabad,Occasional Gifter
+100103,2025-08-01,1,25-34 Years,Male,Pune,Mid-Market
+100104,2025-08-01,1,25-34 Years,Female,Bengaluru,Premium
+100105,2025-08-02,1,18-24 Years,Male,Chennai,Value Seeker
+100106,2025-08-02,1,35-44 Years,Male,Bengaluru,Value Seeker
+100107,2025-08-02,1,25-34 Years,Male,Pune,Premium
+100108,2025-08-02,1,25-34 Years,Male,Delhi,Occasional Gifter
+100109,2025-08-02,4,45-54 Years,Male,Ahmedabad,Occasional Gifter
+100110,2025-08-02,4,45-54 Years,Female,Delhi,Occasional Gifter
+100111,2025-08-02,4,18-24 Years,Female,Bengaluru,Value Seeker
+100112,2025-08-02,1,35-44 Years,Male,Kochi,Mid-Market
+100113,2025-08-02,4,18-24 Years,Male,Chennai,Mid-Market
+100114,2025-08-02,4,25-34 Years,Female,Pune,Mid-Market
+100115,2025-08-02,4,25-34 Years,Female,Chandigarh,Mid-Market
+100116,2025-08-02,5,18-24 Years,Male,Chennai,Value Seeker
+100117,2025-08-02,1,25-34 Years,Male,Mumbai,Mid-Market
+100118,2025-08-02,1,18-24 Years,Male,Lucknow,Mid-Market
+100119,2025-08-02,1,25-34 Years,Male,Delhi,Mid-Market
+100120,2025-08-02,5,18-24 Years,Male,Bengaluru,Value Seeker
+100121,2025-08-03,1,18-24 Years,Male,Bengaluru,Occasional Gifter
+100122,2025-08-03,3,35-44 Years,Female,Delhi,Mid-Market
+100123,2025-08-03,4,18-24 Years,Male,Kolkata,Value Seeker
+100124,2025-08-03,1,45-54 Years,Male,Delhi,Value Seeker
+100125,2025-08-03,1,45-54 Years,Female,Chandigarh,Mid-Market
+100126,2025-08-03,1,25-34 Years,Male,Pune,Mid-Market
+100127,2025-08-03,4,18-24 Years,Female,Delhi,Value Seeker
+100128,2025-08-03,4,25-34 Years,Male,Hyderabad,Mid-Market
+100129,2025-08-03,4,35-44 Years,Female,Delhi,Occasional Gifter
+100130,2025-08-03,4,35-44 Years,Male,Kochi,Mid-Market
+100131,2025-08-03,4,45-54 Years,Male,Delhi,Occasional Gifter
+100132,2025-08-03,4,35-44 Years,Male,Bengaluru,Value Seeker
+100133,2025-08-03,2,25-34 Years,Female,Lucknow,Occasional Gifter
+100134,2025-08-03,1,25-34 Years,Female,Bengaluru,Premium
+100135,2025-08-04,1,25-34 Years,Male,Lucknow,Mid-Market
+100136,2025-08-04,1,45-54 Years,Female,Mumbai,Mid-Market
+100137,2025-08-04,2,25-34 Years,Female,Mumbai,Premium
+100138,2025-08-04,1,35-44 Years,Female,Mumbai,Mid-Market
+100139,2025-08-04,1,18-24 Years,Male,Bengaluru,Mid-Market
+100140,2025-08-04,4,25-34 Years,Female,Kolkata,Value Seeker
+100141,2025-08-04,5,18-24 Years,Female,Bengaluru,Mid-Market
+100142,2025-08-05,1,45-54 Years,Male,Bengaluru,Value Seeker
+100143,2025-08-05,1,45-54 Years,Male,Hyderabad,Value Seeker
+100144,2025-08-05,3,18-24 Years,Male,Mumbai,Mid-Market
+100145,2025-08-05,1,25-34 Years,Male,Delhi,Mid-Market
+100146,2025-08-05,1,25-34 Years,Female,Delhi,Mid-Market
+100147,2025-08-05,1,45-54 Years,Male,Delhi,Occasional Gifter
+100148,2025-08-05,5,35-44 Years,Male,Chennai,Mid-Market
+100149,2025-08-05,5,35-44 Years,Female,Kolkata,Occasional Gifter
+100150,2025-08-06,3,18-24 Years,Female,Kolkata,Premium
+100151,2025-08-06,1,18-24 Years,Female,Ahmedabad,Mid-Market
+100152,2025-08-06,1,18-24 Years,Male,Mumbai,Premium
+100153,2025-08-06,1,25-34 Years,Female,Ahmedabad,Mid-Market
+100154,2025-08-06,2,25-34 Years,Female,Mumbai,Occasional Gifter
+100155,2025-08-06,4,35-44 Years,Male,Jaipur,Value Seeker
+100156,2025-08-06,5,25-34 Years,Female,Chennai,Mid-Market
+100157,2025-08-07,3,18-24 Years,Female,Mumbai,Mid-Market
+100158,2025-08-07,1,45-54 Years,Female,Lucknow,Occasional Gifter
+100159,2025-08-07,4,18-24 Years,Male,Chennai,Mid-Market
+100160,2025-08-07,1,25-34 Years,Female,Hyderabad,Mid-Market
+100161,2025-08-07,1,35-44 Years,Male,Mumbai,Mid-Market
+100162,2025-08-07,1,25-34 Years,Female,Chennai,Value Seeker
+100163,2025-08-07,2,35-44 Years,Male,Chennai,Mid-Market
+100164,2025-08-07,2,18-24 Years,Female,Pune,Mid-Market
+100165,2025-08-07,1,25-34 Years,Female,Pune,Value Seeker
+100166,2025-08-08,1,45-54 Years,Male,Delhi,Value Seeker
+100167,2025-08-08,8,35-44 Years,Male,Bengaluru,Premium
+100168,2025-08-08,1,35-44 Years,Male,Mumbai,Mid-Market
+100169,2025-08-08,1,18-24 Years,Female,Mumbai,Value Seeker
+100170,2025-08-08,4,45-54 Years,Female,Bengaluru,Occasional Gifter
+100171,2025-08-08,5,25-34 Years,Male,Delhi,Value Seeker
+100172,2025-08-08,2,25-34 Years,Male,Kolkata,Mid-Market
+100173,2025-08-09,1,25-34 Years,Female,Pune,Mid-Market
+100174,2025-08-09,1,45-54 Years,Male,Chennai,Mid-Market
+100175,2025-08-09,2,25-34 Years,Other,Delhi,Mid-Market
+100176,2025-08-09,4,35-44 Years,Female,Bengaluru,Occasional Gifter
+100177,2025-08-09,4,45-54 Years,Female,Delhi,Occasional Gifter
+100178,2025-08-09,4,25-34 Years,Female,Delhi,Value Seeker
+100179,2025-08-09,1,35-44 Years,Female,Hyderabad,Value Seeker
+100180,2025-08-09,2,25-34 Years,Male,Chennai,Value Seeker
+100181,2025-08-09,5,35-44 Years,Female,Kolkata,Premium
+100182,2025-08-10,4,35-44 Years,Female,Mumbai,Occasional Gifter
+100183,2025-08-10,3,35-44 Years,Male,Bengaluru,Mid-Market
+100184,2025-08-10,1,45-54 Years,Male,Mumbai,Premium
+100185,2025-08-10,1,25-34 Years,Female,Bengaluru,Mid-Market
+100186,2025-08-10,2,18-24 Years,Female,Chennai,Value Seeker
+100187,2025-08-10,2,25-34 Years,Female,Lucknow,Occasional Gifter
+100188,2025-08-10,4,35-44 Years,Female,Chennai,Value Seeker
+100189,2025-08-11,4,45-54 Years,Male,Jaipur,Mid-Market
+100190,2025-08-11,2,45-54 Years,Male,Lucknow,Mid-Market
+100191,2025-08-11,2,25-34 Years,Female,Delhi,Value Seeker
+100192,2025-08-11,2,25-34 Years,Male,Mumbai,Value Seeker
+100193,2025-08-12,1,35-44 Years,Male,Ahmedabad,Mid-Market
+100194,2025-08-12,6,18-24 Years,Male,Hyderabad,Value Seeker
+100195,2025-08-12,2,45-54 Years,Male,Bengaluru,Mid-Market
+100196,2025-08-12,1,18-24 Years,Female,Bengaluru,Value Seeker
+100197,2025-08-13,2,35-44 Years,Male,Mumbai,Occasional Gifter
+100198,2025-08-13,2,35-44 Years,Male,Chennai,Premium
+100199,2025-08-14,2,55+ Years,Female,Hyderabad,Mid-Market
+100200,2025-08-14,4,25-34 Years,Female,Hyderabad,Occasional Gifter
+100201,2025-08-14,1,25-34 Years,Male,Delhi,Mid-Market
+100202,2025-08-15,4,18-24 Years,Female,Jaipur,Value Seeker
+100203,2025-08-15,4,18-24 Years,Female,Hyderabad,Mid-Market
+100204,2025-08-15,4,18-24 Years,Male,Chennai,Value Seeker
+100205,2025-08-16,1,35-44 Years,Female,Kolkata,Mid-Market
+100206,2025-08-16,1,25-34 Years,Female,Bengaluru,Value Seeker
+100207,2025-08-16,2,25-34 Years,Female,Kolkata,Premium
+100208,2025-08-16,7,25-34 Years,Male,Kolkata,Premium
+100209,2025-08-16,2,25-34 Years,Female,Jaipur,Value Seeker
+100210,2025-08-17,2,35-44 Years,Male,Jaipur,Value Seeker
+100211,2025-08-17,2,18-24 Years,Female,Mumbai,Mid-Market
+100212,2025-08-17,2,18-24 Years,Female,Delhi,Value Seeker
+100213,2025-08-18,1,25-34 Years,Male,Delhi,Occasional Gifter
+100214,2025-08-18,6,25-34 Years,Female,Mumbai,Mid-Market
+100215,2025-08-18,3,25-34 Years,Male,Hyderabad,Occasional Gifter
+100216,2025-08-19,1,45-54 Years,Female,Lucknow,Occasional Gifter
+100217,2025-08-19,1,18-24 Years,Male,Bengaluru,Mid-Market
+100218,2025-08-19,4,45-54 Years,Male,Lucknow,Value Seeker
+100219,2025-08-20,2,35-44 Years,Male,Delhi,Premium
+100220,2025-08-20,2,25-34 Years,Female,Chennai,Mid-Market
+100221,2025-08-20,1,35-44 Years,Female,Kolkata,Premium
+100222,2025-08-20,2,18-24 Years,Female,Chennai,Value Seeker
+100223,2025-08-21,1,25-34 Years,Female,Pune,Premium
+100224,2025-08-21,2,35-44 Years,Female,Mumbai,Mid-Market
+100225,2025-08-21,2,25-34 Years,Female,Kolkata,Occasional Gifter
+100226,2025-08-21,1,45-54 Years,Male,Bengaluru,Mid-Market
+100227,2025-08-22,1,25-34 Years,Male,Delhi,Value Seeker
+100228,2025-08-22,4,25-34 Years,Male,Chandigarh,Value Seeker
+100229,2025-08-22,2,18-24 Years,Male,Jaipur,Value Seeker
+100230,2025-08-23,2,18-24 Years,Male,Ahmedabad,Occasional Gifter
+100231,2025-08-23,2,25-34 Years,Female,Chandigarh,Mid-Market
+100232,2025-08-24,5,25-34 Years,Female,Lucknow,Value Seeker
+100233,2025-08-24,4,18-24 Years,Female,Pune,Mid-Market
+100234,2025-08-25,1,25-34 Years,Male,Delhi,Mid-Market
+100235,2025-08-25,1,55+ Years,Male,Kolkata,Value Seeker
+100236,2025-08-25,2,18-24 Years,Male,Mumbai,Premium
+100237,2025-08-25,7,25-34 Years,Female,Hyderabad,Value Seeker
+100238,2025-08-26,4,18-24 Years,Male,Chandigarh,Occasional Gifter
+100239,2025-08-26,1,25-34 Years,Female,Delhi,Occasional Gifter
+100240,2025-08-26,4,18-24 Years,Male,Chennai,Value Seeker
+100241,2025-08-27,1,25-34 Years,Female,Chennai,Occasional Gifter
+100242,2025-08-27,7,35-44 Years,Male,Pune,Value Seeker
+100243,2025-08-28,1,18-24 Years,Female,Pune,Value Seeker
+100244,2025-08-28,6,18-24 Years,Female,Bengaluru,Value Seeker
+100245,2025-08-29,1,25-34 Years,Male,Hyderabad,Mid-Market
+100246,2025-08-29,1,18-24 Years,Female,Mumbai,Value Seeker
+100247,2025-08-30,1,35-44 Years,Male,Mumbai,Premium
+100248,2025-08-30,1,25-34 Years,Female,Hyderabad,Occasional Gifter
+100249,2025-08-31,2,25-34 Years,Female,Delhi,Value Seeker
+100250,2025-08-31,2,45-54 Years,Male,Mumbai,Premium
+100251,2025-08-31,2,25-34 Years,Female,Pune,Premium
+100252,2025-08-31,2,35-44 Years,Male,Bengaluru,Value Seeker
+100253,2025-08-31,5,18-24 Years,Male,Bengaluru,Mid-Market
+100254,2025-09-01,2,25-34 Years,Male,Delhi,Mid-Market
+100255,2025-09-03,1,25-34 Years,Female,Lucknow,Value Seeker
+100256,2025-09-03,1,25-34 Years,Female,Pune,Mid-Market
+100257,2025-09-04,2,55+ Years,Female,Mumbai,Occasional Gifter
+100258,2025-09-04,2,35-44 Years,Male,Delhi,Value Seeker
+100259,2025-09-04,2,25-34 Years,Female,Hyderabad,Value Seeker
+100260,2025-09-05,4,18-24 Years,Female,Chennai,Premium
+100261,2025-09-05,3,25-34 Years,Female,Mumbai,Value Seeker
+100262,2025-09-06,4,18-24 Years,Male,Hyderabad,Mid-Market
+100263,2025-09-06,1,25-34 Years,Male,Mumbai,Mid-Market
+100264,2025-09-06,8,18-24 Years,Female,Mumbai,Mid-Market
+100265,2025-09-06,2,18-24 Years,Female,Chennai,Mid-Market
+100266,2025-09-07,2,18-24 Years,Female,Mumbai,Occasional Gifter
+100267,2025-09-08,2,25-34 Years,Female,Mumbai,Premium
+100268,2025-09-08,2,55+ Years,Female,Delhi,Mid-Market
+100269,2025-09-09,2,25-34 Years,Male,Mumbai,Premium
+100270,2025-09-09,2,25-34 Years,Male,Chennai,Value Seeker
+100271,2025-09-09,5,55+ Years,Female,Bengaluru,Value Seeker
+100272,2025-09-10,2,25-34 Years,Male,Ahmedabad,Value Seeker
+100273,2025-09-10,1,25-34 Years,Male,Mumbai,Value Seeker
+100274,2025-09-10,3,45-54 Years,Female,Delhi,Premium
+100275,2025-09-10,4,25-34 Years,Female,Jaipur,Value Seeker
+100276,2025-09-10,2,18-24 Years,Male,Bengaluru,Mid-Market
+100277,2025-09-10,3,25-34 Years,Female,Mumbai,Mid-Market
+100278,2025-09-11,1,25-34 Years,Female,Bengaluru,Value Seeker
+100279,2025-09-11,1,25-34 Years,Male,Delhi,Mid-Market
+100280,2025-09-11,4,18-24 Years,Male,Mumbai,Premium
+100281,2025-09-11,2,25-34 Years,Female,Chennai,Mid-Market
+100282,2025-09-11,3,55+ Years,Male,Mumbai,Value Seeker
+100283,2025-09-13,1,18-24 Years,Female,Pune,Mid-Market
+100284,2025-09-13,2,25-34 Years,Male,Delhi,Mid-Market
+100285,2025-09-13,2,25-34 Years,Female,Kolkata,Value Seeker
+100286,2025-09-13,3,25-34 Years,Male,Mumbai,Occasional Gifter
+100287,2025-09-13,3,25-34 Years,Male,Kolkata,Premium
+100288,2025-09-14,1,25-34 Years,Female,Hyderabad,Occasional Gifter
+100289,2025-09-14,2,25-34 Years,Female,Pune,Premium
+100290,2025-09-14,3,35-44 Years,Male,Mumbai,Premium
+100291,2025-09-15,1,18-24 Years,Female,Bengaluru,Mid-Market
+100292,2025-09-15,2,18-24 Years,Female,Hyderabad,Premium
+100293,2025-09-16,1,25-34 Years,Male,Delhi,Premium
+100294,2025-09-16,1,35-44 Years,Male,Bengaluru,Value Seeker
+100295,2025-09-16,2,25-34 Years,Female,Bengaluru,Mid-Market
+100296,2025-09-17,1,25-34 Years,Female,Hyderabad,Mid-Market
+100297,2025-09-17,1,35-44 Years,Female,Lucknow,Mid-Market
+100298,2025-09-17,1,35-44 Years,Male,Kolkata,Mid-Market
+100299,2025-09-17,2,35-44 Years,Male,Delhi,Premium
+100300,2025-09-17,1,55+ Years,Male,Delhi,Mid-Market
+100301,2025-09-18,1,25-34 Years,Male,Mumbai,Occasional Gifter
+100302,2025-09-18,1,25-34 Years,Male,Delhi,Value Seeker
+100303,2025-09-18,2,25-34 Years,Female,Delhi,Mid-Market
+100304,2025-09-18,3,25-34 Years,Female,Chandigarh,Value Seeker
+100305,2025-09-18,2,25-34 Years,Female,Hyderabad,Premium
+100306,2025-09-19,2,35-44 Years,Male,Ahmedabad,Mid-Market
+100307,2025-09-19,1,25-34 Years,Male,Kochi,Mid-Market
+100308,2025-09-19,2,35-44 Years,Female,Mumbai,Occasional Gifter
+100309,2025-09-20,1,25-34 Years,Male,Bengaluru,Mid-Market
+100310,2025-09-20,2,35-44 Years,Male,Pune,Mid-Market
+100311,2025-09-20,1,35-44 Years,Male,Mumbai,Value Seeker
+100312,2025-09-21,1,18-24 Years,Female,Delhi,Mid-Market
+100313,2025-09-21,5,55+ Years,Male,Delhi,Value Seeker
+100314,2025-09-21,2,25-34 Years,Female,Mumbai,Premium
+100315,2025-09-21,2,25-34 Years,Male,Delhi,Mid-Market
+100316,2025-09-21,2,25-34 Years,Female,Bengaluru,Value Seeker
+100317,2025-09-22,3,35-44 Years,Male,Pune,Premium
+100318,2025-09-22,3,35-44 Years,Male,Chennai,Value Seeker
+100319,2025-09-22,2,25-34 Years,Male,Pune,Mid-Market
+100320,2025-09-22,6,25-34 Years,Male,Bengaluru,Occasional Gifter
+100321,2025-09-22,2,25-34 Years,Female,Chennai,Premium
+100322,2025-09-22,3,35-44 Years,Female,Delhi,Mid-Market
+100323,2025-09-23,3,45-54 Years,Male,Delhi,Mid-Market
+100324,2025-09-23,3,18-24 Years,Male,Delhi,Value Seeker
+100325,2025-09-23,2,25-34 Years,Female,Bengaluru,Occasional Gifter
+100326,2025-09-23,2,35-44 Years,Female,Kochi,Occasional Gifter
+100327,2025-09-23,1,35-44 Years,Female,Jaipur,Mid-Market
+100328,2025-09-24,3,35-44 Years,Female,Chennai,Mid-Market
+100329,2025-09-24,2,25-34 Years,Female,Bengaluru,Premium
+100330,2025-09-24,2,25-34 Years,Female,Chandigarh,Mid-Market
+100331,2025-09-24,2,35-44 Years,Female,Bengaluru,Premium
+100332,2025-09-24,2,25-34 Years,Male,Mumbai,Premium
+100333,2025-09-24,2,45-54 Years,Female,Pune,Value Seeker
+100334,2025-09-25,1,35-44 Years,Female,Chennai,Occasional Gifter
+100335,2025-09-26,1,25-34 Years,Female,Chandigarh,Mid-Market
+100336,2025-09-27,1,18-24 Years,Male,Bengaluru,Premium
+100337,2025-09-27,2,45-54 Years,Female,Delhi,Premium
+100338,2025-09-27,2,25-34 Years,Female,Hyderabad,Value Seeker
+100339,2025-09-27,3,25-34 Years,Female,Bengaluru,Occasional Gifter
+100340,2025-09-28,1,25-34 Years,Male,Ahmedabad,Mid-Market
+100341,2025-09-28,2,25-34 Years,Male,Pune,Premium
+100342,2025-09-28,2,25-34 Years,Male,Pune,Value Seeker
+100343,2025-09-28,3,35-44 Years,Female,Delhi,Mid-Market
+100344,2025-09-28,3,25-34 Years,Female,Pune,Mid-Market
+100345,2025-09-28,2,25-34 Years,Female,Chennai,Mid-Market
+100346,2025-09-28,2,25-34 Years,Female,Kolkata,Mid-Market
+100347,2025-09-28,1,25-34 Years,Male,Bengaluru,Value Seeker
+100348,2025-09-28,3,18-24 Years,Male,Mumbai,Value Seeker
+100349,2025-09-28,1,18-24 Years,Female,Bengaluru,Occasional Gifter
+100350,2025-09-28,2,25-34 Years,Female,Mumbai,Value Seeker
+100351,2025-09-29,3,45-54 Years,Male,Bengaluru,Mid-Market
+100352,2025-09-29,2,25-34 Years,Female,Bengaluru,Mid-Market
+100353,2025-09-29,2,25-34 Years,Female,Delhi,Premium
+100354,2025-09-29,2,25-34 Years,Female,Bengaluru,Value Seeker
+100355,2025-09-29,2,55+ Years,Female,Delhi,Value Seeker
+100356,2025-09-29,2,18-24 Years,Male,Mumbai,Premium
+100357,2025-09-30,3,18-24 Years,Male,Chennai,Mid-Market
+100358,2025-09-30,2,25-34 Years,Female,Mumbai,Mid-Market
+100359,2025-09-30,2,18-24 Years,Male,Hyderabad,Value Seeker
+100360,2025-09-30,3,35-44 Years,Female,Bengaluru,Premium
+100361,2025-09-30,3,25-34 Years,Female,Bengaluru,Mid-Market
+100362,2025-09-30,2,18-24 Years,Male,Kochi,Occasional Gifter
+100363,2025-09-30,2,25-34 Years,Female,Delhi,Mid-Market
+100364,2025-09-30,2,25-34 Years,Female,Pune,Mid-Market
+100365,2025-09-30,2,25-34 Years,Female,Delhi,Premium
+100366,2025-09-30,2,25-34 Years,Female,Delhi,Occasional Gifter
+100367,2025-10-01,2,18-24 Years,Female,Mumbai,Value Seeker
+100368,2025-10-01,2,35-44 Years,Female,Delhi,Mid-Market
+100369,2025-10-01,3,25-34 Years,Female,Pune,Premium
+100370,2025-10-01,1,25-34 Years,Female,Mumbai,Occasional Gifter
+100371,2025-10-01,6,55+ Years,Female,Pune,Value Seeker
+100372,2025-10-01,3,25-34 Years,Female,Jaipur,Value Seeker
+100373,2025-10-01,3,35-44 Years,Female,Mumbai,Mid-Market
+100374,2025-10-01,2,35-44 Years,Male,Delhi,Mid-Market
+100375,2025-10-01,2,25-34 Years,Female,Hyderabad,Mid-Market
+100376,2025-10-01,2,35-44 Years,Female,Delhi,Value Seeker
+100377,2025-10-01,4,18-24 Years,Female,Mumbai,Mid-Market
+100378,2025-10-01,1,35-44 Years,Female,Bengaluru,Value Seeker
+100379,2025-10-01,6,18-24 Years,Male,Kochi,Value Seeker
+100380,2025-10-02,3,35-44 Years,Male,Ahmedabad,Value Seeker
+100381,2025-10-02,3,25-34 Years,Female,Ahmedabad,Mid-Market
+100382,2025-10-02,4,25-34 Years,Female,Bengaluru,Value Seeker
+100383,2025-10-02,4,55+ Years,Female,Mumbai,Value Seeker
+100384,2025-10-02,4,45-54 Years,Male,Kolkata,Occasional Gifter
+100385,2025-10-02,2,25-34 Years,Male,Chennai,Occasional Gifter
+100386,2025-10-02,6,18-24 Years,Male,Kolkata,Value Seeker
+100387,2025-10-02,6,25-34 Years,Female,Chennai,Value Seeker
+100388,2025-10-03,1,25-34 Years,Male,Pune,Value Seeker
+100389,2025-10-03,1,25-34 Years,Female,Ahmedabad,Value Seeker
+100390,2025-10-03,2,25-34 Years,Female,Chandigarh,Occasional Gifter
+100391,2025-10-03,3,45-54 Years,Female,Chennai,Value Seeker
+100392,2025-10-03,3,45-54 Years,Female,Delhi,Mid-Market
+100393,2025-10-03,3,35-44 Years,Female,Kolkata,Occasional Gifter
+100394,2025-10-03,6,18-24 Years,Male,Ahmedabad,Mid-Market
+100395,2025-10-04,1,35-44 Years,Male,Hyderabad,Mid-Market
+100396,2025-10-04,1,18-24 Years,Female,Mumbai,Premium
+100397,2025-10-04,2,25-34 Years,Female,Lucknow,Mid-Market
+100398,2025-10-04,1,18-24 Years,Female,Chandigarh,Value Seeker
+100399,2025-10-04,2,25-34 Years,Female,Bengaluru,Premium
+100400,2025-10-04,4,25-34 Years,Female,Delhi,Value Seeker
+100401,2025-10-05,3,35-44 Years,Female,Bengaluru,Mid-Market
+100402,2025-10-05,2,35-44 Years,Female,Mumbai,Value Seeker
+100403,2025-10-05,4,18-24 Years,Male,Bengaluru,Value Seeker
+100404,2025-10-05,3,25-34 Years,Male,Kolkata,Occasional Gifter
+100405,2025-10-05,1,18-24 Years,Female,Ahmedabad,Value Seeker
+100406,2025-10-05,3,25-34 Years,Female,Ahmedabad,Mid-Market
+100407,2025-10-05,4,18-24 Years,Male,Chennai,Occasional Gifter
+100408,2025-10-05,1,25-34 Years,Male,Delhi,Mid-Market
+100409,2025-10-05,4,45-54 Years,Male,Hyderabad,Value Seeker
+100410,2025-10-05,1,25-34 Years,Male,Bengaluru,Mid-Market
+100411,2025-10-05,1,25-34 Years,Male,Delhi,Mid-Market
+100412,2025-10-05,2,25-34 Years,Female,Mumbai,Value Seeker
+100413,2025-10-05,2,35-44 Years,Female,Hyderabad,Occasional Gifter
+100414,2025-10-05,2,45-54 Years,Female,Bengaluru,Mid-Market
+100415,2025-10-05,2,25-34 Years,Male,Delhi,Value Seeker
+100416,2025-10-05,4,35-44 Years,Female,Delhi,Mid-Market
+100417,2025-10-05,3,35-44 Years,Other,Chennai,Premium
+100418,2025-10-05,2,25-34 Years,Female,Chennai,Mid-Market
+100419,2025-10-06,6,45-54 Years,Male,Mumbai,Premium
+100420,2025-10-06,3,18-24 Years,Male,Chandigarh,Mid-Market
+100421,2025-10-06,1,25-34 Years,Female,Ahmedabad,Mid-Market
+100422,2025-10-06,3,25-34 Years,Female,Bengaluru,Mid-Market
+100423,2025-10-06,6,45-54 Years,Male,Mumbai,Mid-Market
+100424,2025-10-06,3,35-44 Years,Female,Delhi,Mid-Market
+100425,2025-10-06,1,25-34 Years,Female,Chennai,Premium
+100426,2025-10-06,3,25-34 Years,Male,Kolkata,Mid-Market
+100427,2025-10-06,3,45-54 Years,Male,Mumbai,Value Seeker
+100428,2025-10-06,1,18-24 Years,Female,Pune,Mid-Market
+100429,2025-10-06,2,25-34 Years,Female,Pune,Mid-Market
+100430,2025-10-06,6,25-34 Years,Male,Ahmedabad,Value Seeker
+100431,2025-10-06,2,45-54 Years,Female,Kolkata,Mid-Market
+100432,2025-10-06,8,18-24 Years,Male,Bengaluru,Mid-Market
+100433,2025-10-06,2,45-54 Years,Female,Bengaluru,Premium
+100434,2025-10-06,4,35-44 Years,Female,Pune,Value Seeker
+100435,2025-10-06,6,18-24 Years,Male,Chennai,Value Seeker
+100436,2025-10-07,1,25-34 Years,Female,Pune,Mid-Market
+100437,2025-10-07,2,18-24 Years,Female,Lucknow,Occasional Gifter
+100438,2025-10-07,2,25-34 Years,Male,Mumbai,Mid-Market
+100439,2025-10-07,4,25-34 Years,Male,Delhi,Mid-Market
+100440,2025-10-07,7,25-34 Years,Female,Pune,Value Seeker
+100441,2025-10-07,6,45-54 Years,Male,Mumbai,Value Seeker
+100442,2025-10-07,1,35-44 Years,Female,Delhi,Mid-Market
+100443,2025-10-07,2,35-44 Years,Male,Delhi,Mid-Market
+100444,2025-10-08,1,25-34 Years,Male,Delhi,Value Seeker
+100445,2025-10-08,2,25-34 Years,Male,Bengaluru,Occasional Gifter
+100446,2025-10-08,2,25-34 Years,Female,Bengaluru,Mid-Market
+100447,2025-10-08,3,18-24 Years,Male,Kolkata,Value Seeker
+100448,2025-10-08,4,25-34 Years,Female,Pune,Value Seeker
+100449,2025-10-08,1,25-34 Years,Male,Hyderabad,Value Seeker
+100450,2025-10-08,3,18-24 Years,Female,Mumbai,Mid-Market
+100451,2025-10-08,3,25-34 Years,Female,Pune,Value Seeker
+100452,2025-10-08,1,55+ Years,Male,Delhi,Mid-Market
+100453,2025-10-08,1,18-24 Years,Female,Kochi,Value Seeker
+100454,2025-10-08,3,18-24 Years,Female,Pune,Premium
+100455,2025-10-08,4,45-54 Years,Female,Hyderabad,Value Seeker
+100456,2025-10-08,2,35-44 Years,Male,Hyderabad,Occasional Gifter
+100457,2025-10-08,4,25-34 Years,Male,Bengaluru,Occasional Gifter
+100458,2025-10-08,1,25-34 Years,Male,Pune,Premium
+100459,2025-10-08,7,18-24 Years,Male,Mumbai,Mid-Market
+100460,2025-10-08,6,25-34 Years,Male,Chandigarh,Value Seeker
+100461,2025-10-08,2,45-54 Years,Male,Pune,Mid-Market
+100462,2025-10-08,6,18-24 Years,Female,Chennai,Value Seeker
+100463,2025-10-08,6,45-54 Years,Male,Bengaluru,Value Seeker
+100464,2025-10-08,2,35-44 Years,Male,Ahmedabad,Value Seeker
+100465,2025-10-08,6,25-34 Years,Female,Hyderabad,Value Seeker
+100466,2025-10-09,3,45-54 Years,Female,Mumbai,Mid-Market
+100467,2025-10-09,1,55+ Years,Male,Ahmedabad,Mid-Market
+100468,2025-10-09,1,18-24 Years,Female,Delhi,Occasional Gifter
+100469,2025-10-09,1,45-54 Years,Female,Delhi,Mid-Market
+100470,2025-10-09,1,25-34 Years,Male,Bengaluru,Value Seeker
+100471,2025-10-09,1,25-34 Years,Male,Kochi,Occasional Gifter
+100472,2025-10-09,2,25-34 Years,Male,Delhi,Mid-Market
+100473,2025-10-09,1,35-44 Years,Female,Hyderabad,Value Seeker
+100474,2025-10-09,2,25-34 Years,Male,Bengaluru,Mid-Market
+100475,2025-10-09,2,25-34 Years,Male,Mumbai,Value Seeker
+100476,2025-10-09,2,25-34 Years,Male,Kochi,Value Seeker
+100477,2025-10-09,4,35-44 Years,Female,Lucknow,Occasional Gifter
+100478,2025-10-09,4,25-34 Years,Male,Hyderabad,Occasional Gifter
+100479,2025-10-10,1,25-34 Years,Female,Ahmedabad,Premium
+100480,2025-10-10,1,45-54 Years,Male,Hyderabad,Mid-Market
+100481,2025-10-10,1,35-44 Years,Female,Bengaluru,Value Seeker
+100482,2025-10-10,1,25-34 Years,Female,Delhi,Value Seeker
+100483,2025-10-10,2,25-34 Years,Female,Bengaluru,Premium
+100484,2025-10-10,4,18-24 Years,Female,Delhi,Occasional Gifter
+100485,2025-10-10,1,25-34 Years,Female,Chennai,Value Seeker
+100486,2025-10-10,1,25-34 Years,Male,Mumbai,Value Seeker
+100487,2025-10-10,1,25-34 Years,Female,Delhi,Premium
+100488,2025-10-10,1,25-34 Years,Female,Jaipur,Premium
+100489,2025-10-10,1,18-24 Years,Female,Kochi,Value Seeker
+100490,2025-10-10,2,45-54 Years,Male,Kolkata,Premium
+100491,2025-10-10,2,25-34 Years,Female,Ahmedabad,Occasional Gifter
+100492,2025-10-10,3,25-34 Years,Female,Delhi,Mid-Market
+100493,2025-10-10,2,25-34 Years,Female,Kochi,Mid-Market
+100494,2025-10-10,2,25-34 Years,Female,Kolkata,Mid-Market
+100495,2025-10-10,2,18-24 Years,Male,Chandigarh,Value Seeker
+100496,2025-10-10,1,45-54 Years,Female,Chandigarh,Mid-Market
+100497,2025-10-10,2,45-54 Years,Female,Chennai,Value Seeker
+100498,2025-10-10,2,25-34 Years,Male,Delhi,Mid-Market
+100499,2025-10-10,4,25-34 Years,Female,Chennai,Value Seeker
+100500,2025-10-11,2,55+ Years,Male,Bengaluru,Mid-Market
+100501,2025-10-11,1,45-54 Years,Female,Mumbai,Value Seeker
+100502,2025-10-11,2,25-34 Years,Female,Delhi,Occasional Gifter
+100503,2025-10-11,4,18-24 Years,Male,Delhi,Value Seeker
+100504,2025-10-11,2,25-34 Years,Male,Bengaluru,Mid-Market
+100505,2025-10-11,1,25-34 Years,Female,Mumbai,Mid-Market
+100506,2025-10-11,1,18-24 Years,Male,Pune,Mid-Market
+100507,2025-10-11,1,25-34 Years,Female,Hyderabad,Mid-Market
+100508,2025-10-11,1,25-34 Years,Male,Pune,Value Seeker
+100509,2025-10-11,1,45-54 Years,Female,Bengaluru,Mid-Market
+100510,2025-10-11,2,25-34 Years,Female,Delhi,Value Seeker
+100511,2025-10-11,1,18-24 Years,Male,Delhi,Mid-Market
+100512,2025-10-11,2,18-24 Years,Female,Delhi,Occasional Gifter
+100513,2025-10-11,2,25-34 Years,Female,Delhi,Mid-Market
+100514,2025-10-11,2,25-34 Years,Female,Bengaluru,Value Seeker
+100515,2025-10-11,1,18-24 Years,Male,Delhi,Premium
+100516,2025-10-11,2,45-54 Years,Female,Mumbai,Value Seeker
+100517,2025-10-11,4,18-24 Years,Female,Bengaluru,Occasional Gifter
+100518,2025-10-11,4,35-44 Years,Female,Kolkata,Value Seeker
+100519,2025-10-11,4,18-24 Years,Female,Delhi,Mid-Market
+100520,2025-10-11,4,18-24 Years,Male,Lucknow,Premium
+100521,2025-10-12,1,45-54 Years,Female,Chandigarh,Mid-Market
+100522,2025-10-12,4,25-34 Years,Female,Kochi,Occasional Gifter
+100523,2025-10-12,2,35-44 Years,Female,Delhi,Occasional Gifter
+100524,2025-10-12,1,25-34 Years,Male,Bengaluru,Value Seeker
+100525,2025-10-12,1,18-24 Years,Female,Chandigarh,Occasional Gifter
+100526,2025-10-12,1,45-54 Years,Male,Delhi,Occasional Gifter
+100527,2025-10-12,2,35-44 Years,Male,Ahmedabad,Value Seeker
+100528,2025-10-12,4,35-44 Years,Male,Mumbai,Value Seeker
+100529,2025-10-12,1,25-34 Years,Female,Chennai,Premium
+100530,2025-10-12,1,25-34 Years,Female,Ahmedabad,Mid-Market
+100531,2025-10-12,7,55+ Years,Female,Delhi,Premium
+100532,2025-10-12,2,18-24 Years,Female,Chennai,Mid-Market
+100533,2025-10-12,3,18-24 Years,Male,Chennai,Mid-Market
+100534,2025-10-12,2,25-34 Years,Female,Chennai,Occasional Gifter
+100535,2025-10-12,1,25-34 Years,Male,Bengaluru,Value Seeker
+100536,2025-10-12,2,25-34 Years,Female,Hyderabad,Value Seeker
+100537,2025-10-12,2,35-44 Years,Female,Chennai,Premium
+100538,2025-10-12,6,25-34 Years,Female,Kochi,Mid-Market
+100539,2025-10-12,2,35-44 Years,Female,Delhi,Occasional Gifter
+100540,2025-10-12,4,18-24 Years,Female,Mumbai,Occasional Gifter
+100541,2025-10-12,3,18-24 Years,Female,Chandigarh,Premium
+100542,2025-10-12,6,18-24 Years,Female,Mumbai,Value Seeker
+100543,2025-10-13,3,25-34 Years,Male,Bengaluru,Value Seeker
+100544,2025-10-13,1,55+ Years,Female,Kolkata,Mid-Market
+100545,2025-10-13,1,25-34 Years,Female,Bengaluru,Premium
+100546,2025-10-13,1,25-34 Years,Male,Bengaluru,Mid-Market
+100547,2025-10-13,3,35-44 Years,Female,Kolkata,Value Seeker
+100548,2025-10-13,1,25-34 Years,Female,Kolkata,Mid-Market
+100549,2025-10-13,2,18-24 Years,Female,Mumbai,Mid-Market
+100550,2025-10-13,4,18-24 Years,Male,Kolkata,Mid-Market
+100551,2025-10-13,2,55+ Years,Male,Hyderabad,Value Seeker
+100552,2025-10-13,2,55+ Years,Female,Bengaluru,Premium
+100553,2025-10-13,2,45-54 Years,Female,Jaipur,Mid-Market
+100554,2025-10-13,6,25-34 Years,Female,Chennai,Value Seeker
+100555,2025-10-13,2,45-54 Years,Female,Delhi,Premium
+100556,2025-10-13,2,25-34 Years,Male,Delhi,Value Seeker
+100557,2025-10-13,2,35-44 Years,Male,Chandigarh,Mid-Market
+100558,2025-10-13,1,35-44 Years,Male,Hyderabad,Mid-Market
+100559,2025-10-13,2,18-24 Years,Male,Chandigarh,Occasional Gifter
+100560,2025-10-13,2,45-54 Years,Female,Delhi,Premium
+100561,2025-10-13,4,25-34 Years,Female,Mumbai,Occasional Gifter
+100562,2025-10-13,4,18-24 Years,Male,Mumbai,Premium
+100563,2025-10-13,4,55+ Years,Male,Hyderabad,Value Seeker
+100564,2025-10-13,4,25-34 Years,Female,Ahmedabad,Value Seeker
+100565,2025-10-13,2,25-34 Years,Male,Mumbai,Premium
+100566,2025-10-13,2,18-24 Years,Female,Jaipur,Occasional Gifter
+100567,2025-10-13,6,45-54 Years,Female,Delhi,Mid-Market
+100568,2025-10-14,1,25-34 Years,Male,Delhi,Mid-Market
+100569,2025-10-14,1,25-34 Years,Male,Hyderabad,Occasional Gifter
+100570,2025-10-14,1,55+ Years,Male,Hyderabad,Value Seeker
+100571,2025-10-14,1,25-34 Years,Male,Mumbai,Value Seeker
+100572,2025-10-14,1,35-44 Years,Female,Pune,Mid-Market
+100573,2025-10-14,1,25-34 Years,Female,Hyderabad,Premium
+100574,2025-10-14,1,25-34 Years,Female,Delhi,Value Seeker
+100575,2025-10-14,1,25-34 Years,Female,Chandigarh,Value Seeker
+100576,2025-10-14,2,25-34 Years,Male,Delhi,Mid-Market
+100577,2025-10-14,4,18-24 Years,Female,Bengaluru,Mid-Market
+100578,2025-10-14,5,35-44 Years,Male,Pune,Mid-Market
+100579,2025-10-14,7,25-34 Years,Female,Delhi,Mid-Market
+100580,2025-10-15,1,55+ Years,Female,Bengaluru,Value Seeker
+100581,2025-10-15,6,25-34 Years,Female,Delhi,Occasional Gifter
+100582,2025-10-15,1,18-24 Years,Male,Mumbai,Mid-Market
+100583,2025-10-15,4,25-34 Years,Female,Bengaluru,Occasional Gifter
+100584,2025-10-15,4,35-44 Years,Male,Mumbai,Occasional Gifter
+100585,2025-10-15,1,35-44 Years,Male,Pune,Value Seeker
+100586,2025-10-15,1,25-34 Years,Male,Chennai,Mid-Market
+100587,2025-10-15,1,18-24 Years,Male,Mumbai,Premium
+100588,2025-10-15,1,45-54 Years,Male,Jaipur,Occasional Gifter
+100589,2025-10-15,1,25-34 Years,Male,Bengaluru,Mid-Market
+100590,2025-10-15,2,25-34 Years,Female,Chandigarh,Value Seeker
+100591,2025-10-15,2,25-34 Years,Male,Mumbai,Occasional Gifter
+100592,2025-10-15,2,25-34 Years,Female,Bengaluru,Occasional Gifter
+100593,2025-10-15,2,25-34 Years,Female,Chennai,Mid-Market
+100594,2025-10-15,2,25-34 Years,Male,Chandigarh,Mid-Market
+100595,2025-10-15,4,18-24 Years,Male,Mumbai,Mid-Market
+100596,2025-10-15,6,45-54 Years,Female,Kolkata,Premium
+100597,2025-10-15,3,25-34 Years,Female,Delhi,Value Seeker
+100598,2025-10-16,2,18-24 Years,Male,Delhi,Mid-Market
+100599,2025-10-16,2,45-54 Years,Female,Bengaluru,Occasional Gifter
+100600,2025-10-16,2,18-24 Years,Female,Mumbai,Mid-Market
+100601,2025-10-16,1,18-24 Years,Female,Chennai,Mid-Market
+100602,2025-10-16,1,35-44 Years,Female,Kolkata,Value Seeker
+100603,2025-10-16,1,18-24 Years,Female,Mumbai,Mid-Market
+100604,2025-10-16,2,55+ Years,Female,Kolkata,Occasional Gifter
+100605,2025-10-16,3,25-34 Years,Female,Delhi,Occasional Gifter
+100606,2025-10-16,2,25-34 Years,Female,Jaipur,Premium
+100607,2025-10-16,2,18-24 Years,Female,Mumbai,Mid-Market
+100608,2025-10-16,2,18-24 Years,Male,Bengaluru,Value Seeker
+100609,2025-10-16,3,25-34 Years,Female,Ahmedabad,Value Seeker
+100610,2025-10-16,1,45-54 Years,Male,Kolkata,Occasional Gifter
+100611,2025-10-16,6,25-34 Years,Male,Hyderabad,Mid-Market
+100612,2025-10-16,6,55+ Years,Female,Kolkata,Value Seeker
+100613,2025-10-16,1,35-44 Years,Female,Ahmedabad,Premium
+100614,2025-10-16,1,18-24 Years,Female,Mumbai,Value Seeker
+100615,2025-10-16,6,45-54 Years,Female,Chennai,Mid-Market
+100616,2025-10-17,1,35-44 Years,Female,Bengaluru,Premium
+100617,2025-10-17,1,18-24 Years,Female,Pune,Value Seeker
+100618,2025-10-17,1,35-44 Years,Female,Hyderabad,Mid-Market
+100619,2025-10-17,1,25-34 Years,Male,Bengaluru,Occasional Gifter
+100620,2025-10-17,1,45-54 Years,Male,Bengaluru,Value Seeker
+100621,2025-10-17,1,25-34 Years,Female,Chandigarh,Mid-Market
+100622,2025-10-17,1,25-34 Years,Female,Bengaluru,Mid-Market
+100623,2025-10-17,2,25-34 Years,Male,Delhi,Value Seeker
+100624,2025-10-17,4,25-34 Years,Male,Delhi,Occasional Gifter
+100625,2025-10-17,2,25-34 Years,Male,Jaipur,Value Seeker
+100626,2025-10-17,2,35-44 Years,Male,Delhi,Premium
+100627,2025-10-17,3,18-24 Years,Female,Mumbai,Mid-Market
+100628,2025-10-17,6,18-24 Years,Female,Chennai,Value Seeker
+100629,2025-10-17,2,25-34 Years,Male,Mumbai,Value Seeker
+100630,2025-10-17,2,18-24 Years,Female,Delhi,Value Seeker
+100631,2025-10-17,6,25-34 Years,Male,Delhi,Value Seeker
+100632,2025-10-17,2,25-34 Years,Female,Chennai,Value Seeker
+100633,2025-10-17,1,55+ Years,Male,Chennai,Mid-Market
+100634,2025-10-17,4,18-24 Years,Female,Pune,Occasional Gifter
+100635,2025-10-17,4,25-34 Years,Male,Jaipur,Occasional Gifter
+100636,2025-10-17,4,18-24 Years,Female,Bengaluru,Mid-Market
+100637,2025-10-17,2,25-34 Years,Female,Hyderabad,Premium
+100638,2025-10-17,6,18-24 Years,Female,Chennai,Value Seeker
+100639,2025-10-18,7,25-34 Years,Male,Jaipur,Mid-Market
+100640,2025-10-18,2,18-24 Years,Female,Bengaluru,Occasional Gifter
+100641,2025-10-18,2,35-44 Years,Male,Lucknow,Value Seeker
+100642,2025-10-18,6,35-44 Years,Female,Jaipur,Value Seeker
+100643,2025-10-18,6,18-24 Years,Male,Delhi,Value Seeker
+100644,2025-10-18,4,45-54 Years,Female,Pune,Occasional Gifter
+100645,2025-10-18,1,25-34 Years,Male,Delhi,Mid-Market
+100646,2025-10-18,1,25-34 Years,Male,Ahmedabad,Premium
+100647,2025-10-18,1,18-24 Years,Female,Hyderabad,Mid-Market
+100648,2025-10-18,1,35-44 Years,Male,Ahmedabad,Value Seeker
+100649,2025-10-18,2,55+ Years,Female,Delhi,Mid-Market
+100650,2025-10-18,4,18-24 Years,Male,Ahmedabad,Value Seeker
+100651,2025-10-18,1,35-44 Years,Male,Delhi,Value Seeker
+100652,2025-10-18,1,25-34 Years,Male,Pune,Mid-Market
+100653,2025-10-18,1,45-54 Years,Male,Chandigarh,Mid-Market
+100654,2025-10-18,1,35-44 Years,Male,Pune,Value Seeker
+100655,2025-10-18,1,25-34 Years,Male,Mumbai,Value Seeker
+100656,2025-10-18,1,35-44 Years,Male,Hyderabad,Premium
+100657,2025-10-18,2,25-34 Years,Female,Delhi,Mid-Market
+100658,2025-10-18,2,25-34 Years,Female,Bengaluru,Mid-Market
+100659,2025-10-18,2,55+ Years,Male,Mumbai,Value Seeker
+100660,2025-10-18,2,35-44 Years,Male,Hyderabad,Occasional Gifter
+100661,2025-10-18,4,25-34 Years,Female,Kolkata,Premium
+100662,2025-10-18,1,35-44 Years,Male,Hyderabad,Mid-Market
+100663,2025-10-18,3,25-34 Years,Female,Lucknow,Value Seeker
+100664,2025-10-18,1,35-44 Years,Male,Ahmedabad,Value Seeker
+100665,2025-10-18,2,25-34 Years,Male,Chennai,Premium
+100666,2025-10-18,2,18-24 Years,Female,Delhi,Premium
+100667,2025-10-18,4,35-44 Years,Female,Pune,Occasional Gifter
+100668,2025-10-18,7,18-24 Years,Male,Bengaluru,Mid-Market
+100669,2025-10-18,1,45-54 Years,Male,Hyderabad,Value Seeker
+100670,2025-10-18,2,25-34 Years,Female,Ahmedabad,Premium
+100671,2025-10-18,6,25-34 Years,Female,Jaipur,Value Seeker
+100672,2025-10-18,6,18-24 Years,Male,Kolkata,Value Seeker
+100673,2025-10-19,1,25-34 Years,Male,Mumbai,Occasional Gifter
+100674,2025-10-19,1,18-24 Years,Male,Chennai,Mid-Market
+100675,2025-10-19,1,45-54 Years,Male,Kolkata,Mid-Market
+100676,2025-10-19,2,55+ Years,Female,Pune,Mid-Market
+100677,2025-10-19,2,25-34 Years,Female,Delhi,Mid-Market
+100678,2025-10-19,2,18-24 Years,Male,Delhi,Value Seeker
+100679,2025-10-19,1,25-34 Years,Female,Kolkata,Value Seeker
+100680,2025-10-19,2,35-44 Years,Female,Ahmedabad,Value Seeker
+100681,2025-10-19,1,25-34 Years,Male,Delhi,Value Seeker
+100682,2025-10-19,1,25-34 Years,Female,Delhi,Value Seeker
+100683,2025-10-19,1,18-24 Years,Female,Chandigarh,Mid-Market
+100684,2025-10-19,2,18-24 Years,Female,Bengaluru,Occasional Gifter
+100685,2025-10-19,1,18-24 Years,Male,Chennai,Mid-Market
+100686,2025-10-19,2,25-34 Years,Male,Mumbai,Mid-Market
+100687,2025-10-19,2,25-34 Years,Male,Delhi,Value Seeker
+100688,2025-10-19,1,35-44 Years,Male,Pune,Value Seeker
+100689,2025-10-19,2,25-34 Years,Female,Hyderabad,Premium
+100690,2025-10-19,2,18-24 Years,Male,Chennai,Mid-Market
+100691,2025-10-19,4,18-24 Years,Male,Mumbai,Mid-Market
+100692,2025-10-19,7,25-34 Years,Female,Mumbai,Mid-Market
+100693,2025-10-20,1,25-34 Years,Female,Kolkata,Occasional Gifter
+100694,2025-10-20,1,25-34 Years,Male,Ahmedabad,Occasional Gifter
+100695,2025-10-20,1,25-34 Years,Male,Delhi,Occasional Gifter
+100696,2025-10-20,4,25-34 Years,Female,Mumbai,Occasional Gifter
+100697,2025-10-20,1,35-44 Years,Female,Chennai,Mid-Market
+100698,2025-10-20,1,18-24 Years,Male,Delhi,Mid-Market
+100699,2025-10-20,2,25-34 Years,Female,Lucknow,Occasional Gifter
+100700,2025-10-20,2,25-34 Years,Female,Mumbai,Premium
+100701,2025-10-20,1,55+ Years,Female,Bengaluru,Value Seeker
+100702,2025-10-20,1,35-44 Years,Male,Delhi,Value Seeker
+100703,2025-10-20,2,18-24 Years,Female,Chennai,Value Seeker
+100704,2025-10-20,1,25-34 Years,Female,Mumbai,Value Seeker
+100705,2025-10-20,2,18-24 Years,Female,Hyderabad,Mid-Market
+100706,2025-10-20,2,45-54 Years,Male,Delhi,Value Seeker
+100707,2025-10-20,2,25-34 Years,Male,Chennai,Occasional Gifter
+100708,2025-10-20,4,25-34 Years,Female,Hyderabad,Mid-Market
+100709,2025-10-20,4,35-44 Years,Female,Delhi,Occasional Gifter
+100710,2025-10-20,4,25-34 Years,Female,Mumbai,Premium
+100711,2025-10-20,1,18-24 Years,Female,Delhi,Occasional Gifter
+100712,2025-10-20,4,25-34 Years,Female,Delhi,Mid-Market
+100713,2025-10-20,6,25-34 Years,Male,Delhi,Occasional Gifter
+100714,2025-10-21,1,35-44 Years,Female,Ahmedabad,Occasional Gifter
+100715,2025-10-21,1,45-54 Years,Male,Hyderabad,Value Seeker
+100716,2025-10-21,1,35-44 Years,Male,Chennai,Occasional Gifter
+100717,2025-10-21,1,25-34 Years,Female,Delhi,Value Seeker
+100718,2025-10-21,2,45-54 Years,Female,Pune,Mid-Market
+100719,2025-10-21,1,45-54 Years,Male,Chennai,Value Seeker
+100720,2025-10-21,4,18-24 Years,Male,Pune,Mid-Market
+100721,2025-10-21,2,18-24 Years,Female,Pune,Mid-Market
+100722,2025-10-21,1,18-24 Years,Female,Delhi,Premium
+100723,2025-10-21,1,45-54 Years,Male,Pune,Occasional Gifter
+100724,2025-10-21,1,45-54 Years,Male,Kolkata,Value Seeker
+100725,2025-10-21,1,18-24 Years,Female,Bengaluru,Mid-Market
+100726,2025-10-21,1,18-24 Years,Male,Kochi,Value Seeker
+100727,2025-10-21,1,25-34 Years,Female,Hyderabad,Occasional Gifter
+100728,2025-10-21,1,35-44 Years,Male,Delhi,Value Seeker
+100729,2025-10-21,6,25-34 Years,Female,Kolkata,Mid-Market
+100730,2025-10-21,1,18-24 Years,Female,Delhi,Premium
+100731,2025-10-21,1,25-34 Years,Female,Mumbai,Premium
+100732,2025-10-21,7,18-24 Years,Female,Bengaluru,Mid-Market
+100733,2025-10-21,7,25-34 Years,Male,Kochi,Value Seeker
+100734,2025-10-21,2,25-34 Years,Female,Kolkata,Mid-Market
+100735,2025-10-21,6,18-24 Years,Male,Kolkata,Value Seeker
+100736,2025-10-21,6,35-44 Years,Female,Chennai,Value Seeker
+100737,2025-10-22,1,25-34 Years,Female,Ahmedabad,Value Seeker
+100738,2025-10-22,2,25-34 Years,Male,Pune,Mid-Market
+100739,2025-10-22,1,18-24 Years,Female,Hyderabad,Mid-Market
+100740,2025-10-22,1,18-24 Years,Female,Ahmedabad,Value Seeker
+100741,2025-10-22,4,18-24 Years,Male,Kochi,Value Seeker
+100742,2025-10-22,1,18-24 Years,Male,Kochi,Premium
+100743,2025-10-22,1,35-44 Years,Female,Hyderabad,Mid-Market
+100744,2025-10-22,1,45-54 Years,Male,Hyderabad,Premium
+100745,2025-10-22,1,45-54 Years,Female,Ahmedabad,Value Seeker
+100746,2025-10-22,2,35-44 Years,Male,Chennai,Premium
+100747,2025-10-22,2,18-24 Years,Male,Hyderabad,Mid-Market
+100748,2025-10-22,1,45-54 Years,Female,Mumbai,Value Seeker
+100749,2025-10-22,6,45-54 Years,Female,Delhi,Value Seeker
+100750,2025-10-22,2,18-24 Years,Female,Chennai,Mid-Market
+100751,2025-10-22,6,25-34 Years,Female,Mumbai,Value Seeker
+100752,2025-10-22,4,45-54 Years,Female,Delhi,Mid-Market
+100753,2025-10-23,1,18-24 Years,Female,Lucknow,Value Seeker
+100754,2025-10-23,6,35-44 Years,Female,Mumbai,Value Seeker
+100755,2025-10-23,5,35-44 Years,Female,Pune,Premium
+100756,2025-10-23,1,18-24 Years,Female,Hyderabad,Mid-Market
+100757,2025-10-23,1,18-24 Years,Female,Mumbai,Mid-Market
+100758,2025-10-23,2,35-44 Years,Female,Delhi,Premium
+100759,2025-10-23,1,18-24 Years,Male,Kolkata,Occasional Gifter
+100760,2025-10-23,2,25-34 Years,Male,Chennai,Value Seeker
+100761,2025-10-23,2,25-34 Years,Male,Chennai,Value Seeker
+100762,2025-10-23,2,35-44 Years,Male,Pune,Premium
+100763,2025-10-23,2,25-34 Years,Male,Mumbai,Occasional Gifter
+100764,2025-10-23,2,35-44 Years,Male,Bengaluru,Mid-Market
+100765,2025-10-23,6,25-34 Years,Female,Mumbai,Value Seeker
+100766,2025-10-24,1,25-34 Years,Male,Pune,Mid-Market
+100767,2025-10-24,1,45-54 Years,Male,Mumbai,Value Seeker
+100768,2025-10-24,1,25-34 Years,Male,Mumbai,Value Seeker
+100769,2025-10-24,5,18-24 Years,Female,Chennai,Value Seeker
+100770,2025-10-24,6,25-34 Years,Female,Delhi,Value Seeker
+100771,2025-10-24,6,25-34 Years,Female,Kochi,Value Seeker
+100772,2025-10-25,6,25-34 Years,Female,Hyderabad,Premium
+100773,2025-10-25,1,45-54 Years,Male,Hyderabad,Premium
+100774,2025-10-25,1,45-54 Years,Male,Chennai,Value Seeker
+100775,2025-10-25,4,18-24 Years,Male,Kochi,Value Seeker
+100776,2025-10-25,6,25-34 Years,Female,Bengaluru,Value Seeker
+100777,2025-10-25,1,25-34 Years,Female,Delhi,Premium
+100778,2025-10-25,4,18-24 Years,Male,Chennai,Value Seeker
+100779,2025-10-25,1,45-54 Years,Female,Hyderabad,Mid-Market
+100780,2025-10-26,1,35-44 Years,Female,Delhi,Occasional Gifter
+100781,2025-10-26,2,25-34 Years,Female,Kochi,Premium
+100782,2025-10-26,2,45-54 Years,Female,Chennai,Mid-Market
+100783,2025-10-26,1,25-34 Years,Female,Chennai,Mid-Market
+100784,2025-10-26,6,25-34 Years,Female,Delhi,Value Seeker
+100785,2025-10-26,2,25-34 Years,Female,Kochi,Value Seeker
+100786,2025-10-28,4,25-34 Years,Male,Pune,Mid-Market
+100787,2025-10-29,1,25-34 Years,Female,Delhi,Mid-Market
+100788,2025-10-29,1,18-24 Years,Male,Bengaluru,Premium
+100789,2025-10-29,6,18-24 Years,Female,Mumbai,Value Seeker
+100790,2025-10-30,2,25-34 Years,Female,Mumbai,Occasional Gifter
+100791,2025-10-30,4,35-44 Years,Female,Mumbai,Mid-Market
+100792,2025-10-31,1,55+ Years,Female,Mumbai,Mid-Market
+100793,2025-10-31,5,45-54 Years,Female,Chennai,Mid-Market
+100794,2025-10-31,1,25-34 Years,Male,Hyderabad,Mid-Market
+100795,2025-11-01,1,35-44 Years,Female,Kolkata,Premium
+100796,2025-11-01,2,18-24 Years,Female,Pune,Premium
+100797,2025-11-01,2,25-34 Years,Female,Mumbai,Value Seeker
+100798,2025-11-01,1,25-34 Years,Male,Pune,Premium
+100799,2025-11-01,2,45-54 Years,Female,Mumbai,Mid-Market
+100800,2025-11-01,6,25-34 Years,Male,Mumbai,Mid-Market
+100801,2025-11-02,1,25-34 Years,Male,Bengaluru,Value Seeker
+100802,2025-11-02,2,18-24 Years,Other,Chennai,Value Seeker
+100803,2025-11-02,1,25-34 Years,Female,Kolkata,Premium
+100804,2025-11-02,2,25-34 Years,Female,Lucknow,Mid-Market
+100805,2025-11-02,1,25-34 Years,Female,Kolkata,Value Seeker
+100806,2025-11-03,4,35-44 Years,Male,Jaipur,Mid-Market
+100807,2025-11-03,1,25-34 Years,Male,Pune,Mid-Market
+100808,2025-11-03,2,25-34 Years,Female,Pune,Premium
+100809,2025-11-03,2,45-54 Years,Female,Ahmedabad,Mid-Market
+100810,2025-11-04,2,25-34 Years,Female,Kolkata,Premium
+100811,2025-11-04,3,18-24 Years,Male,Kolkata,Mid-Market
+100812,2025-11-04,2,18-24 Years,Female,Jaipur,Mid-Market
+100813,2025-11-04,2,25-34 Years,Female,Bengaluru,Mid-Market
+100814,2025-11-04,1,25-34 Years,Female,Ahmedabad,Premium
+100815,2025-11-05,1,55+ Years,Female,Bengaluru,Value Seeker
+100816,2025-11-05,6,45-54 Years,Female,Pune,Value Seeker
+100817,2025-11-05,4,25-34 Years,Male,Jaipur,Mid-Market
+100818,2025-11-05,2,35-44 Years,Female,Bengaluru,Mid-Market
+100819,2025-11-06,1,18-24 Years,Male,Mumbai,Mid-Market
+100820,2025-11-06,1,35-44 Years,Male,Hyderabad,Premium
+100821,2025-11-06,1,45-54 Years,Male,Hyderabad,Mid-Market
+100822,2025-11-06,4,18-24 Years,Female,Hyderabad,Premium
+100823,2025-11-06,2,25-34 Years,Female,Chennai,Premium
+100824,2025-11-07,4,25-34 Years,Female,Kolkata,Premium
+100825,2025-11-08,1,55+ Years,Female,Delhi,Occasional Gifter
+100826,2025-11-08,1,18-24 Years,Female,Chennai,Value Seeker
+100827,2025-11-08,1,35-44 Years,Female,Chennai,Mid-Market
+100828,2025-11-08,1,35-44 Years,Female,Kochi,Value Seeker
+100829,2025-11-08,1,55+ Years,Female,Kolkata,Mid-Market
+100830,2025-11-08,1,18-24 Years,Female,Mumbai,Mid-Market
+100831,2025-11-08,2,35-44 Years,Female,Kolkata,Mid-Market
+100832,2025-11-08,3,25-34 Years,Male,Mumbai,Mid-Market
+100833,2025-11-09,3,25-34 Years,Male,Delhi,Mid-Market
+100834,2025-11-10,5,18-24 Years,Male,Hyderabad,Mid-Market
+100835,2025-11-10,1,25-34 Years,Male,Kochi,Occasional Gifter
+100836,2025-11-10,1,18-24 Years,Other,Chennai,Value Seeker
+100837,2025-11-10,3,25-34 Years,Male,Pune,Mid-Market
+100838,2025-11-10,1,25-34 Years,Female,Bengaluru,Value Seeker
+100839,2025-11-10,2,35-44 Years,Male,Bengaluru,Value Seeker
+100840,2025-11-11,1,45-54 Years,Female,Mumbai,Value Seeker
+100841,2025-11-11,1,35-44 Years,Female,Hyderabad,Value Seeker
+100842,2025-11-11,2,45-54 Years,Female,Jaipur,Mid-Market
+100843,2025-11-11,1,35-44 Years,Female,Lucknow,Occasional Gifter
+100844,2025-11-11,1,25-34 Years,Male,Chennai,Value Seeker
+100845,2025-11-12,2,45-54 Years,Female,Mumbai,Mid-Market
+100846,2025-11-12,1,25-34 Years,Male,Chennai,Occasional Gifter
+100847,2025-11-12,5,18-24 Years,Male,Ahmedabad,Mid-Market
+100848,2025-11-13,3,25-34 Years,Male,Delhi,Mid-Market
+100849,2025-11-13,2,35-44 Years,Male,Mumbai,Mid-Market
+100850,2025-11-13,2,35-44 Years,Female,Jaipur,Occasional Gifter
+100851,2025-11-13,1,25-34 Years,Female,Delhi,Value Seeker
+100852,2025-11-13,2,25-34 Years,Female,Kolkata,Value Seeker
+100853,2025-11-13,1,18-24 Years,Female,Bengaluru,Mid-Market
+100854,2025-11-13,2,25-34 Years,Female,Mumbai,Mid-Market
+100855,2025-11-14,1,35-44 Years,Male,Delhi,Premium
+100856,2025-11-14,2,25-34 Years,Female,Chandigarh,Value Seeker
+100857,2025-11-14,1,25-34 Years,Male,Delhi,Value Seeker
+100858,2025-11-15,1,35-44 Years,Male,Chennai,Occasional Gifter
+100859,2025-11-15,2,25-34 Years,Female,Chennai,Value Seeker
+100860,2025-11-15,2,18-24 Years,Male,Pune,Mid-Market
+100861,2025-11-15,2,35-44 Years,Male,Mumbai,Premium
+100862,2025-11-15,3,55+ Years,Male,Delhi,Mid-Market
+100863,2025-11-16,1,55+ Years,Male,Bengaluru,Mid-Market
+100864,2025-11-16,1,35-44 Years,Male,Kolkata,Occasional Gifter
+100865,2025-11-16,4,18-24 Years,Female,Kolkata,Value Seeker
+100866,2025-11-17,1,25-34 Years,Male,Jaipur,Value Seeker
+100867,2025-11-17,4,25-34 Years,Female,Ahmedabad,Mid-Market
+100868,2025-11-17,1,25-34 Years,Male,Chennai,Mid-Market
+100869,2025-11-18,1,18-24 Years,Male,Bengaluru,Value Seeker
+100870,2025-11-18,6,35-44 Years,Male,Mumbai,Value Seeker
+100871,2025-11-18,3,45-54 Years,Male,Delhi,Value Seeker
+100872,2025-11-19,1,18-24 Years,Other,Chennai,Value Seeker
+100873,2025-11-19,2,35-44 Years,Male,Chandigarh,Mid-Market
+100874,2025-11-19,4,18-24 Years,Female,Pune,Value Seeker
+100875,2025-11-20,1,25-34 Years,Male,Delhi,Value Seeker
+100876,2025-11-20,2,25-34 Years,Male,Kolkata,Mid-Market
+100877,2025-11-20,2,25-34 Years,Male,Lucknow,Mid-Market
+100878,2025-11-20,1,18-24 Years,Female,Chandigarh,Occasional Gifter
+100879,2025-11-20,1,18-24 Years,Male,Hyderabad,Occasional Gifter
+100880,2025-11-20,4,18-24 Years,Male,Mumbai,Value Seeker
+100881,2025-11-20,1,25-34 Years,Male,Pune,Occasional Gifter
+100882,2025-11-20,1,25-34 Years,Male,Bengaluru,Premium
+100883,2025-11-20,1,35-44 Years,Female,Hyderabad,Mid-Market
+100884,2025-11-20,1,25-34 Years,Female,Kolkata,Mid-Market
+100885,2025-11-20,2,35-44 Years,Male,Hyderabad,Premium
+100886,2025-11-20,2,55+ Years,Female,Mumbai,Mid-Market
+100887,2025-11-21,1,35-44 Years,Female,Jaipur,Premium
+100888,2025-11-21,2,45-54 Years,Female,Chennai,Value Seeker
+100889,2025-11-21,5,18-24 Years,Female,Kolkata,Occasional Gifter
+100890,2025-11-21,1,18-24 Years,Male,Chandigarh,Value Seeker
+100891,2025-11-21,2,25-34 Years,Male,Kolkata,Premium
+100892,2025-11-21,1,25-34 Years,Male,Chennai,Mid-Market
+100893,2025-11-21,1,45-54 Years,Female,Kolkata,Premium
+100894,2025-11-21,1,55+ Years,Female,Hyderabad,Mid-Market
+100895,2025-11-21,1,18-24 Years,Male,Pune,Occasional Gifter
+100896,2025-11-21,1,25-34 Years,Male,Chandigarh,Mid-Market
+100897,2025-11-21,1,25-34 Years,Female,Delhi,Value Seeker
+100898,2025-11-21,1,18-24 Years,Female,Pune,Value Seeker
+100899,2025-11-21,1,25-34 Years,Male,Chandigarh,Occasional Gifter
+100900,2025-11-21,2,35-44 Years,Male,Chennai,Value Seeker
+100901,2025-11-21,3,35-44 Years,Male,Bengaluru,Mid-Market
+100902,2025-11-21,2,25-34 Years,Male,Mumbai,Premium
+100903,2025-11-22,2,18-24 Years,Other,Chennai,Mid-Market
+100904,2025-11-22,1,45-54 Years,Male,Kolkata,Value Seeker
+100905,2025-11-22,1,25-34 Years,Male,Delhi,Premium
+100906,2025-11-22,1,25-34 Years,Female,Mumbai,Value Seeker
+100907,2025-11-22,1,45-54 Years,Male,Mumbai,Occasional Gifter
+100908,2025-11-22,1,35-44 Years,Male,Bengaluru,Mid-Market
+100909,2025-11-22,1,25-34 Years,Female,Jaipur,Mid-Market
+100910,2025-11-22,2,25-34 Years,Female,Ahmedabad,Mid-Market
+100911,2025-11-22,1,35-44 Years,Female,Ahmedabad,Mid-Market
+100912,2025-11-22,2,45-54 Years,Female,Pune,Mid-Market
+100913,2025-11-22,2,25-34 Years,Female,Bengaluru,Value Seeker
+100914,2025-11-22,2,35-44 Years,Female,Delhi,Value Seeker
+100915,2025-11-22,1,18-24 Years,Male,Bengaluru,Value Seeker
+100916,2025-11-23,2,25-34 Years,Female,Hyderabad,Mid-Market
+100917,2025-11-23,1,35-44 Years,Male,Bengaluru,Premium
+100918,2025-11-23,1,25-34 Years,Female,Kolkata,Value Seeker
+100919,2025-11-23,1,25-34 Years,Male,Chandigarh,Mid-Market
+100920,2025-11-23,1,25-34 Years,Male,Pune,Premium
+100921,2025-11-23,1,45-54 Years,Female,Mumbai,Value Seeker
+100922,2025-11-23,2,55+ Years,Female,Delhi,Mid-Market
+100923,2025-11-23,2,25-34 Years,Male,Delhi,Value Seeker
+100924,2025-11-24,2,25-34 Years,Female,Ahmedabad,Mid-Market
+100925,2025-11-24,3,25-34 Years,Male,Chennai,Premium
+100926,2025-11-24,2,25-34 Years,Male,Chennai,Value Seeker
+100927,2025-11-24,1,35-44 Years,Female,Mumbai,Premium
+100928,2025-11-24,4,35-44 Years,Female,Delhi,Premium
+100929,2025-11-24,1,25-34 Years,Female,Mumbai,Premium
+100930,2025-11-24,2,25-34 Years,Male,Chennai,Value Seeker
+100931,2025-11-24,2,25-34 Years,Female,Delhi,Premium
+100932,2025-11-24,2,25-34 Years,Female,Hyderabad,Value Seeker
+100933,2025-11-24,1,25-34 Years,Female,Delhi,Mid-Market
+100934,2025-11-24,2,35-44 Years,Male,Hyderabad,Value Seeker
+100935,2025-11-24,2,35-44 Years,Female,Mumbai,Premium
+100936,2025-11-24,5,25-34 Years,Male,Mumbai,Value Seeker
+100937,2025-11-24,2,25-34 Years,Female,Kochi,Value Seeker
+100938,2025-11-25,1,25-34 Years,Male,Hyderabad,Mid-Market
+100939,2025-11-25,2,25-34 Years,Male,Mumbai,Occasional Gifter
+100940,2025-11-25,1,35-44 Years,Male,Bengaluru,Mid-Market
+100941,2025-11-25,1,45-54 Years,Female,Ahmedabad,Premium
+100942,2025-11-25,2,35-44 Years,Female,Delhi,Value Seeker
+100943,2025-11-25,2,35-44 Years,Male,Chennai,Mid-Market
+100944,2025-11-25,6,25-34 Years,Male,Lucknow,Mid-Market
+100945,2025-11-25,1,25-34 Years,Male,Mumbai,Mid-Market
+100946,2025-11-25,1,25-34 Years,Male,Kolkata,Value Seeker
+100947,2025-11-25,1,25-34 Years,Female,Lucknow,Premium
+100948,2025-11-25,6,18-24 Years,Male,Jaipur,Value Seeker
+100949,2025-11-25,5,25-34 Years,Male,Hyderabad,Mid-Market
+100950,2025-11-25,1,18-24 Years,Male,Delhi,Mid-Market
+100951,2025-11-25,2,45-54 Years,Female,Bengaluru,Mid-Market
+100952,2025-11-26,2,25-34 Years,Male,Ahmedabad,Mid-Market
+100953,2025-11-26,5,25-34 Years,Male,Chennai,Value Seeker
+100954,2025-11-26,1,25-34 Years,Female,Bengaluru,Mid-Market
+100955,2025-11-26,3,25-34 Years,Male,Kochi,Value Seeker
+100956,2025-11-26,1,25-34 Years,Male,Pune,Mid-Market
+100957,2025-11-26,1,45-54 Years,Female,Bengaluru,Occasional Gifter
+100958,2025-11-26,2,45-54 Years,Other,Mumbai,Value Seeker
+100959,2025-11-26,3,18-24 Years,Female,Kolkata,Occasional Gifter
+100960,2025-11-26,1,35-44 Years,Male,Kochi,Value Seeker
+100961,2025-11-26,1,35-44 Years,Other,Hyderabad,Occasional Gifter
+100962,2025-11-26,1,35-44 Years,Male,Delhi,Value Seeker
+100963,2025-11-26,1,25-34 Years,Male,Delhi,Mid-Market
+100964,2025-11-26,2,25-34 Years,Male,Hyderabad,Mid-Market
+100965,2025-11-26,4,18-24 Years,Male,Kochi,Occasional Gifter
+100966,2025-11-26,5,25-34 Years,Female,Chandigarh,Mid-Market
+100967,2025-11-26,2,25-34 Years,Male,Delhi,Occasional Gifter
+100968,2025-11-26,2,18-24 Years,Male,Mumbai,Mid-Market
+100969,2025-11-26,5,25-34 Years,Male,Mumbai,Occasional Gifter
+100970,2025-11-26,2,25-34 Years,Female,Mumbai,Value Seeker
+100971,2025-11-26,2,45-54 Years,Male,Kolkata,Occasional Gifter
+100972,2025-11-27,1,55+ Years,Female,Mumbai,Mid-Market
+100973,2025-11-27,1,35-44 Years,Male,Bengaluru,Mid-Market
+100974,2025-11-27,1,18-24 Years,Male,Delhi,Mid-Market
+100975,2025-11-27,5,25-34 Years,Male,Kolkata,Occasional Gifter
+100976,2025-11-27,2,25-34 Years,Female,Delhi,Mid-Market
+100977,2025-11-27,5,25-34 Years,Male,Jaipur,Mid-Market
+100978,2025-11-27,1,18-24 Years,Male,Kolkata,Value Seeker
+100979,2025-11-27,2,55+ Years,Female,Mumbai,Value Seeker
+100980,2025-11-27,3,25-34 Years,Other,Bengaluru,Premium
+100981,2025-11-27,1,45-54 Years,Female,Delhi,Value Seeker
+100982,2025-11-27,1,35-44 Years,Female,Pune,Mid-Market
+100983,2025-11-27,2,35-44 Years,Female,Kochi,Occasional Gifter
+100984,2025-11-27,2,18-24 Years,Male,Hyderabad,Mid-Market
+100985,2025-11-27,2,18-24 Years,Female,Jaipur,Occasional Gifter
+100986,2025-11-27,2,25-34 Years,Male,Mumbai,Premium
+100987,2025-11-27,1,45-54 Years,Female,Chandigarh,Value Seeker
+100988,2025-11-28,1,45-54 Years,Male,Chennai,Mid-Market
+100989,2025-11-28,1,55+ Years,Female,Pune,Value Seeker
+100990,2025-11-28,1,25-34 Years,Male,Kolkata,Mid-Market
+100991,2025-11-28,1,35-44 Years,Female,Chennai,Mid-Market
+100992,2025-11-28,2,25-34 Years,Female,Kochi,Mid-Market
+100993,2025-11-28,1,35-44 Years,Male,Jaipur,Value Seeker
+100994,2025-11-28,1,25-34 Years,Female,Ahmedabad,Premium
+100995,2025-11-28,1,25-34 Years,Female,Chennai,Premium
+100996,2025-11-28,1,18-24 Years,Male,Kolkata,Value Seeker
+100997,2025-11-28,2,18-24 Years,Male,Pune,Mid-Market
+100998,2025-11-28,1,25-34 Years,Female,Pune,Mid-Market
+100999,2025-11-28,1,25-34 Years,Female,Pune,Premium
+101000,2025-11-28,1,18-24 Years,Male,Bengaluru,Mid-Market
+101001,2025-11-28,1,18-24 Years,Male,Hyderabad,Value Seeker
+101002,2025-11-28,1,35-44 Years,Female,Pune,Occasional Gifter
+101003,2025-11-28,5,18-24 Years,Male,Bengaluru,Mid-Market
+101004,2025-11-28,4,18-24 Years,Male,Bengaluru,Premium
+101005,2025-11-28,1,25-34 Years,Male,Chennai,Value Seeker
+101006,2025-11-28,1,25-34 Years,Male,Bengaluru,Value Seeker
+101007,2025-11-28,2,25-34 Years,Male,Delhi,Value Seeker
+101008,2025-11-28,2,18-24 Years,Female,Hyderabad,Premium
+101009,2025-11-28,1,35-44 Years,Female,Delhi,Premium
+101010,2025-11-28,1,35-44 Years,Female,Chennai,Value Seeker
+101011,2025-11-28,1,25-34 Years,Male,Kolkata,Value Seeker
+101012,2025-11-28,2,25-34 Years,Female,Delhi,Occasional Gifter
+101013,2025-11-29,2,18-24 Years,Male,Chennai,Mid-Market
+101014,2025-11-29,2,35-44 Years,Female,Delhi,Value Seeker
+101015,2025-11-29,7,25-34 Years,Male,Hyderabad,Mid-Market
+101016,2025-11-29,1,35-44 Years,Female,Kolkata,Mid-Market
+101017,2025-11-29,1,45-54 Years,Male,Chandigarh,Occasional Gifter
+101018,2025-11-29,1,18-24 Years,Male,Bengaluru,Value Seeker
+101019,2025-11-29,2,25-34 Years,Male,Delhi,Mid-Market
+101020,2025-11-29,1,45-54 Years,Male,Kolkata,Premium
+101021,2025-11-29,2,18-24 Years,Male,Kolkata,Mid-Market
+101022,2025-11-29,2,55+ Years,Female,Pune,Mid-Market
+101023,2025-11-29,2,18-24 Years,Female,Ahmedabad,Value Seeker
+101024,2025-11-29,2,25-34 Years,Female,Mumbai,Premium
+101025,2025-11-29,2,25-34 Years,Female,Mumbai,Mid-Market
+101026,2025-11-29,2,25-34 Years,Female,Hyderabad,Occasional Gifter
+101027,2025-11-29,5,25-34 Years,Male,Kolkata,Mid-Market
+101028,2025-11-29,5,25-34 Years,Female,Bengaluru,Mid-Market
+101029,2025-11-29,5,25-34 Years,Male,Mumbai,Mid-Market
+101030,2025-11-29,5,45-54 Years,Male,Bengaluru,Premium
+101031,2025-11-30,1,35-44 Years,Male,Pune,Mid-Market
+101032,2025-11-30,2,25-34 Years,Female,Mumbai,Mid-Market
+101033,2025-11-30,1,45-54 Years,Female,Bengaluru,Value Seeker
+101034,2025-11-30,8,45-54 Years,Female,Ahmedabad,Mid-Market
+101035,2025-11-30,2,35-44 Years,Female,Ahmedabad,Mid-Market
+101036,2025-11-30,1,55+ Years,Female,Delhi,Premium
+101037,2025-11-30,1,25-34 Years,Female,Lucknow,Value Seeker
+101038,2025-11-30,1,35-44 Years,Male,Kolkata,Value Seeker
+101039,2025-11-30,1,55+ Years,Female,Bengaluru,Mid-Market
+101040,2025-11-30,2,25-34 Years,Male,Bengaluru,Mid-Market
+101041,2025-11-30,2,35-44 Years,Male,Pune,Premium
+101042,2025-11-30,2,25-34 Years,Female,Chandigarh,Mid-Market
+101043,2025-11-30,5,18-24 Years,Male,Bengaluru,Occasional Gifter
+101044,2025-11-30,2,35-44 Years,Male,Delhi,Value Seeker
+101045,2025-11-30,1,25-34 Years,Male,Chennai,Mid-Market
+101046,2025-12-01,2,25-34 Years,Male,Mumbai,Mid-Market
+101047,2025-12-01,5,45-54 Years,Male,Ahmedabad,Mid-Market
+101048,2025-12-01,2,18-24 Years,Female,Chennai,Premium
+101049,2025-12-01,1,35-44 Years,Male,Bengaluru,Mid-Market
+101050,2025-12-01,5,18-24 Years,Male,Bengaluru,Value Seeker
+101051,2025-12-01,1,25-34 Years,Male,Chandigarh,Mid-Market
+101052,2025-12-01,2,35-44 Years,Male,Delhi,Mid-Market
+101053,2025-12-01,2,18-24 Years,Female,Pune,Mid-Market
+101054,2025-12-01,1,35-44 Years,Male,Bengaluru,Premium
+101055,2025-12-01,2,35-44 Years,Male,Bengaluru,Mid-Market
+101056,2025-12-01,1,35-44 Years,Female,Kolkata,Value Seeker
+101057,2025-12-01,1,35-44 Years,Male,Chennai,Value Seeker
+101058,2025-12-01,5,18-24 Years,Male,Delhi,Mid-Market
+101059,2025-12-01,5,18-24 Years,Female,Chennai,Value Seeker
+101060,2025-12-02,1,35-44 Years,Female,Chennai,Occasional Gifter
+101061,2025-12-02,2,25-34 Years,Male,Delhi,Occasional Gifter
+101062,2025-12-02,4,18-24 Years,Female,Delhi,Value Seeker
+101063,2025-12-02,1,55+ Years,Male,Ahmedabad,Occasional Gifter
+101064,2025-12-03,1,25-34 Years,Other,Hyderabad,Premium
+101065,2025-12-03,6,25-34 Years,Female,Kolkata,Value Seeker
+101066,2025-12-04,2,25-34 Years,Male,Delhi,Value Seeker
+101067,2025-12-04,8,35-44 Years,Male,Hyderabad,Occasional Gifter
+101068,2025-12-05,1,25-34 Years,Male,Pune,Premium
+101069,2025-12-05,1,18-24 Years,Male,Kolkata,Mid-Market
+101070,2025-12-05,3,25-34 Years,Male,Delhi,Value Seeker
+101071,2025-12-06,3,35-44 Years,Female,Mumbai,Value Seeker
+101072,2025-12-06,1,45-54 Years,Female,Pune,Mid-Market
+101073,2025-12-07,4,25-34 Years,Male,Chennai,Mid-Market
+101074,2025-12-08,2,35-44 Years,Female,Mumbai,Occasional Gifter
+101075,2025-12-08,6,25-34 Years,Male,Chennai,Premium
+101076,2025-12-08,1,45-54 Years,Male,Mumbai,Premium
+101077,2025-12-08,2,18-24 Years,Female,Kolkata,Mid-Market
+101078,2025-12-08,1,45-54 Years,Male,Chennai,Mid-Market
+101079,2025-12-09,2,25-34 Years,Male,Chennai,Mid-Market
+101080,2025-12-10,2,25-34 Years,Female,Hyderabad,Premium
+101081,2025-12-10,3,18-24 Years,Female,Delhi,Value Seeker
+101082,2025-12-11,2,25-34 Years,Female,Bengaluru,Value Seeker
+101083,2025-12-11,2,25-34 Years,Female,Mumbai,Occasional Gifter
+101084,2025-12-11,1,18-24 Years,Female,Kolkata,Value Seeker
+101085,2025-12-11,1,25-34 Years,Male,Bengaluru,Mid-Market
+101086,2025-12-12,2,25-34 Years,Female,Kolkata,Value Seeker
+101087,2025-12-12,1,45-54 Years,Male,Delhi,Premium
+101088,2025-12-12,1,35-44 Years,Male,Mumbai,Premium
+101089,2025-12-12,1,25-34 Years,Male,Ahmedabad,Value Seeker
+101090,2025-12-12,1,35-44 Years,Male,Bengaluru,Mid-Market
+101091,2025-12-12,1,18-24 Years,Female,Lucknow,Mid-Market
+101092,2025-12-12,2,25-34 Years,Female,Hyderabad,Mid-Market
+101093,2025-12-13,8,25-34 Years,Female,Mumbai,Value Seeker
+101094,2025-12-13,2,25-34 Years,Male,Hyderabad,Value Seeker
+101095,2025-12-14,1,18-24 Years,Male,Mumbai,Value Seeker
+101096,2025-12-14,2,25-34 Years,Male,Pune,Occasional Gifter
+101097,2025-12-14,8,35-44 Years,Female,Mumbai,Value Seeker
+101098,2025-12-15,1,18-24 Years,Male,Mumbai,Mid-Market
+101099,2025-12-15,1,25-34 Years,Male,Hyderabad,Mid-Market
+101100,2025-12-15,8,25-34 Years,Female,Mumbai,Mid-Market
+101101,2025-12-15,6,35-44 Years,Male,Delhi,Value Seeker
+101102,2025-12-16,7,25-34 Years,Male,Delhi,Mid-Market
+101103,2025-12-16,1,45-54 Years,Female,Mumbai,Occasional Gifter
+101104,2025-12-16,1,25-34 Years,Female,Chennai,Value Seeker
+101105,2025-12-16,1,25-34 Years,Male,Lucknow,Value Seeker
+101106,2025-12-16,2,25-34 Years,Female,Kolkata,Mid-Market
+101107,2025-12-16,8,25-34 Years,Female,Mumbai,Value Seeker
+101108,2025-12-16,4,45-54 Years,Male,Kolkata,Premium
+101109,2025-12-17,1,25-34 Years,Male,Ahmedabad,Value Seeker
+101110,2025-12-18,6,35-44 Years,Female,Chennai,Mid-Market
+101111,2025-12-18,1,35-44 Years,Female,Kolkata,Value Seeker
+101112,2025-12-18,2,25-34 Years,Other,Chennai,Occasional Gifter
+101113,2025-12-18,1,55+ Years,Female,Bengaluru,Occasional Gifter
+101114,2025-12-18,6,25-34 Years,Male,Bengaluru,Mid-Market
+101115,2025-12-18,4,18-24 Years,Female,Lucknow,Premium
+101116,2025-12-19,5,25-34 Years,Female,Mumbai,Occasional Gifter
+101117,2025-12-19,8,45-54 Years,Female,Mumbai,Value Seeker
+101118,2025-12-19,4,25-34 Years,Male,Delhi,Value Seeker
+101119,2025-12-19,2,25-34 Years,Female,Ahmedabad,Mid-Market
+101120,2025-12-19,5,18-24 Years,Male,Hyderabad,Mid-Market
+101121,2025-12-19,8,25-34 Years,Male,Hyderabad,Value Seeker
+101122,2025-12-20,2,35-44 Years,Female,Kochi,Premium
+101123,2025-12-20,2,25-34 Years,Male,Mumbai,Mid-Market
+101124,2025-12-20,1,35-44 Years,Female,Delhi,Premium
+101125,2025-12-20,8,35-44 Years,Male,Ahmedabad,Occasional Gifter
+101126,2025-12-20,3,55+ Years,Female,Bengaluru,Premium
+101127,2025-12-20,2,35-44 Years,Male,Bengaluru,Premium
+101128,2025-12-20,8,35-44 Years,Female,Pune,Value Seeker
+101129,2025-12-21,1,18-24 Years,Female,Ahmedabad,Occasional Gifter
+101130,2025-12-21,4,18-24 Years,Male,Bengaluru,Value Seeker
+101131,2025-12-21,8,35-44 Years,Female,Delhi,Value Seeker
+101132,2025-12-21,3,25-34 Years,Male,Mumbai,Mid-Market
+101133,2025-12-21,3,35-44 Years,Male,Delhi,Occasional Gifter
+101134,2025-12-21,3,18-24 Years,Female,Hyderabad,Mid-Market
+101135,2025-12-22,1,35-44 Years,Female,Mumbai,Mid-Market
+101136,2025-12-22,2,25-34 Years,Female,Bengaluru,Occasional Gifter
+101137,2025-12-22,2,18-24 Years,Male,Delhi,Mid-Market
+101138,2025-12-22,6,18-24 Years,Male,Delhi,Value Seeker
+101139,2025-12-22,2,25-34 Years,Female,Bengaluru,Mid-Market
+101140,2025-12-22,3,35-44 Years,Male,Delhi,Mid-Market
+101141,2025-12-23,1,25-34 Years,Female,Pune,Mid-Market
+101142,2025-12-23,2,35-44 Years,Male,Mumbai,Occasional Gifter
+101143,2025-12-23,3,45-54 Years,Male,Bengaluru,Value Seeker
+101144,2025-12-23,3,18-24 Years,Male,Chennai,Mid-Market
+101145,2025-12-23,2,25-34 Years,Male,Delhi,Value Seeker
+101146,2025-12-24,1,45-54 Years,Female,Mumbai,Premium
+101147,2025-12-24,8,25-34 Years,Male,Lucknow,Value Seeker
+101148,2025-12-24,3,45-54 Years,Other,Pune,Value Seeker
+101149,2025-12-24,3,55+ Years,Male,Delhi,Premium
+101150,2025-12-25,3,25-34 Years,Female,Delhi,Value Seeker
+101151,2025-12-25,2,35-44 Years,Male,Bengaluru,Mid-Market
+101152,2025-12-25,2,45-54 Years,Male,Pune,Premium
+101153,2025-12-25,3,55+ Years,Female,Delhi,Occasional Gifter
+101154,2025-12-25,3,18-24 Years,Female,Delhi,Premium
+101155,2025-12-26,1,45-54 Years,Female,Mumbai,Premium
+101156,2025-12-26,1,35-44 Years,Female,Ahmedabad,Mid-Market
+101157,2025-12-26,3,25-34 Years,Female,Kolkata,Value Seeker
+101158,2025-12-26,4,18-24 Years,Male,Delhi,Mid-Market
+101159,2025-12-26,3,45-54 Years,Female,Delhi,Premium
+101160,2025-12-26,3,25-34 Years,Female,Hyderabad,Premium
+101161,2025-12-28,1,25-34 Years,Male,Mumbai,Premium
+101162,2025-12-28,2,25-34 Years,Male,Jaipur,Value Seeker
+101163,2025-12-28,8,25-34 Years,Male,Mumbai,Value Seeker
+101164,2025-12-28,8,18-24 Years,Female,Kochi,Value Seeker
+101165,2025-12-28,8,18-24 Years,Female,Delhi,Mid-Market
+101166,2025-12-28,3,25-34 Years,Male,Chandigarh,Mid-Market
+101167,2025-12-28,2,25-34 Years,Male,Lucknow,Value Seeker
+101168,2025-12-28,3,35-44 Years,Male,Delhi,Value Seeker
+101169,2025-12-29,1,18-24 Years,Male,Mumbai,Premium
+101170,2025-12-29,1,35-44 Years,Female,Mumbai,Value Seeker
+101171,2025-12-29,2,25-34 Years,Male,Delhi,Mid-Market
+101172,2025-12-29,5,35-44 Years,Male,Hyderabad,Occasional Gifter
+101173,2025-12-29,6,35-44 Years,Female,Mumbai,Value Seeker
+101174,2025-12-29,7,25-34 Years,Male,Mumbai,Value Seeker
+101175,2025-12-29,8,25-34 Years,Female,Delhi,Mid-Market
+101176,2025-12-30,1,55+ Years,Male,Mumbai,Value Seeker
+101177,2025-12-30,2,18-24 Years,Female,Delhi,Value Seeker
+101178,2025-12-30,5,35-44 Years,Female,Mumbai,Value Seeker
+101179,2025-12-31,2,25-34 Years,Male,Ahmedabad,Mid-Market
+101180,2025-12-31,8,18-24 Years,Female,Chennai,Value Seeker
+101181,2025-12-31,8,18-24 Years,Female,Delhi,Value Seeker
+101182,2025-12-31,8,25-34 Years,Male,Kolkata,Value Seeker
+101183,2026-01-01,1,25-34 Years,Male,Hyderabad,Premium
+101184,2026-01-01,2,25-34 Years,Male,Delhi,Mid-Market
+101185,2026-01-01,3,25-34 Years,Female,Mumbai,Premium
+101186,2026-01-01,7,55+ Years,Male,Mumbai,Premium
+101187,2026-01-01,1,35-44 Years,Female,Delhi,Mid-Market
+101188,2026-01-02,2,25-34 Years,Female,Mumbai,Value Seeker
+101189,2026-01-02,3,25-34 Years,Female,Chennai,Premium
+101190,2026-01-02,3,18-24 Years,Female,Kolkata,Mid-Market
+101191,2026-01-03,4,18-24 Years,Male,Kolkata,Value Seeker
+101192,2026-01-04,1,18-24 Years,Male,Bengaluru,Occasional Gifter
+101193,2026-01-04,3,18-24 Years,Male,Kolkata,Occasional Gifter
+101194,2026-01-05,3,18-24 Years,Male,Bengaluru,Occasional Gifter
+101195,2026-01-05,3,18-24 Years,Male,Jaipur,Mid-Market
+101196,2026-01-05,1,55+ Years,Male,Chennai,Mid-Market
+101197,2026-01-05,6,35-44 Years,Female,Delhi,Mid-Market
+101198,2026-01-06,1,25-34 Years,Female,Bengaluru,Mid-Market
+101199,2026-01-06,1,35-44 Years,Female,Mumbai,Value Seeker
+101200,2026-01-06,2,35-44 Years,Female,Chandigarh,Value Seeker
+101201,2026-01-06,4,35-44 Years,Male,Mumbai,Value Seeker
+101202,2026-01-06,3,18-24 Years,Male,Kolkata,Mid-Market
+101203,2026-01-06,3,18-24 Years,Female,Bengaluru,Mid-Market
+101204,2026-01-07,1,25-34 Years,Female,Pune,Mid-Market
+101205,2026-01-07,2,35-44 Years,Female,Bengaluru,Premium
+101206,2026-01-07,4,18-24 Years,Male,Chennai,Occasional Gifter
+101207,2026-01-07,1,25-34 Years,Male,Bengaluru,Value Seeker
+101208,2026-01-07,3,35-44 Years,Male,Bengaluru,Mid-Market
+101209,2026-01-08,1,35-44 Years,Male,Mumbai,Value Seeker
+101210,2026-01-08,1,25-34 Years,Male,Delhi,Mid-Market
+101211,2026-01-08,3,25-34 Years,Male,Bengaluru,Mid-Market
+101212,2026-01-09,1,25-34 Years,Female,Delhi,Mid-Market
+101213,2026-01-09,1,45-54 Years,Female,Hyderabad,Mid-Market
+101214,2026-01-09,3,18-24 Years,Male,Chennai,Premium
+101215,2026-01-09,3,45-54 Years,Male,Bengaluru,Value Seeker
+101216,2026-01-10,3,18-24 Years,Male,Bengaluru,Value Seeker
+101217,2026-01-10,1,45-54 Years,Male,Chennai,Premium
+101218,2026-01-10,1,25-34 Years,Male,Bengaluru,Premium
+101219,2026-01-10,3,35-44 Years,Male,Delhi,Premium
+101220,2026-01-10,2,45-54 Years,Male,Bengaluru,Value Seeker
+101221,2026-01-11,1,18-24 Years,Female,Chandigarh,Mid-Market
+101222,2026-01-11,3,25-34 Years,Female,Mumbai,Value Seeker
+101223,2026-01-11,3,25-34 Years,Male,Delhi,Value Seeker
+101224,2026-01-12,2,35-44 Years,Female,Pune,Premium
+101225,2026-01-12,2,25-34 Years,Female,Hyderabad,Value Seeker
+101226,2026-01-12,3,35-44 Years,Female,Jaipur,Value Seeker
+101227,2026-01-13,3,45-54 Years,Female,Hyderabad,Mid-Market
+101228,2026-01-13,2,18-24 Years,Female,Pune,Occasional Gifter
+101229,2026-01-13,4,45-54 Years,Female,Chennai,Mid-Market
+101230,2026-01-13,3,25-34 Years,Female,Delhi,Value Seeker
+101231,2026-01-14,7,35-44 Years,Female,Mumbai,Mid-Market
+101232,2026-01-14,3,25-34 Years,Male,Jaipur,Occasional Gifter
+101233,2026-01-15,1,18-24 Years,Male,Ahmedabad,Occasional Gifter
+101234,2026-01-15,1,45-54 Years,Male,Chandigarh,Occasional Gifter
+101235,2026-01-15,1,18-24 Years,Male,Chennai,Value Seeker
+101236,2026-01-15,1,18-24 Years,Female,Lucknow,Occasional Gifter
+101237,2026-01-15,8,25-34 Years,Female,Mumbai,Mid-Market
+101238,2026-01-16,1,35-44 Years,Male,Bengaluru,Premium
+101239,2026-01-16,3,18-24 Years,Female,Kolkata,Mid-Market
+101240,2026-01-16,3,35-44 Years,Female,Chandigarh,Occasional Gifter
+101241,2026-01-17,1,35-44 Years,Male,Delhi,Value Seeker
+101242,2026-01-17,2,35-44 Years,Male,Mumbai,Mid-Market
+101243,2026-01-17,4,25-34 Years,Male,Chandigarh,Value Seeker
+101244,2026-01-17,4,18-24 Years,Female,Kochi,Mid-Market
+101245,2026-01-17,1,18-24 Years,Male,Mumbai,Value Seeker
+101246,2026-01-17,1,55+ Years,Male,Kolkata,Mid-Market
+101247,2026-01-17,1,25-34 Years,Female,Chennai,Premium
+101248,2026-01-17,3,35-44 Years,Female,Lucknow,Value Seeker
+101249,2026-01-18,2,55+ Years,Female,Lucknow,Occasional Gifter
+101250,2026-01-18,1,18-24 Years,Female,Kolkata,Mid-Market
+101251,2026-01-18,1,25-34 Years,Female,Kolkata,Mid-Market
+101252,2026-01-18,3,35-44 Years,Female,Mumbai,Premium
+101253,2026-01-19,1,18-24 Years,Female,Delhi,Occasional Gifter
+101254,2026-01-19,2,25-34 Years,Female,Delhi,Premium
+101255,2026-01-19,1,25-34 Years,Male,Pune,Premium
+101256,2026-01-19,1,18-24 Years,Male,Bengaluru,Occasional Gifter
+101257,2026-01-19,1,45-54 Years,Female,Bengaluru,Mid-Market
+101258,2026-01-19,1,18-24 Years,Male,Mumbai,Mid-Market
+101259,2026-01-20,3,25-34 Years,Female,Kolkata,Value Seeker
+101260,2026-01-20,1,35-44 Years,Female,Chandigarh,Mid-Market
+101261,2026-01-20,1,25-34 Years,Male,Kolkata,Mid-Market
+101262,2026-01-20,1,25-34 Years,Female,Bengaluru,Mid-Market
+101263,2026-01-20,1,25-34 Years,Female,Chennai,Value Seeker
+101264,2026-01-20,1,35-44 Years,Female,Mumbai,Mid-Market
+101265,2026-01-20,3,25-34 Years,Male,Pune,Mid-Market
+101266,2026-01-21,1,35-44 Years,Female,Hyderabad,Mid-Market
+101267,2026-01-21,3,25-34 Years,Male,Chennai,Mid-Market
+101268,2026-01-22,2,35-44 Years,Female,Hyderabad,Premium
+101269,2026-01-22,1,45-54 Years,Female,Bengaluru,Value Seeker
+101270,2026-01-22,7,18-24 Years,Female,Hyderabad,Mid-Market
+101271,2026-01-22,1,18-24 Years,Other,Chennai,Mid-Market
+101272,2026-01-22,7,25-34 Years,Female,Bengaluru,Value Seeker
+101273,2026-01-22,3,55+ Years,Male,Chandigarh,Premium
+101274,2026-01-22,1,35-44 Years,Female,Bengaluru,Premium
+101275,2026-01-23,1,55+ Years,Male,Lucknow,Mid-Market
+101276,2026-01-23,1,25-34 Years,Male,Ahmedabad,Occasional Gifter
+101277,2026-01-23,7,25-34 Years,Male,Ahmedabad,Value Seeker
+101278,2026-01-24,1,25-34 Years,Male,Delhi,Mid-Market
+101279,2026-01-24,1,18-24 Years,Female,Delhi,Occasional Gifter
+101280,2026-01-24,2,18-24 Years,Male,Jaipur,Premium
+101281,2026-01-24,1,18-24 Years,Male,Ahmedabad,Value Seeker
+101282,2026-01-24,1,45-54 Years,Female,Kochi,Mid-Market
+101283,2026-01-25,1,18-24 Years,Male,Chandigarh,Mid-Market
+101284,2026-01-25,4,18-24 Years,Male,Chennai,Occasional Gifter
+101285,2026-01-25,1,18-24 Years,Male,Mumbai,Occasional Gifter
+101286,2026-01-25,4,18-24 Years,Female,Bengaluru,Occasional Gifter
+101287,2026-01-25,1,25-34 Years,Female,Mumbai,Mid-Market
+101288,2026-01-26,2,25-34 Years,Female,Chennai,Mid-Market
+101289,2026-01-26,4,25-34 Years,Female,Kochi,Value Seeker
+101290,2026-01-26,1,25-34 Years,Male,Mumbai,Premium
+101291,2026-01-26,1,18-24 Years,Female,Bengaluru,Value Seeker
+101292,2026-01-26,3,35-44 Years,Female,Mumbai,Value Seeker
+101293,2026-01-26,7,25-34 Years,Male,Bengaluru,Premium
+101294,2026-01-26,7,25-34 Years,Female,Lucknow,Premium
+101295,2026-01-26,1,18-24 Years,Female,Chennai,Value Seeker
+101296,2026-01-27,1,25-34 Years,Male,Hyderabad,Mid-Market
+101297,2026-01-27,1,45-54 Years,Male,Kolkata,Premium
+101298,2026-01-27,1,25-34 Years,Male,Bengaluru,Mid-Market
+101299,2026-01-27,1,25-34 Years,Female,Mumbai,Mid-Market
+101300,2026-01-28,1,35-44 Years,Male,Bengaluru,Mid-Market
+101301,2026-01-28,1,25-34 Years,Female,Pune,Premium
+101302,2026-01-28,2,25-34 Years,Female,Bengaluru,Occasional Gifter
+101303,2026-01-28,8,25-34 Years,Female,Hyderabad,Premium
+101304,2026-01-29,1,45-54 Years,Female,Lucknow,Premium
+101305,2026-01-29,3,25-34 Years,Male,Ahmedabad,Mid-Market
+101306,2026-01-29,1,45-54 Years,Female,Mumbai,Mid-Market
+101307,2026-01-29,3,18-24 Years,Female,Pune,Premium
+101308,2026-01-30,1,25-34 Years,Female,Ahmedabad,Occasional Gifter
+101309,2026-01-30,1,25-34 Years,Male,Kochi,Premium
+101310,2026-01-31,1,35-44 Years,Male,Pune,Mid-Market
+101311,2026-01-31,1,25-34 Years,Female,Bengaluru,Premium
+101312,2026-01-31,1,18-24 Years,Female,Kolkata,Mid-Market
+101313,2026-02-01,2,25-34 Years,Female,Hyderabad,Mid-Market
+101314,2026-02-01,4,25-34 Years,Male,Mumbai,Value Seeker
+101315,2026-02-01,2,18-24 Years,Female,Delhi,Mid-Market
+101316,2026-02-02,1,25-34 Years,Male,Bengaluru,Premium
+101317,2026-02-02,2,45-54 Years,Male,Kolkata,Premium
+101318,2026-02-02,3,25-34 Years,Female,Pune,Value Seeker
+101319,2026-02-03,1,25-34 Years,Female,Lucknow,Premium
+101320,2026-02-03,1,25-34 Years,Male,Hyderabad,Mid-Market
+101321,2026-02-03,4,25-34 Years,Male,Chennai,Mid-Market
+101322,2026-02-03,3,25-34 Years,Male,Kolkata,Premium
+101323,2026-02-04,2,25-34 Years,Female,Pune,Occasional Gifter
+101324,2026-02-04,3,18-24 Years,Female,Bengaluru,Occasional Gifter
+101325,2026-02-04,2,55+ Years,Female,Bengaluru,Mid-Market
+101326,2026-02-04,1,25-34 Years,Female,Delhi,Mid-Market
+101327,2026-02-04,4,18-24 Years,Female,Lucknow,Value Seeker
+101328,2026-02-04,2,25-34 Years,Female,Kolkata,Premium
+101329,2026-02-04,2,25-34 Years,Female,Mumbai,Occasional Gifter
+101330,2026-02-04,4,18-24 Years,Female,Mumbai,Value Seeker
+101331,2026-02-04,4,35-44 Years,Female,Hyderabad,Value Seeker
+101332,2026-02-05,1,25-34 Years,Female,Lucknow,Mid-Market
+101333,2026-02-05,7,18-24 Years,Male,Kolkata,Mid-Market
+101334,2026-02-06,1,25-34 Years,Female,Kolkata,Value Seeker
+101335,2026-02-06,4,25-34 Years,Female,Jaipur,Mid-Market
+101336,2026-02-06,1,35-44 Years,Male,Mumbai,Value Seeker
+101337,2026-02-07,3,25-34 Years,Female,Delhi,Value Seeker
+101338,2026-02-07,1,55+ Years,Female,Kochi,Mid-Market
+101339,2026-02-07,4,35-44 Years,Female,Delhi,Mid-Market
+101340,2026-02-08,2,25-34 Years,Female,Chennai,Occasional Gifter
+101341,2026-02-08,4,25-34 Years,Male,Chennai,Premium
+101342,2026-02-09,1,18-24 Years,Male,Jaipur,Mid-Market
+101343,2026-02-09,1,18-24 Years,Male,Mumbai,Mid-Market
+101344,2026-02-09,2,45-54 Years,Female,Delhi,Mid-Market
+101345,2026-02-09,6,18-24 Years,Female,Ahmedabad,Value Seeker
+101346,2026-02-09,2,55+ Years,Male,Ahmedabad,Occasional Gifter
+101347,2026-02-09,2,35-44 Years,Male,Mumbai,Value Seeker
+101348,2026-02-09,2,25-34 Years,Female,Pune,Value Seeker
+101349,2026-02-10,3,18-24 Years,Male,Hyderabad,Value Seeker
+101350,2026-02-10,1,25-34 Years,Male,Kochi,Value Seeker
+101351,2026-02-10,2,35-44 Years,Male,Delhi,Mid-Market
+101352,2026-02-10,4,25-34 Years,Male,Delhi,Occasional Gifter
+101353,2026-02-11,2,35-44 Years,Male,Hyderabad,Value Seeker
+101354,2026-02-11,2,35-44 Years,Male,Hyderabad,Mid-Market
+101355,2026-02-12,4,18-24 Years,Female,Delhi,Mid-Market
+101356,2026-02-12,2,18-24 Years,Female,Pune,Mid-Market
+101357,2026-02-12,3,35-44 Years,Male,Ahmedabad,Premium
+101358,2026-02-12,4,35-44 Years,Male,Delhi,Mid-Market
+101359,2026-02-12,4,18-24 Years,Female,Pune,Value Seeker
+101360,2026-02-13,1,25-34 Years,Female,Delhi,Premium
+101361,2026-02-13,2,45-54 Years,Female,Hyderabad,Occasional Gifter
+101362,2026-02-13,1,45-54 Years,Male,Ahmedabad,Value Seeker
+101363,2026-02-13,5,18-24 Years,Male,Delhi,Value Seeker
+101364,2026-02-13,2,35-44 Years,Male,Ahmedabad,Occasional Gifter
+101365,2026-02-13,2,45-54 Years,Male,Delhi,Occasional Gifter
+101366,2026-02-13,4,18-24 Years,Male,Mumbai,Value Seeker
+101367,2026-02-13,1,35-44 Years,Female,Delhi,Value Seeker
+101368,2026-02-13,4,25-34 Years,Male,Kochi,Mid-Market
+101369,2026-02-13,4,35-44 Years,Female,Hyderabad,Mid-Market
+101370,2026-02-14,1,25-34 Years,Female,Kolkata,Mid-Market
+101371,2026-02-14,2,18-24 Years,Male,Delhi,Value Seeker
+101372,2026-02-14,4,18-24 Years,Female,Pune,Value Seeker
+101373,2026-02-15,4,18-24 Years,Male,Jaipur,Mid-Market
+101374,2026-02-15,4,18-24 Years,Female,Chennai,Value Seeker
+101375,2026-02-16,2,25-34 Years,Female,Pune,Value Seeker
+101376,2026-02-17,2,45-54 Years,Female,Mumbai,Mid-Market
+101377,2026-02-17,4,18-24 Years,Male,Mumbai,Mid-Market
+101378,2026-02-18,4,18-24 Years,Male,Delhi,Occasional Gifter
+101379,2026-02-18,2,35-44 Years,Female,Bengaluru,Value Seeker
+101380,2026-02-19,1,25-34 Years,Male,Kolkata,Value Seeker
+101381,2026-02-19,1,25-34 Years,Female,Kolkata,Occasional Gifter
+101382,2026-02-22,1,25-34 Years,Male,Bengaluru,Mid-Market
+101383,2026-02-23,1,25-34 Years,Female,Bengaluru,Mid-Market
+101384,2026-02-24,2,35-44 Years,Female,Pune,Premium
+101385,2026-02-24,1,25-34 Years,Male,Mumbai,Premium
+101386,2026-02-24,6,18-24 Years,Male,Delhi,Value Seeker
+101387,2026-02-24,6,35-44 Years,Female,Pune,Value Seeker
+101388,2026-02-24,6,45-54 Years,Male,Kolkata,Mid-Market
+101389,2026-02-25,1,18-24 Years,Female,Hyderabad,Value Seeker
+101390,2026-02-25,2,18-24 Years,Male,Mumbai,Premium
+101391,2026-02-25,6,35-44 Years,Male,Mumbai,Value Seeker
+101392,2026-02-26,3,18-24 Years,Female,Delhi,Mid-Market
+101393,2026-02-26,1,45-54 Years,Female,Mumbai,Mid-Market
+101394,2026-02-26,1,18-24 Years,Male,Kolkata,Mid-Market
+101395,2026-02-26,2,45-54 Years,Female,Chennai,Mid-Market
+101396,2026-02-26,6,35-44 Years,Male,Kolkata,Mid-Market
+101397,2026-02-26,1,18-24 Years,Female,Ahmedabad,Mid-Market
+101398,2026-02-27,1,45-54 Years,Female,Bengaluru,Value Seeker
+101399,2026-02-27,2,45-54 Years,Female,Mumbai,Occasional Gifter
+101400,2026-02-27,6,18-24 Years,Male,Pune,Mid-Market
+101401,2026-02-27,3,25-34 Years,Female,Ahmedabad,Mid-Market
+101402,2026-02-27,6,45-54 Years,Female,Pune,Value Seeker
+101403,2026-02-27,6,55+ Years,Male,Delhi,Mid-Market
+101404,2026-02-27,1,25-34 Years,Male,Kochi,Value Seeker
+101405,2026-02-27,1,25-34 Years,Male,Chennai,Premium
+101406,2026-02-28,1,45-54 Years,Other,Ahmedabad,Mid-Market
+101407,2026-02-28,6,18-24 Years,Male,Chennai,Value Seeker
+101408,2026-03-01,6,25-34 Years,Male,Pune,Value Seeker
+101409,2026-03-01,6,55+ Years,Female,Kochi,Value Seeker
+101410,2026-03-01,6,25-34 Years,Male,Chennai,Occasional Gifter
+101411,2026-03-02,3,25-34 Years,Female,Delhi,Value Seeker
+101412,2026-03-02,1,45-54 Years,Female,Mumbai,Mid-Market
+101413,2026-03-02,6,25-34 Years,Female,Chennai,Value Seeker
+101414,2026-03-03,1,35-44 Years,Male,Hyderabad,Occasional Gifter
+101415,2026-03-03,3,25-34 Years,Male,Bengaluru,Premium
+101416,2026-03-03,3,25-34 Years,Male,Kolkata,Premium
+101417,2026-03-03,5,25-34 Years,Female,Chennai,Value Seeker
+101418,2026-03-03,6,18-24 Years,Female,Mumbai,Value Seeker
+101419,2026-03-03,6,18-24 Years,Female,Delhi,Value Seeker
+101420,2026-03-04,4,35-44 Years,Male,Bengaluru,Premium
+101421,2026-03-04,4,18-24 Years,Female,Chennai,Value Seeker
+101422,2026-03-04,3,18-24 Years,Male,Mumbai,Value Seeker
+101423,2026-03-04,1,35-44 Years,Male,Mumbai,Value Seeker
+101424,2026-03-04,6,45-54 Years,Female,Bengaluru,Value Seeker
+101425,2026-03-04,6,35-44 Years,Female,Pune,Value Seeker
+101426,2026-03-04,6,18-24 Years,Female,Bengaluru,Value Seeker
+101427,2026-03-05,2,25-34 Years,Female,Kochi,Value Seeker
+101428,2026-03-05,1,35-44 Years,Female,Hyderabad,Mid-Market
+101429,2026-03-05,2,25-34 Years,Male,Bengaluru,Value Seeker
+101430,2026-03-05,6,45-54 Years,Male,Bengaluru,Mid-Market
+101431,2026-03-05,6,45-54 Years,Female,Mumbai,Premium
+101432,2026-03-06,1,45-54 Years,Female,Mumbai,Mid-Market
+101433,2026-03-06,2,35-44 Years,Female,Pune,Value Seeker
+101434,2026-03-06,5,55+ Years,Female,Pune,Mid-Market
+101435,2026-03-06,6,25-34 Years,Female,Kolkata,Value Seeker
+101436,2026-03-06,3,35-44 Years,Male,Delhi,Mid-Market
+101437,2026-03-06,4,25-34 Years,Female,Kochi,Mid-Market
+101438,2026-03-07,1,25-34 Years,Female,Bengaluru,Value Seeker
+101439,2026-03-07,4,25-34 Years,Female,Delhi,Mid-Market
+101440,2026-03-07,2,25-34 Years,Female,Ahmedabad,Mid-Market
+101441,2026-03-07,2,25-34 Years,Female,Bengaluru,Premium
+101442,2026-03-07,3,18-24 Years,Female,Bengaluru,Mid-Market
+101443,2026-03-07,4,18-24 Years,Female,Mumbai,Value Seeker
+101444,2026-03-08,1,25-34 Years,Female,Chennai,Mid-Market
+101445,2026-03-08,2,25-34 Years,Male,Chandigarh,Occasional Gifter
+101446,2026-03-08,6,18-24 Years,Male,Delhi,Value Seeker
+101447,2026-03-08,5,35-44 Years,Female,Pune,Occasional Gifter
+101448,2026-03-09,1,45-54 Years,Female,Delhi,Occasional Gifter
+101449,2026-03-09,1,45-54 Years,Male,Delhi,Occasional Gifter
+101450,2026-03-09,1,18-24 Years,Other,Kolkata,Mid-Market
+101451,2026-03-10,1,35-44 Years,Male,Bengaluru,Premium
+101452,2026-03-10,6,25-34 Years,Female,Delhi,Value Seeker
+101453,2026-03-10,3,18-24 Years,Female,Pune,Occasional Gifter
+101454,2026-03-10,1,18-24 Years,Female,Delhi,Mid-Market
+101455,2026-03-10,6,35-44 Years,Other,Jaipur,Value Seeker
+101456,2026-03-11,2,25-34 Years,Female,Ahmedabad,Mid-Market
+101457,2026-03-12,3,25-34 Years,Male,Bengaluru,Value Seeker
+101458,2026-03-12,2,25-34 Years,Male,Delhi,Premium
+101459,2026-03-13,2,25-34 Years,Female,Pune,Value Seeker
+101460,2026-03-13,7,18-24 Years,Female,Delhi,Mid-Market
+101461,2026-03-13,2,25-34 Years,Female,Mumbai,Mid-Market
+101462,2026-03-14,6,25-34 Years,Female,Delhi,Value Seeker
+101463,2026-03-15,3,25-34 Years,Female,Delhi,Mid-Market
+101464,2026-03-15,1,45-54 Years,Female,Hyderabad,Mid-Market
+101465,2026-03-15,3,18-24 Years,Male,Delhi,Value Seeker
+101466,2026-03-15,2,18-24 Years,Male,Hyderabad,Value Seeker
+101467,2026-03-16,1,25-34 Years,Female,Chennai,Value Seeker
+101468,2026-03-16,1,45-54 Years,Male,Pune,Occasional Gifter
+101469,2026-03-16,2,25-34 Years,Female,Kochi,Value Seeker
+101470,2026-03-16,6,25-34 Years,Male,Chennai,Value Seeker
+101471,2026-03-16,2,25-34 Years,Female,Jaipur,Mid-Market
+101472,2026-03-16,1,45-54 Years,Other,Mumbai,Mid-Market
+101473,2026-03-16,4,25-34 Years,Female,Bengaluru,Mid-Market
+101474,2026-03-17,1,35-44 Years,Male,Delhi,Premium
+101475,2026-03-17,4,18-24 Years,Male,Ahmedabad,Mid-Market
+101476,2026-03-18,1,45-54 Years,Female,Pune,Mid-Market
+101477,2026-03-18,2,35-44 Years,Male,Chennai,Premium
+101478,2026-03-18,2,25-34 Years,Female,Bengaluru,Occasional Gifter
+101479,2026-03-19,1,55+ Years,Female,Chennai,Mid-Market
+101480,2026-03-19,2,35-44 Years,Female,Lucknow,Occasional Gifter
+101481,2026-03-19,1,18-24 Years,Female,Delhi,Mid-Market
+101482,2026-03-19,4,25-34 Years,Male,Jaipur,Premium
+101483,2026-03-19,4,18-24 Years,Male,Delhi,Value Seeker
+101484,2026-03-20,4,18-24 Years,Female,Delhi,Value Seeker
+101485,2026-03-20,3,35-44 Years,Female,Mumbai,Premium
+101486,2026-03-20,4,55+ Years,Male,Ahmedabad,Mid-Market
+101487,2026-03-20,4,25-34 Years,Female,Chennai,Value Seeker
+101488,2026-03-21,2,25-34 Years,Female,Kolkata,Value Seeker
+101489,2026-03-21,4,18-24 Years,Female,Hyderabad,Occasional Gifter
+101490,2026-03-21,2,25-34 Years,Female,Delhi,Mid-Market
+101491,2026-03-22,6,18-24 Years,Male,Bengaluru,Value Seeker
+101492,2026-03-22,2,25-34 Years,Male,Pune,Premium
+101493,2026-03-23,1,35-44 Years,Male,Pune,Premium
+101494,2026-03-23,2,18-24 Years,Female,Chennai,Value Seeker
+101495,2026-03-23,2,25-34 Years,Male,Kochi,Value Seeker
+101496,2026-03-23,2,35-44 Years,Male,Hyderabad,Mid-Market
+101497,2026-03-23,3,18-24 Years,Female,Mumbai,Value Seeker
+101498,2026-03-23,4,18-24 Years,Female,Pune,Value Seeker
+101499,2026-03-23,2,35-44 Years,Female,Chennai,Value Seeker
+101500,2026-03-24,4,18-24 Years,Female,Chennai,Mid-Market
+101501,2026-03-24,2,25-34 Years,Female,Mumbai,Value Seeker
+101502,2026-03-24,2,18-24 Years,Female,Mumbai,Mid-Market
+101503,2026-03-24,2,25-34 Years,Female,Pune,Premium
+101504,2026-03-25,2,25-34 Years,Female,Chennai,Occasional Gifter
+101505,2026-03-25,2,25-34 Years,Male,Mumbai,Mid-Market
+101506,2026-03-25,4,18-24 Years,Female,Chennai,Premium
+101507,2026-03-25,4,25-34 Years,Female,Chennai,Mid-Market
+101508,2026-03-26,2,35-44 Years,Female,Mumbai,Value Seeker
+101509,2026-03-26,4,18-24 Years,Male,Chandigarh,Value Seeker
+101510,2026-03-26,2,25-34 Years,Male,Hyderabad,Mid-Market
+101511,2026-03-27,1,45-54 Years,Female,Delhi,Occasional Gifter
+101512,2026-03-27,2,25-34 Years,Female,Mumbai,Mid-Market
+101513,2026-03-27,2,25-34 Years,Female,Bengaluru,Value Seeker
+101514,2026-03-27,2,55+ Years,Female,Mumbai,Occasional Gifter
+101515,2026-03-27,4,35-44 Years,Male,Hyderabad,Mid-Market
+101516,2026-03-27,4,18-24 Years,Male,Pune,Value Seeker
+101517,2026-03-27,4,35-44 Years,Female,Kolkata,Value Seeker
+101518,2026-03-28,4,18-24 Years,Female,Bengaluru,Mid-Market
+101519,2026-03-28,4,25-34 Years,Female,Kolkata,Mid-Market
+101520,2026-03-28,2,25-34 Years,Female,Ahmedabad,Occasional Gifter
+101521,2026-03-28,2,18-24 Years,Female,Mumbai,Premium
+101522,2026-03-28,2,25-34 Years,Male,Lucknow,Value Seeker
+101523,2026-03-28,1,18-24 Years,Female,Delhi,Mid-Market
+101524,2026-03-29,3,25-34 Years,Male,Ahmedabad,Value Seeker
+101525,2026-03-29,2,25-34 Years,Female,Chandigarh,Premium
+101526,2026-03-29,5,18-24 Years,Female,Lucknow,Value Seeker
+101527,2026-03-29,2,18-24 Years,Male,Kolkata,Mid-Market
+101528,2026-03-29,4,18-24 Years,Male,Hyderabad,Premium
+101529,2026-03-29,2,45-54 Years,Female,Chennai,Value Seeker
+101530,2026-03-30,3,25-34 Years,Female,Kochi,Premium
+101531,2026-03-30,4,18-24 Years,Female,Delhi,Value Seeker
+101532,2026-03-30,4,18-24 Years,Female,Pune,Value Seeker
+101533,2026-03-30,2,18-24 Years,Female,Delhi,Value Seeker
+101534,2026-03-30,2,45-54 Years,Female,Bengaluru,Occasional Gifter
+101535,2026-03-30,2,25-34 Years,Female,Mumbai,Mid-Market
+101536,2026-03-30,4,25-34 Years,Female,Kolkata,Mid-Market
+101537,2026-03-31,2,35-44 Years,Male,Mumbai,Value Seeker
+101538,2026-03-31,1,25-34 Years,Female,Hyderabad,Value Seeker
+101539,2026-03-31,4,18-24 Years,Female,Hyderabad,Value Seeker
+101540,2026-04-01,1,25-34 Years,Female,Kolkata,Value Seeker
+101541,2026-04-01,4,18-24 Years,Male,Jaipur,Premium
+101542,2026-04-01,1,25-34 Years,Female,Bengaluru,Premium
+101543,2026-04-01,2,25-34 Years,Female,Mumbai,Premium
+101544,2026-04-01,2,25-34 Years,Female,Kolkata,Value Seeker
+101545,2026-04-01,4,25-34 Years,Female,Delhi,Mid-Market
+101546,2026-04-02,1,25-34 Years,Male,Delhi,Occasional Gifter
+101547,2026-04-02,4,18-24 Years,Female,Ahmedabad,Premium
+101548,2026-04-02,4,18-24 Years,Female,Jaipur,Mid-Market
+101549,2026-04-03,1,45-54 Years,Male,Delhi,Mid-Market
+101550,2026-04-03,2,35-44 Years,Male,Bengaluru,Mid-Market
+101551,2026-04-03,2,45-54 Years,Male,Mumbai,Value Seeker
+101552,2026-04-03,2,45-54 Years,Female,Kolkata,Premium
+101553,2026-04-03,2,25-34 Years,Female,Ahmedabad,Occasional Gifter
+101554,2026-04-03,4,25-34 Years,Female,Kolkata,Mid-Market
+101555,2026-04-03,4,45-54 Years,Male,Chandigarh,Occasional Gifter
+101556,2026-04-04,2,25-34 Years,Male,Jaipur,Value Seeker
+101557,2026-04-04,2,25-34 Years,Male,Bengaluru,Value Seeker
+101558,2026-04-04,2,25-34 Years,Female,Kolkata,Value Seeker
+101559,2026-04-04,2,25-34 Years,Female,Kochi,Mid-Market
+101560,2026-04-04,4,18-24 Years,Female,Kolkata,Mid-Market
+101561,2026-04-04,2,45-54 Years,Female,Delhi,Mid-Market
+101562,2026-04-05,2,25-34 Years,Female,Mumbai,Premium
+101563,2026-04-05,1,35-44 Years,Male,Kolkata,Occasional Gifter
+101564,2026-04-05,1,25-34 Years,Male,Delhi,Occasional Gifter
+101565,2026-04-06,2,25-34 Years,Female,Kolkata,Premium
+101566,2026-04-06,2,18-24 Years,Female,Delhi,Mid-Market
+101567,2026-04-06,2,25-34 Years,Female,Pune,Premium
+101568,2026-04-06,2,35-44 Years,Female,Hyderabad,Value Seeker
+101569,2026-04-06,3,18-24 Years,Female,Kochi,Value Seeker
+101570,2026-04-06,1,25-34 Years,Male,Kolkata,Value Seeker
+101571,2026-04-06,2,25-34 Years,Female,Hyderabad,Occasional Gifter
+101572,2026-04-06,4,18-24 Years,Male,Mumbai,Premium
+101573,2026-04-07,1,25-34 Years,Male,Mumbai,Value Seeker
+101574,2026-04-07,8,18-24 Years,Male,Delhi,Value Seeker
+101575,2026-04-07,2,25-34 Years,Male,Hyderabad,Mid-Market
+101576,2026-04-07,2,45-54 Years,Female,Kolkata,Premium
+101577,2026-04-07,2,25-34 Years,Female,Hyderabad,Value Seeker
+101578,2026-04-07,4,55+ Years,Male,Chennai,Value Seeker
+101579,2026-04-08,4,18-24 Years,Female,Ahmedabad,Mid-Market
+101580,2026-04-08,2,25-34 Years,Male,Chennai,Premium
+101581,2026-04-09,2,25-34 Years,Female,Kolkata,Occasional Gifter
+101582,2026-04-09,4,35-44 Years,Male,Ahmedabad,Occasional Gifter
+101583,2026-04-10,1,25-34 Years,Male,Bengaluru,Mid-Market
+101584,2026-04-10,4,18-24 Years,Male,Kochi,Mid-Market
+101585,2026-04-10,4,18-24 Years,Male,Bengaluru,Occasional Gifter
+101586,2026-04-11,1,18-24 Years,Female,Pune,Mid-Market
+101587,2026-04-11,2,35-44 Years,Female,Chandigarh,Mid-Market
+101588,2026-04-11,1,18-24 Years,Female,Pune,Premium
+101589,2026-04-11,4,25-34 Years,Male,Bengaluru,Mid-Market
+101590,2026-04-12,1,35-44 Years,Male,Delhi,Premium
+101591,2026-04-12,2,35-44 Years,Female,Bengaluru,Value Seeker
+101592,2026-04-12,2,25-34 Years,Male,Delhi,Premium
+101593,2026-04-12,2,18-24 Years,Female,Bengaluru,Premium
+101594,2026-04-12,4,18-24 Years,Male,Kolkata,Value Seeker
+101595,2026-04-12,4,18-24 Years,Male,Bengaluru,Premium
+101596,2026-04-12,4,18-24 Years,Male,Bengaluru,Value Seeker
+101597,2026-04-13,4,18-24 Years,Female,Mumbai,Mid-Market
+101598,2026-04-14,7,25-34 Years,Female,Delhi,Mid-Market
+101599,2026-04-14,2,25-34 Years,Female,Chandigarh,Premium
+101600,2026-04-14,2,25-34 Years,Female,Bengaluru,Mid-Market
+101601,2026-04-14,2,18-24 Years,Female,Mumbai,Premium
+101602,2026-04-14,4,18-24 Years,Male,Mumbai,Mid-Market
+101603,2026-04-14,4,18-24 Years,Male,Mumbai,Mid-Market
+101604,2026-04-14,4,25-34 Years,Female,Chandigarh,Mid-Market
+101605,2026-04-15,4,25-34 Years,Male,Pune,Premium
+101606,2026-04-15,1,25-34 Years,Male,Hyderabad,Mid-Market
+101607,2026-04-15,1,25-34 Years,Male,Kolkata,Mid-Market
+101608,2026-04-15,4,25-34 Years,Male,Bengaluru,Premium
+101609,2026-04-15,2,35-44 Years,Female,Mumbai,Mid-Market
+101610,2026-04-15,2,18-24 Years,Male,Chandigarh,Premium
+101611,2026-04-16,2,35-44 Years,Female,Pune,Mid-Market
+101612,2026-04-16,4,18-24 Years,Male,Pune,Mid-Market
+101613,2026-04-17,4,18-24 Years,Male,Pune,Premium
+101614,2026-04-17,6,25-34 Years,Female,Mumbai,Mid-Market
+101615,2026-04-17,4,18-24 Years,Male,Bengaluru,Premium
+101616,2026-04-18,2,18-24 Years,Female,Ahmedabad,Mid-Market
+101617,2026-04-18,2,25-34 Years,Female,Kolkata,Mid-Market
+101618,2026-04-18,1,45-54 Years,Male,Hyderabad,Value Seeker
+101619,2026-04-18,1,25-34 Years,Male,Bengaluru,Premium
+101620,2026-04-19,7,25-34 Years,Female,Kochi,Occasional Gifter
+101621,2026-04-20,1,18-24 Years,Female,Chennai,Mid-Market
+101622,2026-04-20,4,18-24 Years,Female,Kolkata,Mid-Market
+101623,2026-04-21,1,45-54 Years,Male,Ahmedabad,Value Seeker
+101624,2026-04-21,4,18-24 Years,Male,Pune,Premium
+101625,2026-04-21,4,18-24 Years,Male,Kolkata,Value Seeker
+101626,2026-04-22,2,25-34 Years,Female,Pune,Value Seeker
+101627,2026-04-22,4,18-24 Years,Male,Chennai,Value Seeker
+101628,2026-04-22,4,25-34 Years,Male,Delhi,Mid-Market
+101629,2026-04-22,4,18-24 Years,Female,Chennai,Occasional Gifter
+101630,2026-04-22,4,25-34 Years,Male,Bengaluru,Value Seeker
+101631,2026-04-22,4,18-24 Years,Male,Jaipur,Value Seeker
+101632,2026-04-23,4,25-34 Years,Female,Delhi,Premium
+101633,2026-04-23,2,18-24 Years,Female,Kochi,Value Seeker
+101634,2026-04-23,2,25-34 Years,Male,Delhi,Mid-Market
+101635,2026-04-23,4,18-24 Years,Female,Delhi,Occasional Gifter
+101636,2026-04-23,2,18-24 Years,Female,Hyderabad,Value Seeker
+101637,2026-04-24,2,25-34 Years,Male,Delhi,Value Seeker
+101638,2026-04-24,1,18-24 Years,Male,Mumbai,Mid-Market
+101639,2026-04-24,2,25-34 Years,Female,Delhi,Value Seeker
+101640,2026-04-24,4,18-24 Years,Male,Hyderabad,Occasional Gifter
+101641,2026-04-25,2,25-34 Years,Female,Delhi,Mid-Market
+101642,2026-04-25,4,18-24 Years,Female,Mumbai,Premium
+101643,2026-04-25,4,25-34 Years,Male,Ahmedabad,Value Seeker
+101644,2026-04-25,4,18-24 Years,Male,Kolkata,Premium
+101645,2026-04-25,4,35-44 Years,Male,Delhi,Mid-Market
+101646,2026-04-25,5,18-24 Years,Male,Kochi,Mid-Market
+101647,2026-04-25,4,18-24 Years,Male,Delhi,Value Seeker
+101648,2026-04-25,4,25-34 Years,Female,Chennai,Premium
+101649,2026-04-25,4,18-24 Years,Female,Delhi,Mid-Market
+101650,2026-04-25,4,25-34 Years,Female,Hyderabad,Premium
+101651,2026-04-25,4,18-24 Years,Male,Chandigarh,Mid-Market
+101652,2026-04-25,2,18-24 Years,Male,Lucknow,Mid-Market
+101653,2026-04-26,1,25-34 Years,Male,Ahmedabad,Value Seeker
+101654,2026-04-26,2,25-34 Years,Female,Bengaluru,Premium
+101655,2026-04-26,8,55+ Years,Male,Kolkata,Value Seeker
+101656,2026-04-26,4,18-24 Years,Male,Ahmedabad,Occasional Gifter
+101657,2026-04-26,4,18-24 Years,Female,Ahmedabad,Value Seeker
+101658,2026-04-27,1,25-34 Years,Male,Delhi,Mid-Market
+101659,2026-04-27,1,25-34 Years,Female,Hyderabad,Value Seeker
+101660,2026-04-27,4,18-24 Years,Male,Kochi,Premium
+101661,2026-04-28,1,35-44 Years,Male,Kochi,Mid-Market
+101662,2026-04-28,4,25-34 Years,Male,Delhi,Occasional Gifter
+101663,2026-04-28,2,25-34 Years,Male,Pune,Mid-Market
+101664,2026-04-28,5,25-34 Years,Female,Mumbai,Value Seeker
+101665,2026-04-28,4,18-24 Years,Female,Mumbai,Mid-Market
+101666,2026-04-28,5,55+ Years,Female,Bengaluru,Value Seeker
+101667,2026-04-29,1,25-34 Years,Male,Pune,Value Seeker
+101668,2026-04-29,4,18-24 Years,Male,Bengaluru,Occasional Gifter
+101669,2026-04-29,4,25-34 Years,Male,Mumbai,Value Seeker
+101670,2026-04-29,4,18-24 Years,Female,Chennai,Mid-Market
+101671,2026-04-29,8,18-24 Years,Female,Bengaluru,Mid-Market
+101672,2026-04-29,4,25-34 Years,Male,Hyderabad,Value Seeker
+101673,2026-04-30,1,25-34 Years,Male,Bengaluru,Premium
+101674,2026-04-30,1,55+ Years,Male,Mumbai,Mid-Market
+101675,2026-05-01,7,35-44 Years,Female,Delhi,Premium
+101676,2026-05-01,1,18-24 Years,Female,Delhi,Mid-Market
+101677,2026-05-02,2,18-24 Years,Female,Lucknow,Mid-Market
+101678,2026-05-02,4,18-24 Years,Male,Delhi,Occasional Gifter
+101679,2026-05-03,4,25-34 Years,Male,Bengaluru,Value Seeker
+101680,2026-05-03,1,45-54 Years,Male,Jaipur,Occasional Gifter
+101681,2026-05-03,1,55+ Years,Male,Chennai,Value Seeker
+101682,2026-05-03,2,25-34 Years,Female,Hyderabad,Value Seeker
+101683,2026-05-03,1,25-34 Years,Female,Pune,Mid-Market
+101684,2026-05-03,5,35-44 Years,Female,Chennai,Value Seeker
+101685,2026-05-03,2,45-54 Years,Female,Delhi,Occasional Gifter
+101686,2026-05-04,1,55+ Years,Female,Pune,Mid-Market
+101687,2026-05-04,4,18-24 Years,Male,Chandigarh,Premium
+101688,2026-05-05,1,25-34 Years,Female,Jaipur,Mid-Market
+101689,2026-05-05,1,25-34 Years,Male,Chennai,Value Seeker
+101690,2026-05-05,5,25-34 Years,Female,Delhi,Mid-Market
+101691,2026-05-05,2,25-34 Years,Female,Kolkata,Occasional Gifter
+101692,2026-05-05,4,18-24 Years,Female,Chennai,Mid-Market
+101693,2026-05-06,1,18-24 Years,Male,Bengaluru,Value Seeker
+101694,2026-05-06,1,45-54 Years,Male,Mumbai,Mid-Market
+101695,2026-05-06,3,18-24 Years,Male,Bengaluru,Value Seeker
+101696,2026-05-07,1,18-24 Years,Female,Hyderabad,Occasional Gifter
+101697,2026-05-07,2,35-44 Years,Female,Delhi,Mid-Market
+101698,2026-05-07,2,35-44 Years,Female,Delhi,Mid-Market
+101699,2026-05-07,4,25-34 Years,Male,Mumbai,Occasional Gifter
+101700,2026-05-08,1,25-34 Years,Female,Jaipur,Mid-Market
+101701,2026-05-08,4,25-34 Years,Male,Bengaluru,Value Seeker
+101702,2026-05-08,1,18-24 Years,Male,Delhi,Value Seeker
+101703,2026-05-08,2,25-34 Years,Female,Mumbai,Mid-Market
+101704,2026-05-08,6,25-34 Years,Male,Delhi,Value Seeker
+101705,2026-05-08,8,35-44 Years,Male,Bengaluru,Mid-Market
+101706,2026-05-08,2,45-54 Years,Female,Bengaluru,Occasional Gifter
+101707,2026-05-08,2,35-44 Years,Female,Bengaluru,Premium
+101708,2026-05-08,5,25-34 Years,Male,Kolkata,Mid-Market
+101709,2026-05-09,1,18-24 Years,Female,Pune,Value Seeker
+101710,2026-05-09,1,18-24 Years,Male,Pune,Value Seeker
+101711,2026-05-09,2,18-24 Years,Female,Hyderabad,Occasional Gifter
+101712,2026-05-10,1,18-24 Years,Female,Lucknow,Value Seeker
+101713,2026-05-10,1,25-34 Years,Male,Hyderabad,Value Seeker
+101714,2026-05-10,4,18-24 Years,Male,Mumbai,Value Seeker
+101715,2026-05-10,1,25-34 Years,Female,Delhi,Mid-Market
+101716,2026-05-11,5,45-54 Years,Female,Hyderabad,Value Seeker
+101717,2026-05-12,1,35-44 Years,Male,Bengaluru,Occasional Gifter
+101718,2026-05-12,1,25-34 Years,Female,Ahmedabad,Value Seeker
+101719,2026-05-12,3,18-24 Years,Other,Bengaluru,Mid-Market
+101720,2026-05-12,2,25-34 Years,Male,Kolkata,Premium
+101721,2026-05-13,2,25-34 Years,Female,Bengaluru,Premium
+101722,2026-05-13,5,35-44 Years,Male,Hyderabad,Value Seeker
+101723,2026-05-14,1,45-54 Years,Female,Pune,Mid-Market
+101724,2026-05-14,1,18-24 Years,Male,Bengaluru,Value Seeker
+101725,2026-05-14,1,18-24 Years,Female,Delhi,Value Seeker
+101726,2026-05-15,4,25-34 Years,Female,Delhi,Value Seeker
+101727,2026-05-15,8,35-44 Years,Other,Pune,Occasional Gifter
+101728,2026-05-15,6,18-24 Years,Female,Delhi,Value Seeker
+101729,2026-05-16,1,18-24 Years,Female,Jaipur,Mid-Market
+101730,2026-05-16,1,25-34 Years,Female,Hyderabad,Premium
+101731,2026-05-16,4,18-24 Years,Male,Kochi,Mid-Market
+101732,2026-05-16,5,18-24 Years,Male,Chennai,Value Seeker
+101733,2026-05-16,4,35-44 Years,Male,Ahmedabad,Mid-Market
+101734,2026-05-17,1,45-54 Years,Male,Mumbai,Value Seeker
+101735,2026-05-18,2,25-34 Years,Female,Ahmedabad,Mid-Market
+101736,2026-05-18,8,18-24 Years,Male,Bengaluru,Value Seeker
+101737,2026-05-19,1,25-34 Years,Male,Delhi,Occasional Gifter
+101738,2026-05-20,1,25-34 Years,Female,Delhi,Value Seeker
+101739,2026-05-20,8,35-44 Years,Male,Hyderabad,Premium
+101740,2026-05-22,1,45-54 Years,Male,Mumbai,Occasional Gifter
+101741,2026-05-22,2,35-44 Years,Female,Mumbai,Value Seeker
+101742,2026-05-22,2,25-34 Years,Male,Chandigarh,Occasional Gifter
+101743,2026-05-22,2,25-34 Years,Female,Pune,Mid-Market
+101744,2026-05-23,2,25-34 Years,Male,Hyderabad,Premium
+101745,2026-05-23,6,18-24 Years,Female,Bengaluru,Value Seeker
+101746,2026-05-24,1,55+ Years,Female,Hyderabad,Mid-Market
+101747,2026-05-25,1,35-44 Years,Female,Mumbai,Occasional Gifter
+101748,2026-05-26,4,18-24 Years,Female,Hyderabad,Mid-Market
+101749,2026-05-26,2,18-24 Years,Female,Kolkata,Premium
+101750,2026-05-26,4,18-24 Years,Female,Chennai,Value Seeker
+101751,2026-05-27,1,25-34 Years,Female,Mumbai,Occasional Gifter
+101752,2026-05-27,5,18-24 Years,Male,Delhi,Occasional Gifter
+101753,2026-05-27,5,25-34 Years,Male,Ahmedabad,Value Seeker
+101754,2026-05-28,1,25-34 Years,Male,Pune,Mid-Market
+101755,2026-05-28,6,18-24 Years,Female,Delhi,Value Seeker
+101756,2026-05-29,1,18-24 Years,Female,Lucknow,Occasional Gifter
+101757,2026-05-29,1,18-24 Years,Female,Bengaluru,Value Seeker
+101758,2026-05-29,1,35-44 Years,Male,Lucknow,Occasional Gifter
+101759,2026-05-29,3,18-24 Years,Male,Mumbai,Value Seeker
+101760,2026-05-29,1,18-24 Years,Male,Chennai,Value Seeker
+101761,2026-05-29,6,25-34 Years,Female,Chennai,Mid-Market
+101762,2026-05-30,1,25-34 Years,Female,Delhi,Premium
+101763,2026-05-30,3,18-24 Years,Male,Mumbai,Value Seeker
+101764,2026-05-30,2,25-34 Years,Female,Bengaluru,Premium
+101765,2026-05-30,6,18-24 Years,Female,Mumbai,Value Seeker
+101766,2026-05-31,1,25-34 Years,Male,Mumbai,Mid-Market
+101767,2026-05-31,1,25-34 Years,Female,Mumbai,Premium
+101768,2026-05-31,4,18-24 Years,Male,Delhi,Value Seeker
+101769,2026-05-31,1,25-34 Years,Female,Ahmedabad,Premium
+101770,2026-05-31,1,25-34 Years,Female,Bengaluru,Premium
+101771,2026-06-01,7,25-34 Years,Female,Kolkata,Mid-Market
+101772,2026-06-01,3,25-34 Years,Male,Pune,Value Seeker
+101773,2026-06-02,1,25-34 Years,Male,Delhi,Value Seeker
+101774,2026-06-03,1,25-34 Years,Female,Chandigarh,Premium
+101775,2026-06-03,2,25-34 Years,Male,Bengaluru,Value Seeker
+101776,2026-06-03,8,55+ Years,Male,Ahmedabad,Mid-Market
+101777,2026-06-03,7,45-54 Years,Female,Bengaluru,Mid-Market
+101778,2026-06-04,1,25-34 Years,Female,Lucknow,Mid-Market
+101779,2026-06-05,1,35-44 Years,Male,Kolkata,Value Seeker
+101780,2026-06-05,2,35-44 Years,Female,Delhi,Occasional Gifter
+101781,2026-06-05,3,25-34 Years,Female,Kochi,Mid-Market
+101782,2026-06-08,4,45-54 Years,Female,Pune,Occasional Gifter
+101783,2026-06-08,4,35-44 Years,Female,Pune,Value Seeker
+101784,2026-06-09,2,18-24 Years,Female,Kolkata,Value Seeker
+101785,2026-06-09,2,18-24 Years,Female,Hyderabad,Value Seeker
+101786,2026-06-09,2,25-34 Years,Female,Chennai,Value Seeker
+101787,2026-06-10,1,25-34 Years,Male,Kolkata,Value Seeker
+101788,2026-06-10,2,45-54 Years,Male,Ahmedabad,Value Seeker
+101789,2026-06-11,3,45-54 Years,Male,Ahmedabad,Mid-Market
+101790,2026-06-12,7,35-44 Years,Male,Bengaluru,Mid-Market
+101791,2026-06-12,2,45-54 Years,Female,Kolkata,Occasional Gifter
+101792,2026-06-13,1,45-54 Years,Male,Delhi,Value Seeker
+101793,2026-06-13,2,45-54 Years,Female,Lucknow,Occasional Gifter
+101794,2026-06-14,1,25-34 Years,Female,Mumbai,Value Seeker
+101795,2026-06-14,1,25-34 Years,Female,Mumbai,Value Seeker
+101796,2026-06-15,1,35-44 Years,Female,Pune,Premium
+101797,2026-06-15,1,45-54 Years,Male,Kolkata,Premium
+101798,2026-06-15,1,35-44 Years,Female,Hyderabad,Occasional Gifter
+101799,2026-06-16,1,35-44 Years,Male,Bengaluru,Premium
+101800,2026-06-16,4,18-24 Years,Male,Delhi,Mid-Market
+101801,2026-06-16,1,45-54 Years,Female,Hyderabad,Mid-Market
+101802,2026-06-16,4,25-34 Years,Male,Delhi,Occasional Gifter
+101803,2026-06-17,2,25-34 Years,Male,Hyderabad,Mid-Market
+101804,2026-06-17,3,18-24 Years,Male,Bengaluru,Mid-Market
+101805,2026-06-17,1,18-24 Years,Male,Hyderabad,Mid-Market
+101806,2026-06-17,1,18-24 Years,Female,Delhi,Occasional Gifter
+101807,2026-06-17,1,55+ Years,Male,Delhi,Value Seeker
+101808,2026-06-17,1,18-24 Years,Female,Hyderabad,Occasional Gifter
+101809,2026-06-18,1,45-54 Years,Male,Delhi,Occasional Gifter
+101810,2026-06-18,3,18-24 Years,Male,Bengaluru,Value Seeker
+101811,2026-06-18,1,18-24 Years,Female,Kolkata,Mid-Market
+101812,2026-06-18,4,18-24 Years,Male,Kolkata,Occasional Gifter
+101813,2026-06-19,1,55+ Years,Female,Pune,Premium
+101814,2026-06-19,1,25-34 Years,Female,Jaipur,Premium
+101815,2026-06-19,1,45-54 Years,Male,Mumbai,Value Seeker
+101816,2026-06-19,1,18-24 Years,Female,Ahmedabad,Premium
+101817,2026-06-19,1,25-34 Years,Female,Lucknow,Mid-Market
+101818,2026-06-21,2,25-34 Years,Female,Kolkata,Mid-Market
+101819,2026-06-21,6,18-24 Years,Female,Bengaluru,Value Seeker
+101820,2026-06-21,2,25-34 Years,Female,Kolkata,Premium
+101821,2026-06-21,1,18-24 Years,Male,Mumbai,Mid-Market
+101822,2026-06-22,1,45-54 Years,Female,Hyderabad,Occasional Gifter
+101823,2026-06-22,1,35-44 Years,Female,Hyderabad,Mid-Market
+101824,2026-06-22,1,25-34 Years,Female,Delhi,Value Seeker
+101825,2026-06-22,1,18-24 Years,Female,Hyderabad,Value Seeker
+101826,2026-06-22,1,25-34 Years,Female,Ahmedabad,Occasional Gifter
+101827,2026-06-22,1,45-54 Years,Male,Delhi,Occasional Gifter
+101828,2026-06-22,2,18-24 Years,Male,Pune,Occasional Gifter
+101829,2026-06-22,1,25-34 Years,Female,Kolkata,Value Seeker
+101830,2026-06-23,2,35-44 Years,Female,Chennai,Occasional Gifter
+101831,2026-06-23,4,18-24 Years,Female,Chennai,Premium
+101832,2026-06-23,1,45-54 Years,Male,Bengaluru,Mid-Market
+101833,2026-06-23,2,18-24 Years,Female,Delhi,Value Seeker
+101834,2026-06-24,2,25-34 Years,Female,Hyderabad,Premium
+101835,2026-06-24,2,25-34 Years,Male,Lucknow,Value Seeker
+101836,2026-06-24,6,18-24 Years,Male,Pune,Value Seeker
+101837,2026-06-24,1,25-34 Years,Male,Mumbai,Mid-Market
+101838,2026-06-24,1,18-24 Years,Male,Pune,Value Seeker
+101839,2026-06-24,1,18-24 Years,Male,Mumbai,Premium
+101840,2026-06-24,1,25-34 Years,Male,Kolkata,Mid-Market
+101841,2026-06-24,1,35-44 Years,Male,Delhi,Premium
+101842,2026-06-24,1,18-24 Years,Male,Kochi,Premium
+101843,2026-06-24,2,35-44 Years,Male,Ahmedabad,Mid-Market
+101844,2026-06-24,1,25-34 Years,Female,Ahmedabad,Value Seeker
+101845,2026-06-25,1,35-44 Years,Female,Mumbai,Value Seeker
+101846,2026-06-25,2,35-44 Years,Female,Mumbai,Value Seeker
+101847,2026-06-26,3,18-24 Years,Female,Jaipur,Value Seeker
+101848,2026-06-26,4,18-24 Years,Male,Ahmedabad,Value Seeker
+101849,2026-06-26,1,18-24 Years,Female,Kolkata,Premium
+101850,2026-06-26,1,35-44 Years,Male,Kochi,Premium
+101851,2026-06-27,1,18-24 Years,Male,Chandigarh,Mid-Market
+101852,2026-06-27,1,25-34 Years,Female,Chennai,Mid-Market
+101853,2026-06-27,1,45-54 Years,Female,Delhi,Value Seeker
+101854,2026-06-27,1,25-34 Years,Male,Delhi,Value Seeker
+101855,2026-06-27,2,25-34 Years,Male,Delhi,Occasional Gifter
+101856,2026-06-27,4,25-34 Years,Female,Ahmedabad,Value Seeker
+101857,2026-06-27,1,25-34 Years,Male,Chennai,Occasional Gifter
+101858,2026-06-27,1,25-34 Years,Female,Hyderabad,Mid-Market
+101859,2026-06-27,1,35-44 Years,Female,Mumbai,Mid-Market
+101860,2026-06-27,1,18-24 Years,Male,Chennai,Mid-Market
+101861,2026-06-28,6,18-24 Years,Male,Pune,Value Seeker
+101862,2026-06-28,2,25-34 Years,Female,Delhi,Occasional Gifter
+101863,2026-06-28,3,18-24 Years,Male,Bengaluru,Value Seeker
+101864,2026-06-28,1,35-44 Years,Male,Jaipur,Mid-Market
+101865,2026-06-28,1,18-24 Years,Male,Delhi,Occasional Gifter
+101866,2026-06-28,1,25-34 Years,Male,Mumbai,Value Seeker
+101867,2026-06-29,1,18-24 Years,Female,Delhi,Mid-Market
+101868,2026-06-29,1,25-34 Years,Male,Delhi,Value Seeker
+101869,2026-06-29,1,25-34 Years,Female,Hyderabad,Value Seeker
+101870,2026-06-29,2,35-44 Years,Female,Delhi,Value Seeker
+101871,2026-06-29,2,25-34 Years,Male,Hyderabad,Premium
+101872,2026-06-29,1,25-34 Years,Female,Jaipur,Mid-Market
+101873,2026-06-29,1,35-44 Years,Female,Delhi,Value Seeker
+101874,2026-06-30,2,18-24 Years,Female,Mumbai,Mid-Market
+101875,2026-06-30,1,25-34 Years,Female,Pune,Value Seeker
+101876,2026-06-30,1,25-34 Years,Female,Hyderabad,Mid-Market
+101877,2026-06-30,1,18-24 Years,Male,Jaipur,Value Seeker
+101878,2026-06-30,1,25-34 Years,Female,Delhi,Value Seeker
+101879,2026-07-01,2,25-34 Years,Female,Hyderabad,Value Seeker
+101880,2026-07-01,1,35-44 Years,Male,Bengaluru,Mid-Market
+101881,2026-07-01,1,25-34 Years,Female,Bengaluru,Value Seeker
+101882,2026-07-01,1,18-24 Years,Female,Kolkata,Value Seeker
+101883,2026-07-01,1,35-44 Years,Male,Pune,Mid-Market
+101884,2026-07-02,1,25-34 Years,Female,Kolkata,Mid-Market
+101885,2026-07-02,1,18-24 Years,Male,Pune,Mid-Market
+101886,2026-07-02,1,35-44 Years,Female,Chandigarh,Value Seeker
+101887,2026-07-02,1,25-34 Years,Female,Jaipur,Value Seeker
+101888,2026-07-03,1,25-34 Years,Male,Kolkata,Occasional Gifter
+101889,2026-07-03,3,18-24 Years,Male,Ahmedabad,Premium
+101890,2026-07-03,1,35-44 Years,Male,Pune,Value Seeker
+101891,2026-07-03,1,18-24 Years,Male,Kolkata,Mid-Market
+101892,2026-07-03,1,25-34 Years,Male,Delhi,Premium
+101893,2026-07-03,1,18-24 Years,Female,Mumbai,Occasional Gifter
+101894,2026-07-03,1,18-24 Years,Male,Hyderabad,Mid-Market
+101895,2026-07-03,1,35-44 Years,Female,Pune,Mid-Market
+101896,2026-07-04,2,18-24 Years,Female,Chandigarh,Value Seeker
+101897,2026-07-04,1,25-34 Years,Male,Delhi,Value Seeker
+101898,2026-07-04,1,18-24 Years,Male,Kochi,Mid-Market
+101899,2026-07-04,1,35-44 Years,Male,Ahmedabad,Mid-Market
+101900,2026-07-04,1,18-24 Years,Male,Chennai,Mid-Market
+101901,2026-07-04,1,18-24 Years,Female,Lucknow,Mid-Market
+101902,2026-07-04,1,25-34 Years,Female,Ahmedabad,Premium
+101903,2026-07-05,2,45-54 Years,Female,Delhi,Premium
+101904,2026-07-05,1,25-34 Years,Female,Delhi,Mid-Market
+101905,2026-07-05,3,18-24 Years,Male,Mumbai,Value Seeker
+101906,2026-07-05,1,18-24 Years,Female,Mumbai,Mid-Market
+101907,2026-07-06,1,25-34 Years,Female,Pune,Mid-Market
+101908,2026-07-06,6,18-24 Years,Female,Jaipur,Value Seeker
+101909,2026-07-09,6,18-24 Years,Female,Bengaluru,Value Seeker
+101910,2026-07-10,2,25-34 Years,Female,Pune,Mid-Market
+101911,2026-07-11,3,25-34 Years,Male,Hyderabad,Mid-Market
+101912,2026-07-11,2,25-34 Years,Female,Delhi,Mid-Market
+101913,2026-07-11,1,18-24 Years,Female,Bengaluru,Premium
+101914,2026-07-12,1,25-34 Years,Female,Delhi,Occasional Gifter
+101915,2026-07-14,1,35-44 Years,Male,Kolkata,Mid-Market
+101916,2026-07-14,6,45-54 Years,Female,Mumbai,Value Seeker
+101917,2026-07-15,2,25-34 Years,Male,Hyderabad,Value Seeker
+101918,2026-07-16,1,25-34 Years,Male,Pune,Mid-Market
+101919,2026-07-16,3,18-24 Years,Female,Bengaluru,Mid-Market
+101920,2026-07-17,2,25-34 Years,Male,Delhi,Mid-Market
+101921,2026-07-17,3,18-24 Years,Male,Pune,Mid-Market
+101922,2026-07-18,1,18-24 Years,Female,Bengaluru,Value Seeker
+101923,2026-07-18,2,45-54 Years,Female,Delhi,Value Seeker
+101924,2026-07-19,1,35-44 Years,Male,Mumbai,Value Seeker
+101925,2026-07-19,2,35-44 Years,Female,Jaipur,Premium
+101926,2026-07-19,2,25-34 Years,Male,Bengaluru,Occasional Gifter
+101927,2026-07-20,1,18-24 Years,Female,Jaipur,Mid-Market
+101928,2026-07-20,1,18-24 Years,Male,Mumbai,Value Seeker
+101929,2026-07-20,2,35-44 Years,Female,Kochi,Value Seeker
+101930,2026-07-20,2,25-34 Years,Female,Jaipur,Premium
+101931,2026-07-21,3,35-44 Years,Male,Mumbai,Value Seeker
+101932,2026-07-22,1,25-34 Years,Female,Chennai,Mid-Market
+101933,2026-07-22,2,55+ Years,Male,Ahmedabad,Premium
+101934,2026-07-24,1,18-24 Years,Male,Kolkata,Mid-Market
+101935,2026-07-24,2,25-34 Years,Female,Mumbai,Value Seeker
+101936,2026-07-24,2,25-34 Years,Female,Chandigarh,Mid-Market
+101937,2026-07-24,2,25-34 Years,Female,Lucknow,Value Seeker
+101938,2026-07-26,2,18-24 Years,Male,Mumbai,Value Seeker
+101939,2026-07-26,2,45-54 Years,Female,Chennai,Value Seeker
+101940,2026-07-26,2,18-24 Years,Male,Ahmedabad,Value Seeker
+101941,2026-07-27,1,25-34 Years,Female,Hyderabad,Mid-Market
+101942,2026-07-27,4,18-24 Years,Male,Hyderabad,Value Seeker
+101943,2026-07-27,5,25-34 Years,Male,Delhi,Mid-Market
+101944,2026-07-27,2,45-54 Years,Male,Mumbai,Mid-Market
+101945,2026-07-28,2,25-34 Years,Male,Delhi,Value Seeker
+101946,2026-07-28,1,45-54 Years,Male,Ahmedabad,Mid-Market
+101947,2026-07-28,2,25-34 Years,Female,Kolkata,Occasional Gifter
+101948,2026-07-28,1,35-44 Years,Female,Ahmedabad,Premium
+101949,2026-07-28,2,35-44 Years,Female,Pune,Mid-Market
+101950,2026-07-28,1,25-34 Years,Male,Chandigarh,Value Seeker
+101951,2026-07-29,6,25-34 Years,Female,Mumbai,Mid-Market
+101952,2026-07-30,2,25-34 Years,Female,Kolkata,Value Seeker
+101953,2026-08-01,1,18-24 Years,Female,Hyderabad,Occasional Gifter
+101954,2026-08-01,1,35-44 Years,Male,Ahmedabad,Mid-Market
+101955,2026-08-01,2,35-44 Years,Female,Delhi,Value Seeker
+101956,2026-08-01,2,18-24 Years,Female,Hyderabad,Value Seeker
+101957,2026-08-02,2,35-44 Years,Female,Pune,Premium
+101958,2026-08-02,6,18-24 Years,Female,Delhi,Value Seeker
+101959,2026-08-03,2,18-24 Years,Other,Pune,Value Seeker
+101960,2026-08-03,2,18-24 Years,Female,Chennai,Value Seeker
+101961,2026-08-04,1,25-34 Years,Female,Delhi,Value Seeker
+101962,2026-08-04,1,45-54 Years,Male,Pune,Value Seeker
+101963,2026-08-04,5,25-34 Years,Male,Bengaluru,Value Seeker
+101964,2026-08-04,2,25-34 Years,Female,Bengaluru,Premium
+101965,2026-08-05,7,35-44 Years,Male,Chennai,Value Seeker
+101966,2026-08-05,2,35-44 Years,Female,Mumbai,Mid-Market
+101967,2026-08-05,2,18-24 Years,Female,Bengaluru,Mid-Market
+101968,2026-08-06,4,18-24 Years,Female,Chennai,Occasional Gifter
+101969,2026-08-06,2,25-34 Years,Male,Chennai,Value Seeker
+101970,2026-08-07,2,45-54 Years,Female,Jaipur,Value Seeker
+101971,2026-08-08,1,25-34 Years,Male,Kolkata,Value Seeker
+101972,2026-08-09,1,35-44 Years,Male,Mumbai,Mid-Market
+101973,2026-08-09,1,25-34 Years,Female,Delhi,Premium
+101974,2026-08-09,1,45-54 Years,Female,Hyderabad,Mid-Market
+101975,2026-08-09,2,35-44 Years,Female,Ahmedabad,Occasional Gifter
+101976,2026-08-09,2,25-34 Years,Female,Kolkata,Premium
+101977,2026-08-10,7,35-44 Years,Other,Ahmedabad,Mid-Market
+101978,2026-08-10,2,25-34 Years,Female,Chandigarh,Value Seeker
+101979,2026-08-11,3,18-24 Years,Female,Mumbai,Value Seeker
+101980,2026-08-13,2,18-24 Years,Female,Ahmedabad,Premium
+101981,2026-08-15,3,25-34 Years,Female,Pune,Value Seeker
+101982,2026-08-16,2,25-34 Years,Female,Hyderabad,Occasional Gifter
+101983,2026-08-19,2,35-44 Years,Female,Kolkata,Premium
+101984,2026-08-20,1,25-34 Years,Male,Chennai,Value Seeker
+101985,2026-08-21,2,18-24 Years,Male,Delhi,Premium
+101986,2026-08-23,1,35-44 Years,Male,Bengaluru,Premium
+101987,2026-08-24,2,18-24 Years,Male,Delhi,Mid-Market
+101988,2026-08-25,1,45-54 Years,Female,Delhi,Occasional Gifter
+101989,2026-08-25,1,45-54 Years,Male,Pune,Premium
+101990,2026-08-25,6,25-34 Years,Female,Kolkata,Value Seeker
+101991,2026-08-26,2,18-24 Years,Male,Pune,Mid-Market
+101992,2026-08-26,1,25-34 Years,Female,Pune,Value Seeker
+101993,2026-08-27,1,25-34 Years,Male,Pune,Premium
+101994,2026-08-27,3,18-24 Years,Male,Pune,Value Seeker
+101995,2026-08-27,1,35-44 Years,Male,Pune,Premium
+101996,2026-08-29,1,25-34 Years,Female,Bengaluru,Premium
+101997,2026-08-29,5,25-34 Years,Female,Kolkata,Value Seeker
+101998,2026-08-30,1,25-34 Years,Female,Kochi,Mid-Market
+101999,2026-08-30,2,18-24 Years,Male,Chennai,Premium
+102000,2026-08-30,3,18-24 Years,Female,Mumbai,Value Seeker
+102001,2026-08-30,7,45-54 Years,Male,Bengaluru,Occasional Gifter
+102002,2026-08-31,4,18-24 Years,Female,Hyderabad,Value Seeker
+102003,2026-08-31,3,18-24 Years,Female,Mumbai,Value Seeker
+102004,2026-09-01,1,25-34 Years,Male,Chennai,Occasional Gifter
+102005,2026-09-01,4,35-44 Years,Female,Mumbai,Value Seeker
+102006,2026-09-01,6,18-24 Years,Female,Kolkata,Value Seeker
+102007,2026-09-02,1,25-34 Years,Male,Mumbai,Premium
+102008,2026-09-03,4,18-24 Years,Female,Hyderabad,Mid-Market
+102009,2026-09-03,2,55+ Years,Female,Chennai,Mid-Market
+102010,2026-09-03,4,25-34 Years,Female,Chennai,Value Seeker
+102011,2026-09-03,1,18-24 Years,Male,Mumbai,Mid-Market
+102012,2026-09-04,1,45-54 Years,Male,Delhi,Value Seeker
+102013,2026-09-04,4,25-34 Years,Male,Delhi,Mid-Market
+102014,2026-09-04,1,25-34 Years,Male,Chennai,Value Seeker
+102015,2026-09-05,2,35-44 Years,Female,Jaipur,Value Seeker
+102016,2026-09-06,1,25-34 Years,Female,Ahmedabad,Occasional Gifter
+102017,2026-09-06,2,25-34 Years,Female,Hyderabad,Mid-Market
+102018,2026-09-07,2,25-34 Years,Female,Mumbai,Value Seeker
+102019,2026-09-07,1,18-24 Years,Female,Ahmedabad,Mid-Market
+102020,2026-09-07,2,18-24 Years,Female,Chennai,Value Seeker
+102021,2026-09-07,4,18-24 Years,Male,Jaipur,Mid-Market
+102022,2026-09-07,3,18-24 Years,Male,Bengaluru,Value Seeker
+102023,2026-09-08,1,25-34 Years,Male,Kolkata,Value Seeker
+102024,2026-09-08,1,18-24 Years,Female,Delhi,Occasional Gifter
+102025,2026-09-08,1,25-34 Years,Female,Mumbai,Value Seeker
+102026,2026-09-08,6,25-34 Years,Female,Bengaluru,Value Seeker
+102027,2026-09-08,7,35-44 Years,Female,Hyderabad,Premium
+102028,2026-09-10,3,18-24 Years,Female,Kolkata,Value Seeker
+102029,2026-09-11,3,25-34 Years,Male,Delhi,Value Seeker
+102030,2026-09-17,1,25-34 Years,Male,Mumbai,Mid-Market
+102031,2026-09-18,7,45-54 Years,Female,Bengaluru,Premium
+102032,2026-09-18,2,45-54 Years,Male,Bengaluru,Occasional Gifter
+102033,2026-09-19,6,25-34 Years,Male,Pune,Value Seeker
+102034,2026-09-19,2,25-34 Years,Female,Bengaluru,Mid-Market
+102035,2026-09-20,1,18-24 Years,Male,Hyderabad,Occasional Gifter
+102036,2026-09-20,6,25-34 Years,Female,Mumbai,Value Seeker
+102037,2026-09-21,2,45-54 Years,Female,Chennai,Mid-Market
+102038,2026-09-22,2,25-34 Years,Female,Kochi,Occasional Gifter
+102039,2026-09-22,1,25-34 Years,Female,Bengaluru,Occasional Gifter
+102040,2026-09-23,1,35-44 Years,Male,Bengaluru,Mid-Market
+102041,2026-09-23,1,18-24 Years,Male,Bengaluru,Premium
+102042,2026-09-25,1,18-24 Years,Female,Mumbai,Mid-Market
+102043,2026-09-26,1,35-44 Years,Male,Mumbai,Mid-Market
+102044,2026-09-27,5,35-44 Years,Female,Mumbai,Value Seeker
+102045,2026-09-28,3,18-24 Years,Female,Kolkata,Occasional Gifter
+102046,2026-09-28,1,18-24 Years,Female,Kochi,Value Seeker
+102047,2026-09-28,2,18-24 Years,Male,Bengaluru,Occasional Gifter
+102048,2026-09-29,1,18-24 Years,Female,Hyderabad,Mid-Market
+102049,2026-09-29,2,18-24 Years,Female,Bengaluru,Mid-Market
+102050,2026-09-29,3,18-24 Years,Female,Delhi,Premium

@@ -1,0 +1,41 @@
+Campaign_ID,Campaign_Name,Channel_ID,Start_Date,End_Date,Campaign_Budget,Campaign_Type,Target_Audience
+1001,Google Search | Brand Keywords Always-On,1,2025-07-01,2026-09-30,180000.00,Conversion,All Adults 18-45
+1002,Google Search | Generic Category Keywords,1,2025-07-01,2026-06-30,240000.00,Conversion,All Adults 18-45
+1003,Google Search | Competitor Conquesting,1,2025-09-01,2026-09-30,150000.00,Conversion,Men 25-34
+1004,Meta | Prospecting Broad Audience,2,2025-07-01,2026-06-30,220000.00,Lead Generation,Women 25-34
+1005,Meta | Lookalike Past Purchasers,2,2025-08-15,2026-09-30,160000.00,Conversion,Lookalike Past Purchasers
+1006,Meta | Dynamic Product Retargeting,2,2025-07-01,2026-09-30,120000.00,Retargeting,Website Visitors
+1007,YouTube | Brand Storytelling Videos,3,2025-07-15,2026-03-31,100000.00,Brand Awareness,All Adults 18-45
+1008,Influencer | Micro Creator Program,4,2025-07-01,2026-09-30,140000.00,Lead Generation,Gen Z 18-24
+1009,Email | Welcome Series Automation,5,2025-07-01,2026-09-30,35000.00,Lead Generation,New Subscribers
+1010,Email | Weekly Newsletter Promotions,5,2025-07-01,2026-06-30,30000.00,Conversion,Subscribers
+1011,Affiliate | Cashback and Coupon Partners,6,2025-07-01,2026-09-30,110000.00,Conversion,Value Seekers
+1012,WhatsApp | Cart Recovery Nudges,7,2025-08-01,2026-09-30,60000.00,Retargeting,Cart Abandoners
+1013,Display | Site Retargeting Banners,8,2025-07-01,2026-06-30,70000.00,Retargeting,Website Visitors
+1014,YouTube | Shorts Performance Push,3,2026-01-01,2026-09-30,90000.00,Conversion,Gen Z 18-24
+1015,Google Search | Monsoon Mega Sale 2025,1,2025-07-10,2025-08-10,60000.00,Seasonal Promotion,All Adults 18-45
+1016,Meta | Freedom Sale Carousel,2,2025-08-05,2025-08-17,45000.00,Seasonal Promotion,All Adults 18-45
+1017,Influencer | Raksha Bandhan Gifting Creators,4,2025-07-28,2025-08-10,50000.00,Seasonal Promotion,Gifting Shoppers
+1018,Email | Raksha Bandhan Gift Guide,5,2025-07-30,2025-08-09,15000.00,Seasonal Promotion,Subscribers
+1019,YouTube | Festive Preview Teasers,3,2025-09-10,2025-10-10,80000.00,Brand Awareness,All Adults 18-45
+1020,Meta | Navratri Fashion Fest Reels,2,2025-09-18,2025-10-02,70000.00,Seasonal Promotion,Women 25-34
+1021,Google Search | Diwali Mega Sale Search,1,2025-10-05,2025-10-23,150000.00,Seasonal Promotion,All Adults 18-45
+1022,Meta | Diwali Mega Sale Social,2,2025-10-05,2025-10-23,140000.00,Seasonal Promotion,All Adults 18-45
+1023,Influencer | Diwali Gifting Collabs,4,2025-10-01,2025-10-20,90000.00,Seasonal Promotion,Gifting Shoppers
+1024,WhatsApp | Diwali Countdown Broadcast,7,2025-10-08,2025-10-20,30000.00,Seasonal Promotion,WhatsApp Opt-in Users
+1025,Affiliate | Diwali Cashback Boost,6,2025-10-01,2025-10-25,80000.00,Seasonal Promotion,Value Seekers
+1026,Google Search | Black Friday Search and Shopping,1,2025-11-20,2025-12-01,100000.00,Seasonal Promotion,All Adults 18-45
+1027,Meta | Black Friday Social Blast,2,2025-11-20,2025-12-01,90000.00,Seasonal Promotion,All Adults 18-45
+1028,Email | Cyber Week Flash Deals,5,2025-11-24,2025-12-02,18000.00,Seasonal Promotion,Subscribers
+1029,Display | Year-End Clearance Display,8,2025-12-10,2025-12-31,55000.00,Seasonal Promotion,Value Seekers
+1030,YouTube | Winter Collection Launch Videos,3,2025-12-15,2026-01-15,85000.00,Product Launch,All Adults 18-45
+1031,Google Search | Republic Day Sale Search,1,2026-01-15,2026-01-27,70000.00,Seasonal Promotion,All Adults 18-45
+1032,WhatsApp | Republic Day Sale Broadcast,7,2026-01-18,2026-01-26,20000.00,Seasonal Promotion,WhatsApp Opt-in Users
+1033,Meta | Valentines Gifting Social,2,2026-02-01,2026-02-15,55000.00,Seasonal Promotion,Gifting Shoppers
+1034,Influencer | Valentines Gifting Creators,4,2026-02-01,2026-02-14,60000.00,Seasonal Promotion,Gifting Shoppers
+1035,Affiliate | Holi Colors Sale Affiliates,6,2026-02-24,2026-03-06,40000.00,Seasonal Promotion,Value Seekers
+1036,Meta | Spring Summer Launch Social,2,2026-03-10,2026-04-15,85000.00,Product Launch,Women 25-34
+1037,Influencer | Summer Collection Creator Launch,4,2026-03-15,2026-04-30,100000.00,Product Launch,Gen Z 18-24
+1038,Email | Mothers Day Gifting Email,5,2026-04-25,2026-05-10,14000.00,Seasonal Promotion,Subscribers
+1039,Google Search | Mid-Year Mega Sale Search,1,2026-06-15,2026-07-05,90000.00,Seasonal Promotion,All Adults 18-45
+1040,Meta | Monsoon Sale 2026 Social,2,2026-07-10,2026-08-10,80000.00,Seasonal Promotion,All Adults 18-45
