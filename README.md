@@ -502,26 +502,24 @@ Slicers on all three dashboards show single selections (e.g., Destination = Agra
 > Replace the paths below with your actual image files.
 
 ### Dashboard 1: Transportation Performance Overview
-![Transportation Performance Overview](https://github.com/Ankar-G/Marketing-Campaign-Customer-Acquisition-Analytics/blob/main/Dashboards%20Screenshots/Dashboard%201.png)
+![Transportation Performance Overview](images/dashboard_1_transportation_performance.png)
 
 ### Dashboard 2: Carrier & Route Optimization
-![Carrier & Route Optimization](https://github.com/Ankar-G/Marketing-Campaign-Customer-Acquisition-Analytics/blob/main/Dashboards%20Screenshots/Dashboard%202.png)
+![Carrier & Route Optimization](images/dashboard_2_carrier_route_optimization.png)
 
 ### Dashboard 3: Vehicle Utilization & Cost Saving
-![Vehicle Utilization & Cost Saving](https://github.com/Ankar-G/Marketing-Campaign-Customer-Acquisition-Analytics/blob/main/Dashboards%20Screenshots/Dashboard%203.png)
+![Vehicle Utilization & Cost Saving](images/dashboard_3_vehicle_utilization_cost_saving.png)
 
 ---
 
 ## 19. Connect With Me
 
-**Name:** Ankar Goswami
-**Role:** '[Supply Chain / Data Analyst]'
-
-**LinkedIn:** '[https://www.linkedin.com/in/ankar-goswami-23a196245/]'
-
-**GitHub:** '[https://github.com/Ankar-G]'
-
-**Email:** '[goswamijit99@gmail.com]'
+**Name:** `[PLACEHOLDER]`
+**Role:** Supply Chain / Data Analyst
+**LinkedIn:** `[PLACEHOLDER: link]`
+**GitHub:** `[PLACEHOLDER: link]`
+**Email:** `[PLACEHOLDER]`
+**Portfolio:** `[PLACEHOLDER]`
 
 ---
 
