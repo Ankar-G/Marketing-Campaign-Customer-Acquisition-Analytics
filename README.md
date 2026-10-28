@@ -503,15 +503,15 @@ Save the dashboard screenshots in an `images/` folder in the repository root. Th
 
 ### Marketing Campaign Performance
 
-![Marketing Campaign Performance Dashboard](images/dashboard_1_campaign_performance.png)
+![Marketing Campaign Performance Dashboard](https://github.com/Ankar-G/Marketing-Campaign-Customer-Acquisition-Analytics/blob/main/Dashboards%20Screenshots/Dashboard%201.png)
 
 ### Customer Acquisition and Conversion Funnel
 
-![Customer Acquisition and Conversion Funnel Dashboard](images/dashboard_2_customer_acquisition.png)
+![Customer Acquisition and Conversion Funnel Dashboard](https://github.com/Ankar-G/Marketing-Campaign-Customer-Acquisition-Analytics/blob/main/Dashboards%20Screenshots/Dashboard%202.png)
 
 ### Channel, Campaign, and Customer Value Analysis
 
-![Channel, Campaign, and Customer Value Analysis Dashboard](images/dashboard_3_customer_value.png)
+![Channel, Campaign, and Customer Value Analysis Dashboard](https://github.com/Ankar-G/Marketing-Campaign-Customer-Acquisition-Analytics/blob/main/Dashboards%20Screenshots/Dashboard%203.png)
 
 ### GitHub Image Setup
 
