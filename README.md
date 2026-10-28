@@ -1,15 +1,8 @@
-# 🚚 Transportation & Logistics Optimization Dashboard
+# Marketing Campaign & Customer Acquisition Analytics
 
-> An Excel-based analytics project that evaluates transportation cost, delivery performance, carrier and route efficiency, and vehicle utilization across 1,200 shipments (January–October 2026).
+An end-to-end marketing analytics project focused on evaluating campaign performance, measuring customer acquisition efficiency, and identifying opportunities to improve marketing profitability through data-driven insights.
 
-![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346) ![Domain](https://img.shields.io/badge/Domain-Supply%20Chain%20%26%20Logistics-blue) ![Dashboards](https://img.shields.io/badge/Dashboards-3-orange)
-
-> **📌 Draft notes for the author (delete before publishing)**
-> This README was built from the three dashboard screenshots. Items marked **`[PLACEHOLDER]`** need your input. Items marked **⚠️ Validate** are inconsistencies or unclear definitions found in the screenshots. Resolve or document them before publishing.
-
----
-
-## Table of Contents
+## 📌 Table of Contents
 
 1. [Project Overview](#1-project-overview)
 2. [Problem Statement](#2-problem-statement)
@@ -19,508 +12,522 @@
 6. [Data Cleaning and Preparation](#6-data-cleaning-and-preparation)
 7. [Key Calculations and Metrics](#7-key-calculations-and-metrics)
 8. [Dashboard Overview](#8-dashboard-overview)
-9. [Dashboard 1: Transportation Performance Overview](#9-dashboard-1-transportation-performance-overview)
-10. [Dashboard 2: Carrier & Route Optimization](#10-dashboard-2-carrier--route-optimization)
-11. [Dashboard 3: Vehicle Utilization & Cost Saving](#11-dashboard-3-vehicle-utilization--cost-saving)
-12. [Key Project Insights](#12-key-project-insights)
-13. [Business Value](#13-business-value)
-14. [Business Questions Answered](#14-business-questions-answered)
-15. [Technical Skills and Tools](#15-technical-skills-and-tools)
-16. [Project Structure](#16-project-structure)
-17. [Data Validation Notes](#17-data-validation-notes)
-18. [Dashboard Preview](#18-dashboard-preview)
-19. [Connect With Me](#19-connect-with-me)
+9. [Individual Dashboard Analysis](#9-individual-dashboard-analysis)
+10. [Key Project Insights](#10-key-project-insights)
+11. [Business Value](#11-business-value)
+12. [Business Questions Answered](#12-business-questions-answered)
+13. [Technical Skills and Tools](#13-technical-skills-and-tools)
+14. [Project Structure](#14-project-structure)
+15. [Data Validation Notes](#15-data-validation-notes)
+16. [Dashboard Preview](#16-dashboard-preview)
+17. [Connect With Me](#17-connect-with-me)
 
 ---
 
 ## 1. Project Overview
 
-This project analyzes transportation operations for **1,200 shipments** with a total transportation cost of **₹36,874,775**. It is delivered as three interactive Excel dashboards:
+Marketing Campaign & Customer Acquisition Analytics is a marketing analytics project designed to evaluate how effectively marketing investments generate leads, conversions, and attributed revenue.
 
-| # | Dashboard | Focus |
-|---|-----------|-------|
-| 1 | Transportation Performance Overview | Cost, volume, delivery status, budget vs. actual |
-| 2 | Carrier & Route Optimization | Carrier cost, on-time rate, route transit performance |
-| 3 | Vehicle Utilization & Cost Saving | Load vs. capacity, cost breakdown, estimated savings |
+The project examines marketing spend, campaign performance, acquisition channels, customer conversion behaviour, and customer acquisition costs to help identify areas where marketing resources can be used more efficiently.
 
-**Data source:** `[PLACEHOLDER: state the source. If the dataset is synthetic or simulated, say so clearly here.]`
-**Data period:** January 2026 – October 2026 (based on the monthly charts; October may be a partial month — **⚠️ Validate**).
-**Currency:** Indian Rupees (₹). The symbol appears on some chart labels, but not on KPI cards. **⚠️ Validate** that all values are INR.
+The analysis focuses on key performance indicators such as Return on Advertising Spend (ROAS), Marketing ROI, Customer Acquisition Cost (CAC), Click-Through Rate (CTR), Conversion Rate, and Customer Lifetime Value (CLV), where applicable.
 
----
+The objective is to transform marketing performance data into actionable insights that support better budget allocation, improved campaign efficiency, and sustainable customer acquisition.
+
+### Project Highlights
+
+- Marketing spend and attributed revenue analysis
+- Campaign and acquisition channel performance evaluation
+- Customer acquisition cost and conversion efficiency monitoring
+- Marketing ROI and ROAS measurement
+- Lead generation and conversion funnel analysis
+- Customer value and acquisition efficiency assessment
+- Interactive dashboard-based performance reporting
 
 ## 2. Problem Statement
 
-Logistics teams need to control transportation spend while keeping deliveries on time. Common challenges include:
+Marketing teams invest in multiple channels and campaigns to attract potential customers and generate revenue. However, high marketing expenditure does not necessarily translate into profitable customer acquisition.
 
-- Actual cost running above budget
-- Uneven on-time performance across carriers and routes
-- Planned transit times that are not met
-- Vehicles running below their load capacity
+Without a structured analytics solution, businesses may struggle to determine:
 
-Without a consolidated view, it is hard to tell where cost is going, which carriers or routes underperform, and where optimization could have the most impact. This project brings these views together in one dashboard set.
+- Which marketing channels generate the strongest returns?
+- Are marketing campaigns generating enough revenue to justify their costs?
+- How efficiently are leads converting into customers?
+- Which channels have the highest customer acquisition costs?
+- Where are potential customers dropping out of the conversion funnel?
+- How can marketing budgets be allocated more effectively?
+- Are acquired customers generating sufficient value relative to acquisition costs?
 
----
+This project addresses these challenges by organizing marketing performance metrics into an analytical reporting solution that helps evaluate acquisition efficiency, campaign effectiveness, and marketing profitability.
 
 ## 3. Business Objectives
 
-- Track total transportation cost, cost per shipment, and monthly cost trends
-- Compare **actual vs. budgeted** transportation cost by month
-- Measure delivery performance (on-time rate, delays, pending shipments)
-- Compare carriers on cost, on-time delivery, and rating
-- Identify routes where actual transit time exceeds planned transit time
-- Measure vehicle utilization and identify underutilized shipments
-- Break down cost by component (freight, fuel surcharge, handling, toll, other)
-- Estimate **potential** savings under clearly stated scenario assumptions
-
----
+| Objective | Description |
+|---|---|
+| Campaign Performance Analysis | Evaluate campaign expenditure, conversions, and attributed revenue. |
+| Channel Performance Analysis | Compare acquisition channels based on spend, traffic, conversions, and returns. |
+| Customer Acquisition Analysis | Measure CAC and identify opportunities to acquire customers more efficiently. |
+| Conversion Funnel Analysis | Evaluate the movement from impressions and clicks to leads and conversions. |
+| Marketing Profitability | Assess marketing performance using ROI and ROAS. |
+| Customer Value Analysis | Examine customer value and the CLV-to-CAC relationship where data is available. |
+| Budget Optimization | Identify opportunities to improve marketing investment allocation. |
+| Performance Monitoring | Track marketing trends and identify underperforming areas. |
 
 ## 4. Project Workflow
 
+The project follows a marketing analytics workflow that moves from data preparation to performance measurement and business recommendations.
+
 ```text
-Raw Data  →  Data Cleaning  →  Data Model / PivotTables  →  KPI Calculations  →  Charts & Slicers  →  Insights & Recommendations
+Marketing Data
+      ↓
+Data Validation and Preparation
+      ↓
+Data Transformation and Modeling
+      ↓
+Marketing KPI Calculations
+      ↓
+Campaign and Channel Analysis
+      ↓
+Customer Acquisition Analysis
+      ↓
+Dashboard Development
+      ↓
+Business Insights
+      ↓
+Marketing Recommendations
 ```
 
-| Step | Activity | Status |
-|------|----------|--------|
-| 1 | Collect / generate shipment data | `[PLACEHOLDER: describe]` |
-| 2 | Clean and standardize fields | `[PLACEHOLDER: describe]` |
-| 3 | Build calculated columns and measures | `[PLACEHOLDER: Excel formulas and/or DAX]` |
-| 4 | Create PivotTables and PivotCharts | Evident from chart field names (e.g., "Sum of Budgeted_Cost") |
-| 5 | Add slicers (Destination, Carrier_ID, Order_Date, etc.) | Evident from screenshots |
-| 6 | Design three dashboards | Completed |
-| 7 | Validate metrics and document findings | See [Section 17](#17-data-validation-notes) |
-
----
+1. **Data Collection** — Gather the marketing and acquisition data required for analysis. `[PLACEHOLDER: confirm source files and data sources]`
+2. **Data Cleaning and Preparation** — Prepare the data for consistent analysis. `[PLACEHOLDER: confirm completed cleaning steps]`
+3. **Data Modeling** — Organize the relevant marketing, campaign, and customer information. `[PLACEHOLDER: confirm actual tables and relationships]`
+4. **KPI Development** — Calculate marketing expenditure, attributed revenue, conversions, CAC, ROI, ROAS, and other relevant measures.
+5. **Dashboard Development** — Present campaign and acquisition performance through dashboard visualizations.
+6. **Insight Generation** — Identify performance differences, trends, and opportunities for improvement.
+7. **Business Recommendations** — Translate analytical findings into potential marketing optimization actions.
 
 ## 5. Dataset and Data Model
 
-> `[PLACEHOLDER: add table names, row counts, and relationship diagram.]` Only fields visible in the dashboards are listed below.
+The project analyzes marketing performance across campaign and acquisition dimensions.
 
-### 5.1 Fields Confirmed from the Dashboards
+The exact dataset schema, record count, and table relationships must be confirmed against the actual source files. The following table describes the information required for the analysis rather than asserting that every field exists in the dataset.
 
-| Field | Used In | Description |
-|-------|---------|-------------|
-| `Order_Date` | Dashboard 1 slicer | Shipment order date |
-| `Order_Month` | Dashboard 2 slicer | Month of the order |
-| `Destination` | Dashboards 1 and 3 | Delivery destination (city) |
-| `Origin` | Dashboard 3 slicer | Shipment origin (city) |
-| `Carrier_ID` | Dashboards 1 and 2 | Carrier identifier (e.g., CAR-01) |
-| `Route_ID` | Dashboard 2 | Route identifier (e.g., RT-001) |
-| `Vehicle_Type` | Dashboard 3 | Vehicle category (e.g., 14ft Closed Body Truck) |
-| `Budgeted_Cost` | Dashboard 1 | Planned cost for the shipment |
-| `Total_Transportation_Cost` | Dashboards 1–3 | Actual total cost for the shipment |
-| `Planned_Transit_Hours` | Dashboard 2 | Planned transit duration |
-| `Actual_Transit_Hours` | Dashboard 2 | Actual transit duration |
-| `Capacity_KG` | Dashboard 3 | Vehicle capacity |
-| `Actual_Load_KG` | Dashboard 3 | Actual load carried |
+| Data Category | Relevant Fields |
+|---|---|
+| Campaign Information | Campaign ID, Campaign Name, Campaign Type |
+| Marketing Channels | Channel ID, Channel Name |
+| Marketing Investment | Marketing Spend, Campaign Cost |
+| Traffic Performance | Impressions, Clicks, CTR |
+| Lead Generation | Leads, Lead Conversion Metrics |
+| Conversion Performance | Conversions, Conversion Rate |
+| Revenue Performance | Attributed Revenue |
+| Customer Acquisition | Acquired Customers, CAC |
+| Customer Value | Customer Lifetime Value, CLV-to-CAC |
+| Time Dimensions | Campaign Date, Month, Quarter `[confirm available fields]` |
 
-### 5.2 Fields Implied but Not Confirmed
+### Data Model
 
-These are needed for the charts shown, but the column names are not visible. `[PLACEHOLDER: confirm exact names]`
+The project requires consistent relationships between marketing activities, campaigns, acquisition channels, and conversion outcomes to support meaningful comparisons.
 
-| Implied Field | Needed For |
-|---------------|-----------|
-| Shipment ID | Shipment counts (1,200) |
-| Delivery status (On Time / Delayed / Pending) | Dashboard 1 donut chart |
-| Shipment status (Delivered / In Transit / Returned) | Dashboard 3 donut chart |
-| Transportation mode (Road – FTL / LTL / Express) | Dashboard 1 pie chart |
-| Carrier name and rating | Dashboard 2 charts and rating KPI |
-| Distance (km) | Cost per km KPI |
-| Cost components (Freight, Fuel Surcharge, Handling, Toll, Other) | Dashboard 3 cost breakdown |
-| Delay hours | Average delivery delay KPI |
-| Damage / failure indicator | Damage / failed delivery rate KPI |
-
-### 5.3 Table Structure and Relationships
-
-`[PLACEHOLDER: e.g., Shipments (fact) → Carriers, Routes, Vehicles, Destinations (dimensions). Add a model diagram: images/data_model.png]`
-
----
+`[PLACEHOLDER: Add the actual table names, primary keys, foreign keys, and relationships after confirming the dataset or data model.]`
 
 ## 6. Data Cleaning and Preparation
 
-`[PLACEHOLDER: document the cleaning steps you actually performed.]`
+Reliable marketing analysis depends on consistent and accurate source data. The preparation process should address the following areas where applicable:
 
-| Check | Details |
-|-------|---------|
-| Duplicates | `[PLACEHOLDER]` |
-| Missing values | `[PLACEHOLDER]` |
-| Data types (dates, numbers, text) | `[PLACEHOLDER]` |
-| Naming standardization (city, carrier, vehicle names) | `[PLACEHOLDER]` |
-| Calculated columns added | `[PLACEHOLDER]` |
-| Month ordering | Month axes should be sorted chronologically (see Section 17) |
+- Check for duplicate campaign or transaction records.
+- Review missing values in important fields such as spend, clicks, conversions, and revenue.
+- Standardize campaign names and marketing channel categories.
+- Validate numerical data types and date fields.
+- Check for negative or implausible values in spend, impressions, clicks, conversions, and revenue.
+- Confirm that campaign and channel identifiers map correctly across related tables.
+- Ensure that aggregated metrics use consistent filters and reporting periods.
+- Validate that conversion and customer counts use clearly defined denominators.
 
----
+**Implementation note:** These are recommended validation checks. The exact checks performed and any transformations applied should be confirmed against the actual project files before being documented as completed work.
 
 ## 7. Key Calculations and Metrics
 
-> **Important:** The formulas below are **suggested reference definitions** and have not been taken from the original workbook. Replace them with your actual Excel formulas or DAX measures. Some KPI values shown on the dashboards do not reconcile with the reference definitions (see Section 17).
+The following metrics support marketing performance evaluation. Formulas should be aligned with the definitions used in the actual dashboard and source data.
 
-### 7.1 KPI Definitions
+| Metric | Formula | Business Purpose |
+|---|---|---|
+| Total Marketing Spend | Sum of marketing expenditure | Measures total marketing investment. |
+| Attributed Revenue | Sum of revenue attributed to marketing activity | Measures revenue credited to campaigns or channels. |
+| ROAS | Attributed Revenue ÷ Marketing Spend | Measures attributed revenue generated per unit of marketing spend. |
+| Marketing ROI | (Attributed Revenue − Marketing Spend) ÷ Marketing Spend × 100 | Measures return after subtracting marketing spend, subject to the project's ROI definition. |
+| Total Conversions | Sum of conversions | Measures conversion volume. |
+| Cost per Conversion | Marketing Spend ÷ Conversions | Measures the average cost of generating a conversion. |
+| CAC | Acquisition Spend ÷ Acquired Customers | Measures the average cost of acquiring a customer. |
+| CTR | Clicks ÷ Impressions × 100 | Measures the percentage of impressions that generate clicks. |
+| Conversion Rate | Conversions ÷ Relevant Starting Population × 100 | Measures the percentage progressing to the defined conversion event. |
+| Historical Revenue per Customer | Attributed or historical revenue ÷ relevant customer count | Measures average revenue per customer, depending on the project definition. |
+| CLV-to-CAC Ratio | Customer Lifetime Value ÷ CAC | Compares customer value with acquisition cost. |
 
-| KPI | Dashboard Value | Reference Definition |
-|-----|-----------------|----------------------|
-| Total Transportation Cost | ₹36,874,775 | Sum of `Total_Transportation_Cost` |
-| Total Shipments | 1,200 | Count of shipments |
-| Cost per Shipment | ₹30,728.98 | Total cost ÷ total shipments |
-| On-Time Delivery Rate | 89.05% | On-time shipments ÷ shipments in scope (**⚠️ definition unclear**) |
-| Average Delivery Delay Hours | 29.03 | Average of delay hours (**⚠️ scope unclear**) |
-| Total Active Carriers | 12 | Distinct count of carriers |
-| Lowest Cost per Shipment | ₹5,127 | **⚠️ Unclear**: minimum of what? |
-| Average Carrier Rating | 3.9 / 5 | Average of carrier rating |
-| Average Cost per KM | ₹58.00 | Total cost ÷ total distance |
-| Route Cost Variance | 5.35% | (Actual − Budget) ÷ Budget (**⚠️ scope unclear**) |
-| Average Vehicle Utilization | 66.59% | Actual load ÷ capacity (**⚠️ method unclear**) |
-| Underutilized Shipments | 621 | Shipments below a utilization threshold `[PLACEHOLDER: threshold]` |
-| Total Excess Transportation Cost | ₹1,962.9K | Actual − Budget (see note in 7.3) |
-| Potential Estimated Cost Saving | ₹2,040.0K | Scenario estimate (see 7.3) |
-| Damage / Failed Delivery Rate | 4.17% | Damaged or failed shipments ÷ total shipments |
+### Important Metric Definitions
 
-### 7.2 Example Excel Formulas (Reference Only)
-
-```excel
-' Cost per shipment
-= SUM(Total_Transportation_Cost) / COUNTA(Shipment_ID)
-
-' Vehicle utilization (row level)
-= Actual_Load_KG / Capacity_KG
-
-' Transit delay (row level)
-= Actual_Transit_Hours - Planned_Transit_Hours
-
-' Cost variance %
-= (SUM(Total_Transportation_Cost) - SUM(Budgeted_Cost)) / SUM(Budgeted_Cost)
-```
-
-### 7.3 Example DAX Measures (Reference Only, if a Data Model Is Used)
-
-```dax
-Total Cost = SUM ( Shipments[Total_Transportation_Cost] )
-
-Total Shipments = COUNTROWS ( Shipments )
-
-Cost per Shipment = DIVIDE ( [Total Cost], [Total Shipments] )
-
-Avg Utilization % = DIVIDE ( SUM ( Shipments[Actual_Load_KG] ), SUM ( Shipments[Capacity_KG] ) )
-
-Cost Variance % = DIVIDE ( [Total Cost] - SUM ( Shipments[Budgeted_Cost] ), SUM ( Shipments[Budgeted_Cost] ) )
-```
-
-### 7.4 Savings Estimate: Observed Relationships
-
-The Dashboard 3 savings figures appear to be **scenario-based assumptions**, not measured outcomes:
-
-| Component | Value | How It Appears to Be Derived |
-|-----------|-------|------------------------------|
-| Reduced Budget Overruns by 10% | ₹196.3K | 10% × ₹1,962.9K excess cost |
-| Reduced Transportation Costs by 5% | ₹1.8M | ≈ 5% × ₹36.87M total cost |
-| **Potential Estimated Cost Saving** | **₹2,040.0K** | Sum of the two scenarios (≈ ₹2.04M) |
-
-The 10% and 5% reduction rates are assumptions `[PLACEHOLDER: state the basis]`. These are **estimates only, not guaranteed savings**.
-
----
+- **ROAS and ROI are different:** ROAS measures attributed revenue relative to advertising spend, while ROI generally accounts for the investment cost being evaluated.
+- **Revenue is not necessarily profit:** A positive revenue-based ROI calculation does not establish business profitability unless the relevant costs are included.
+- **CAC requires a customer count:** Conversions should not automatically be treated as acquired customers unless the dataset defines them as equivalent.
+- **Conversion Rate requires a defined denominator:** Lead-to-customer conversion, click-to-conversion, and impression-to-conversion rates are different measures.
+- **CLV must have a consistent definition:** Historical revenue per customer should not be described as predictive lifetime value unless a predictive method was implemented.
 
 ## 8. Dashboard Overview
 
-| Dashboard | Slicers | KPI Cards | Charts |
-|-----------|---------|-----------|--------|
-| 1. Transportation Performance Overview | Destination, Carrier_ID, Order_Date | 5 | 5 |
-| 2. Carrier & Route Optimization | Order_Month, Route_ID, Carrier_ID | 5 | 5 |
-| 3. Vehicle Utilization & Cost Saving | Vehicle_Type, Origin, Destination | 5 | 5 |
+The project includes marketing performance analysis covering investment, revenue, acquisition efficiency, and conversion behaviour.
 
----
+The metrics recorded from the project details available are summarized below. Dashboard titles and the exact placement of each KPI should be confirmed against the original screenshots.
 
-## 9. Dashboard 1: Transportation Performance Overview
+| Dashboard Area | Analytical Focus | Relevant Measures |
+|---|---|---|
+| Marketing Campaign Performance | Evaluate campaign investment and outcomes | Marketing Spend, Attributed Revenue, ROAS, ROI |
+| Customer Acquisition Performance | Assess lead and customer acquisition efficiency | Leads, Conversions, CAC, Cost per Conversion |
+| Channel and Funnel Analysis | Understand traffic, channel performance, and conversion efficiency | Impressions, Clicks, CTR, Conversion Rate |
+| Customer Value Analysis | Compare customer value with acquisition costs | Historical Revenue per Customer, CLV-to-CAC |
 
-**Purpose:** Give a high-level view of total spend, shipment volume, delivery status, and budget performance.
+`[PLACEHOLDER: Replace these analytical areas with the exact dashboard page titles shown in the screenshots.]`
 
-### KPIs
+## 9. Individual Dashboard Analysis
 
-| KPI | Value |
-|-----|-------|
-| Total Transportation Cost | ₹36,874,775 |
-| Total Shipments | 1,200 |
-| On-Time Delivery Rate | 89.05% (⚠️ see Section 17) |
-| Cost per Shipment | ₹30,728.98 |
-| Average Delivery Delay Hours | 29.03 |
+### Dashboard 1 — Marketing Campaign Performance
 
-### Charts
+**Purpose:** Evaluate marketing investment against attributed revenue and conversion outcomes, helping identify whether marketing expenditure is generating measurable returns.
 
-| Chart | What It Shows | Observations from the Screenshot |
-|-------|---------------|----------------------------------|
-| Monthly Transportation Cost Trend | Monthly actual cost | Peak in August (₹5.1M); lowest in October (₹1.8M). Months are plotted alphabetically, not chronologically. |
-| Delivery Status Distribution | On Time / Delayed / Pending | On Time 993, Delayed 167, Pending 40 (total 1,200) |
-| Monthly Actual vs. Budgeted Transportation Cost | Budget vs. actual by month | Actual is above budget in every month shown, Jan–Oct (rounded labels) |
-| Transportation Cost By Destination | Cost by city | Highest bars appear to be Indore (~₹2.9M), Hyderabad (~₹2.7M), Ahmedabad (~₹2.0M). Verify label-to-bar mapping. |
-| Shipment Volume By Transportation Mode | Shipments by mode | Road – FTL 615 (51.3%), Road – LTL 321 (26.8%), Road – Express 264 (22.0%) |
+#### KPI Summary
 
-### Monthly Actual vs. Budget (Values Read from Chart Labels, in ₹ Millions)
+| KPI | Displayed Value |
+|---|---:|
+| Total Marketing Spend | 3,283,068.24 |
+| Attributed Revenue | 4,237,390.62 |
+| ROAS | 1.29 |
+| Marketing ROI | 122.80% |
+| Conversions | 2,050 |
 
-| Month | Budgeted | Actual |
-|-------|---------:|-------:|
-| Jan | 3.1 | 3.3 |
-| Feb | 2.8 | 2.9 |
-| Mar | 3.7 | 3.9 |
-| Apr | 3.9 | 4.2 |
-| May | 3.7 | 3.9 |
-| Jun | 4.4 | 4.6 |
-| Jul | 3.8 | 4.1 |
-| Aug | 4.8 | 5.1 |
-| Sep | 3.0 | 3.2 |
-| Oct | 1.7 | 1.8 |
-| **Total (approx.)** | **≈ 34.9** | **≈ 37.0** |
+#### Main Visuals
 
-The values are rounded, so totals are approximate. The actual total is consistent with the ₹36.87M KPI.
+The following visual topics were documented in the available project notes. Confirm the exact chart titles and types against the dashboard screenshot.
 
-### Insights and Recommendations
+| Visualization | Analytical Purpose |
+|---|---|
+| Marketing Spend vs. Attributed Revenue | Compare marketing investment with revenue attributed to campaigns. |
+| Conversions Trend | Track conversion performance over time. |
+| Spend vs. Conversions by Campaign | Compare campaign investment and conversion volume. |
+| CAC by Channel | Identify differences in customer acquisition costs across channels. |
+| Acquisition Trend | Monitor changes in acquisition performance over time. |
 
-- Spending exceeded budget in every month shown, with an overall gap of roughly ₹2M, or about 6% on rounded values.
-- Full truckload (FTL) carries just over half of all shipments, so it is a natural first area for cost review.
-- Recommendation: investigate the months with the largest gaps (e.g., Aug, Jun, Apr) and review budget-setting for peak months.
+#### Key Insights
 
----
+1. **Marketing expenditure is substantial:** Total marketing spend is approximately 3.28 million, making efficient budget allocation an important business priority.
+2. **Attributed revenue exceeds marketing spend:** Attributed revenue is approximately 4.24 million, or around 1.29 times the reported spend.
+3. **The reported ROAS is 1.29:** This indicates approximately 1.29 units of attributed revenue per unit of marketing spend, assuming the dashboard uses the standard ROAS definition.
+4. **The reported Marketing ROI requires definition validation:** The displayed ROI of 122.80% does not match the conventional revenue-based ROI calculation using the displayed spend and attributed revenue. See the Data Validation Notes section.
+5. **The project records 2,050 conversions:** Campaign-level comparisons are needed to determine which campaigns deliver these conversions most efficiently.
 
-## 10. Dashboard 2: Carrier & Route Optimization
+#### Business Recommendations
 
-**Purpose:** Compare carriers and routes on cost, reliability, and transit performance.
+- Compare campaign-level ROAS and acquisition costs before reallocating budget.
+- Investigate campaigns with high spend but relatively low conversion output.
+- Review the attribution model and ROI calculation before making investment decisions.
+- Monitor campaign results over consistent reporting periods to avoid misleading comparisons.
+- Prioritize campaigns based on business outcomes rather than conversion volume alone.
 
-### KPIs
+#### Business Questions Answered
 
-| KPI | Value |
-|-----|-------|
-| Total Active Carriers | 12 |
-| Lowest Cost per Shipment | ₹5,127 (⚠️ definition unclear) |
-| Average Carrier Rating | 3.9 / 5 |
-| Average Cost per KM | ₹58.00 |
-| Route Cost Variance | 5.35% |
+- How much was spent on marketing?
+- How much revenue was attributed to marketing?
+- What ROAS and ROI are reported?
+- How many conversions were recorded?
+- Which campaigns require further performance evaluation?
 
-### Carrier Comparison (Values Read from the Charts)
+### Dashboard 2 — Customer Acquisition and Conversion Funnel
 
-| Carrier | Total Cost (₹M) | On-Time Rate | Cost per Shipment* (₹) |
-|---------|----------------:|-------------:|-----------------------:|
-| Apex Parcel & Cargo | 1.6 | 92.06% | 23.1K |
-| Arrow Cargo Express | 2.1 | 75.28% | 23.3K |
-| Bharat Freight Lines | 3.8 | 87.63% | 37.0K |
-| Deccan Transport Co | 3.5 | 75.53% | 35.1K |
-| Ganga Carriers | 1.9 | 66.10% | 31.1K |
-| Himalaya Cargo Movers | 5.0 | ~92.66%† | 43.5K |
-| Kaveri Logistics | 3.8 | 83.50% | 35.9K |
-| MetroLink Freight | 3.3 | ~86.59%† | 22.8K |
-| QuickLoad LTL Services | 2.4 | ~85.10%† | 22.8K |
-| RapidMove Logistics | 2.0 | 74.65% | 25.9K |
-| Sunrise Roadways | 5.3 | 83.06% | 40.1K |
-| SwiftHaul Express | 2.2 | 92.55% | 22.5K |
+**Purpose:** Evaluate how marketing activity translates into clicks, leads, and conversions, and identify potential areas of acquisition inefficiency.
 
-\* The bottom-right chart is titled "Carrier Cost vs On Time Delivery" but shows a single "Total" series in ₹ thousands. The measure is assumed to be cost per shipment. **⚠️ Validate.**
-† These labels are partly cut off in the screenshot and need to be re-checked.
+#### KPI Summary
 
-### Other Charts
+| KPI | Displayed Value |
+|---|---:|
+| Leads | 17,416 |
+| Conversions | 2,050 |
+| Conversion Rate | 11.77% |
+| Customer Acquisition Cost (CAC) | 1,601.50 |
+| Cost per Conversion | 188.51 |
+| Impressions | 18,648,225 |
+| Clicks | 270,703 |
+| CTR | 1.45% |
 
-| Chart | Observations |
-|-------|--------------|
-| On-Time Delivery Rate by Route | Five routes shown: RT-016 (74.4), RT-017 (75.0), RT-028 (77.6), RT-058 (78.0), RT-062 (83.0). Values lack a % sign. The selection logic (e.g., top/bottom 5) is not stated. |
-| Planned vs. Actual Transit Time | For all ten routes shown, actual transit time is higher than planned. The largest gaps appear on RT-051 (46.3 → 67.9 hrs) and RT-073 (35.7 → 57.6 hrs). The RT-010 actual label is obscured. |
+#### Main Visuals
 
-### Insights and Recommendations
+| Visualization | Analytical Purpose |
+|---|---|
+| Conversion Funnel | Review progression through marketing funnel stages. |
+| CAC by Channel | Compare the reported cost of customer acquisition across channels. |
+| Acquisition Trend | Examine changes in acquisition performance over time. |
+| Channel or Campaign Comparison | Identify differences in traffic and acquisition results where shown. |
 
-- On-time performance varies widely: Ganga Carriers is lowest at 66.10%, while SwiftHaul Express and Apex Parcel & Cargo are above 92%.
-- SwiftHaul Express combines one of the lowest cost-per-shipment values (₹22.5K) with a high on-time rate (92.55%). Himalaya Cargo Movers has the highest cost per shipment (₹43.5K) and a similar on-time rate. Both are worth a deeper review.
-- Recommendation: review contracts and volume allocation for high-cost, lower-reliability carriers, and investigate root causes on routes with large transit gaps.
+`[PLACEHOLDER: Confirm the exact chart titles, types, filters, and channel-level values from the screenshots.]`
 
----
+#### Key Insights
 
-## 11. Dashboard 3: Vehicle Utilization & Cost Saving
+1. **The campaign data records 18.65 million impressions and approximately 270.7 thousand clicks.** These figures provide the basis for assessing traffic generation.
+2. **The reported CTR is 1.45%.** This indicates that the reported click volume is relatively small compared with total impressions.
+3. **There are 17,416 leads and 2,050 conversions.** The relationship between these counts is important for evaluating lead quality and conversion performance.
+4. **The reported CAC is 1,601.50.** This metric should be interpreted using the actual acquisition-spend and acquired-customer definitions.
+5. **The reported cost per conversion is 188.51.** It should not be assumed to represent customer acquisition cost because a conversion may be a lead or another intermediate action.
 
-**Purpose:** Evaluate how well vehicle capacity is used, where cost is concentrated, and what savings might be possible under stated assumptions.
+#### Business Recommendations
 
-### KPIs
+- Review conversion rates at each funnel stage to identify where prospects are dropping off.
+- Evaluate landing pages, targeting, and messaging if click-through performance is below internal campaign targets.
+- Compare lead quality across channels instead of optimizing solely for lead volume.
+- Validate the definition of CAC and distinguish it from cost per conversion.
+- Monitor funnel metrics over time to determine whether acquisition improvements translate into more customers.
 
-| KPI | Value |
-|-----|-------|
-| Average Vehicle Utilization | 66.59% |
-| Underutilized Shipments | 621 (51.75% of 1,200) |
-| Total Excess Transportation Cost | ₹1,962.9K |
-| Potential Estimated Cost Saving | ₹2,040.0K (estimate) |
-| Damage / Failed Delivery Rate | 4.17% (≈ 50 of 1,200) |
+#### Business Questions Answered
 
-### Charts
+- How many impressions, clicks, leads, and conversions were recorded?
+- What CTR and conversion rate are reported?
+- What are the reported CAC and cost per conversion?
+- Where should the acquisition funnel be investigated for potential inefficiencies?
 
-| Chart | Observations |
-|-------|--------------|
-| Vehicle Utilization by Vehicle Type | 32ft MXL Container 73.72% and 22ft Closed Body Truck 72.45% are highest among legible labels. Mahindra Bolero Pickup is lowest at 55.23%, and Tata 407 is 58.11%. The 32ft SXL label is cut off. |
-| Shipment Status Distribution | Delivered 1,141; In Transit 40; Returned 19 |
-| Transportation Cost Breakdown | See table below |
-| Actual Load vs. Vehicle Capacity | Average actual load is below capacity for every vehicle type (e.g., 32ft MXL: ~11.8K vs 16.0K kg) |
-| Potential Saving by Optimization Opportunity | Reduced budget overruns by 10%: ₹196.3K. Reduced transportation costs by 5%: ₹1.8M. |
+### Dashboard 3 — Channel, Campaign, and Customer Value Analysis
 
-### Cost Breakdown (Values Read from the Chart)
+**Purpose:** Compare marketing performance across channels and customer groups, and evaluate whether acquisition activity is generating sufficient customer value.
 
-| Component | Cost (₹M) | Approx. Share |
-|-----------|----------:|--------------:|
-| Freight | 30.9 | 83.7% |
-| Fuel Surcharge | 2.4 | 6.5% |
-| Handling | 1.7 | 4.6% |
-| Toll | 1.3 | 3.5% |
-| Other | 0.6 | 1.6% |
-| **Total** | **≈ 36.9** | |
+#### KPI Summary
 
-The shares are calculated from rounded labels and are approximate.
+| KPI | Displayed Value |
+|---|---:|
+| Historical Revenue per Customer | 3,568.10 |
+| CLV-to-CAC Ratio | 2.2 |
 
-### Insights and Recommendations
+`[PLACEHOLDER: Add the remaining KPI cards and exact values shown on this dashboard, if applicable.]`
 
-- Freight accounts for more than 80% of total cost, so freight rates and load planning have the largest influence on spend.
-- Over half of all shipments (621 of 1,200) are flagged as underutilized. Consolidating loads or right-sizing vehicles may reduce cost.
-- Recommendation: define the underutilization threshold clearly, then test consolidation and vehicle-size changes on a pilot set of lanes.
-- The savings figures are **estimates based on assumed reduction rates (10% and 5%)**. They are **not guaranteed results**.
+#### Main Visuals
 
----
+| Visualization | Analytical Purpose |
+|---|---|
+| Customer Segment Distribution | Understand how customers are distributed across segments. |
+| Channel Performance Comparison | Compare acquisition efficiency across available marketing channels. |
+| Campaign Performance Comparison | Evaluate campaign-level differences in acquisition and returns. |
+| Customer Value Analysis | Assess historical customer value relative to acquisition cost, where available. |
 
-## 12. Key Project Insights
+`[PLACEHOLDER: Confirm the exact dashboard title and visible chart names, categories, and values from the screenshots.]`
 
-Insights below are limited to what the dashboards support.
+#### Key Insights
 
-1. **Spend is above budget throughout the period.** Actual cost exceeds budget in all ten months shown.
-2. **Freight dominates cost.** About 84% of cost comes from freight; fuel surcharge, handling, toll, and other charges make up the rest.
-3. **Road FTL is the largest mode by volume.** 615 of 1,200 shipments (51.3%).
-4. **Carrier reliability varies widely.** On-time rates range from 66.10% (Ganga Carriers) to over 92% (SwiftHaul Express, Apex Parcel & Cargo, and Himalaya Cargo Movers).
-5. **Higher cost does not clearly mean better delivery.** Himalaya Cargo Movers has the highest cost per shipment and a high on-time rate, while SwiftHaul Express matches it on reliability at roughly half the cost per shipment (pending validation of the chart measure).
-6. **Actual transit time exceeds plan on every route shown.** Some routes, such as RT-051 and RT-073, are more than 20 hours over plan.
-7. **Vehicles run well below capacity.** Average utilization is 66.59%, and 51.75% of shipments are flagged as underutilized.
-8. **Estimated savings of about ₹2.04M** are possible under the stated 10% and 5% scenarios. These are assumptions, not forecasts.
+1. **Historical revenue per customer is reported as 3,568.10.** This provides an average historical revenue benchmark under the project's customer-value definition.
+2. **The reported CLV-to-CAC ratio is 2.2.** If CLV and CAC are defined consistently, this indicates customer value is 2.2 times acquisition cost.
+3. **Channel-level comparisons are needed to distinguish acquisition volume from acquisition quality.** A channel that brings in more customers may not necessarily deliver the best customer value.
+4. **Customer segment analysis can help guide campaign targeting.** Segment-level performance should be compared using actual counts, revenue, and acquisition costs rather than assumptions.
 
----
+#### Business Recommendations
 
-## 13. Business Value
+- Compare customer acquisition costs and customer value by channel before increasing investment.
+- Investigate whether high-volume channels also produce customers with strong historical value.
+- Use customer segment findings to refine targeting and campaign messaging.
+- Treat historical revenue per customer separately from predictive customer lifetime value.
+- Confirm that CLV and CAC use consistent customer populations and reporting periods before relying on their ratio.
 
-| Area | How the Dashboards Help |
-|------|-------------------------|
-| Cost control | Show where spend exceeds budget and which cost components dominate |
-| Carrier management | Support carrier scorecards and contract reviews |
-| Service levels | Highlight routes and carriers with delivery delays |
-| Capacity planning | Reveal underutilized vehicle types and load consolidation opportunities |
-| Planning | Give a baseline for evaluating cost-saving scenarios |
+#### Business Questions Answered
 
-> Business value is **potential**. No actual savings or operational improvements have been measured.
+- What is the reported historical revenue per customer?
+- What CLV-to-CAC ratio is reported?
+- How can channel performance be evaluated beyond conversion volume?
+- Which customer segments may warrant further analysis?
 
----
+## 10. Key Project Insights
 
-## 14. Business Questions Answered
+The available project metrics support the following preliminary observations:
 
-- What is the total transportation cost and cost per shipment?
-- How does monthly actual cost compare with budget?
-- What share of shipments are on time, delayed, or pending?
-- Which destinations account for the highest transportation cost?
-- Which transportation modes carry the most shipments?
-- Which carriers are the most and least reliable?
-- Which carriers have the highest cost per shipment?
-- Which routes show the largest gap between planned and actual transit time?
-- How well are different vehicle types utilized?
-- How is total cost split across freight, fuel surcharge, handling, toll, and other charges?
-- What savings could result from the stated reduction scenarios?
+- **Marketing investment and attributed revenue:** The project reports marketing spend of 3,283,068.24 and attributed revenue of 4,237,390.62.
+- **Reported ROAS:** The reported value is 1.29, subject to confirmation of the metric definition and aggregation method.
+- **Conversion volume:** The project records 17,416 leads and 2,050 conversions.
+- **Traffic performance:** The available metrics include 18,648,225 impressions, 270,703 clicks, and a reported CTR of 1.45%.
+- **Acquisition efficiency:** The reported CAC is 1,601.50, while cost per conversion is 188.51. These metrics should be kept distinct.
+- **Customer value:** The reported historical revenue per customer is 3,568.10, with a CLV-to-CAC ratio of 2.2. Both require consistent underlying definitions.
+- **Metric validation is important:** The displayed Marketing ROI does not reconcile with the conventional revenue-based calculation using the supplied total spend and attributed revenue.
 
----
+These are preliminary findings based on the metrics available in the project notes. Channel rankings, campaign winners, underperforming segments, and time-based trends should be added only after checking the relevant chart values.
 
-## 15. Technical Skills and Tools
+## 11. Business Value
 
-| Category | Details |
-|----------|---------|
-| Tool | Microsoft Excel |
-| Data analysis | PivotTables, PivotCharts, slicers |
-| Calculations | Excel formulas `[PLACEHOLDER]`, DAX measures `[PLACEHOLDER: if Power Pivot / data model used]` |
-| Visualization | KPI cards, bar, line, donut, pie, and column charts |
-| Domain skills | Transportation cost analysis, carrier performance, route analysis, capacity utilization |
-| Analytical skills | Budget variance analysis, KPI design, data validation |
+This project demonstrates how marketing analytics can support practical decisions across campaign management and customer acquisition.
 
----
+- **Marketing budget optimization:** Compare investment and attributed revenue to support more informed budget allocation.
+- **Campaign performance monitoring:** Evaluate campaigns using consistent performance indicators.
+- **Acquisition cost control:** Track CAC and cost per conversion to identify potential efficiency improvements.
+- **Funnel optimization:** Monitor traffic, leads, and conversions to identify stages requiring investigation.
+- **Customer value assessment:** Compare acquisition costs with customer value where suitable data is available.
+- **Data-driven decision-making:** Provide stakeholders with structured performance reporting rather than relying solely on isolated campaign metrics.
+- **Performance transparency:** Establish a common set of metrics for comparing marketing activities.
 
-## 16. Project Structure
+The project is intended to demonstrate the analytical workflow used to turn marketing data into actionable business reporting.
 
-`[PLACEHOLDER: update to match your repository.]`
+## 12. Business Questions Answered
+
+1. How much has been spent on marketing?
+2. How much revenue has been attributed to marketing activities?
+3. What ROAS and Marketing ROI are reported?
+4. How many impressions, clicks, leads, and conversions were generated?
+5. What is the reported click-through rate?
+6. What is the reported conversion rate?
+7. What are the customer acquisition cost and cost per conversion?
+8. How can campaign performance be compared across available channels?
+9. Which funnel stages should be examined for potential conversion losses?
+10. What historical revenue per customer is reported?
+11. What CLV-to-CAC ratio is reported?
+12. Which additional data validations are required before making budget decisions?
+
+## 13. Technical Skills and Tools
+
+| Tool / Skill | Purpose |
+|---|---|
+| SQL | Data extraction, transformation, and analysis, where implemented. |
+| Microsoft Excel | Data review, preparation, and supporting calculations, where implemented. |
+| Power BI | Interactive reporting and dashboard development, where implemented. |
+| DAX | Measure development for dashboard KPIs, where implemented. |
+| Data Cleaning | Preparation and consistency checks for marketing data. |
+| Marketing Analytics | Campaign, channel, funnel, and acquisition performance analysis. |
+| KPI Development | Calculation and interpretation of marketing performance indicators. |
+| Data Visualization | Presenting trends, comparisons, and performance measures. |
+| Business Analysis | Translating analytical findings into potential business actions. |
+
+`[PLACEHOLDER: Confirm the exact tools used in the completed project and remove any tools or techniques that were not implemented.]`
+
+## 14. Project Structure
+
+The following is a proposed repository structure. Update the folder and filenames to match the actual project files.
 
 ```text
-transportation-logistics-optimization/
+marketing-campaign-customer-acquisition-analytics/
 │
-├── README.md
-├── data/
-│   ├── raw/                        # [PLACEHOLDER: raw dataset]
-│   └── cleaned/                    # [PLACEHOLDER: cleaned dataset]
-├── excel/
-│   └── Transportation_Logistics_Dashboard.xlsx   # [PLACEHOLDER: file name]
+├── Data/
+│   └── [PLACEHOLDER: source dataset filename]
+│
+├── SQL/
+│   └── [PLACEHOLDER: SQL script filenames, if applicable]
+│
+├── Excel/
+│   └── [PLACEHOLDER: Excel workbook filename, if applicable]
+│
+├── PowerBI/
+│   └── [PLACEHOLDER: Power BI file, if applicable]
+│
 ├── images/
-│   ├── dashboard_1_transportation_performance.png
-│   ├── dashboard_2_carrier_route_optimization.png
-│   ├── dashboard_3_vehicle_utilization_cost_saving.png
-│   └── data_model.png              # [PLACEHOLDER]
-└── docs/
-    └── data_dictionary.md          # [PLACEHOLDER]
+│   ├── dashboard_1_campaign_performance.png
+│   ├── dashboard_2_customer_acquisition.png
+│   └── dashboard_3_customer_value.png
+│
+└── README.md
 ```
 
----
+**Note:** The filenames above are proposed examples. Replace them with the actual repository paths and dashboard filenames before publishing.
 
-## 17. Data Validation Notes
+## 15. Data Validation Notes
 
-The items below were found while reviewing the screenshots. Resolve them or document the reasons before publishing.
+Metric validation is essential because marketing dashboards can display values that do not reconcile when formulas, filters, or aggregation methods differ.
 
-### 17.1 Metric Inconsistencies
+### Validation 1 — ROAS
 
-| # | Issue | Evidence | Suggested Action |
-|---|-------|----------|------------------|
-| 1 | **On-time rate does not match the delivery status chart** | KPI shows 89.05%. The donut shows 993 on time of 1,200 (82.75%), or 993 of 1,160 excluding pending (85.60%). The average of the 12 carrier rates is also ~83%. | Confirm the formula and denominator. Correct the KPI or document the definition. |
-| 2 | **"Lowest Cost per Shipment" (₹5,127)** | The lowest carrier-level cost per shipment in the bottom-right chart is ~₹22.5K. | Clarify whether ₹5,127 is a single-shipment minimum. Rename the KPI accordingly. |
-| 3 | **Chart title does not match content** | "Carrier Cost vs On Time Delivery" shows a single "Total" series in ₹K and no on-time data. | Rename it, or plot cost and on-time rate together (e.g., scatter or combo chart). |
-| 4 | **Status labels differ between dashboards** | Dashboard 1 uses "Pending" (40); Dashboard 3 uses "In Transit" (40). | Confirm whether these are the same shipments and standardize terms. |
-| 5 | **Failed delivery rate not traceable** | 4.17% ≈ 50 of 1,200 shipments, but the status chart shows only 19 Returned. | Document which statuses or flags are counted. |
-| 6 | **Average delay (29.03 hrs) vs. route transit gaps** | Route-level gaps shown are about 5–22 hours. | Clarify whether 29.03 is the average over delayed shipments only. |
-| 7 | **Route cost variance (5.35%)** | Overall variance from the monthly chart is roughly 6%. | Document the scope (filtered vs. full dataset). |
-| 8 | **Underutilization threshold undefined** | 621 shipments flagged, but the threshold is not stated. | Document the threshold (e.g., utilization below X%). |
-| 9 | **"Excess cost" definition** | ₹1,962.9K matches actual minus budget only if "excess" means total overrun. | Document the formula. |
+Using the available values:
 
-### 17.2 Slicer Behavior
+- Attributed Revenue = 4,237,390.62
+- Marketing Spend = 3,283,068.24
 
-Slicers on all three dashboards show single selections (e.g., Destination = Agra, Carrier_ID = CAR-01, Route_ID = RT-001), yet KPIs and charts still show full-dataset totals (e.g., 1,200 shipments, all 12 carriers, ₹36.87M total in the carrier chart). The slicers may not be connected to all PivotTables, or the screenshots may have been taken without active filters. **⚠️ Validate** slicer connections.
+The conventional calculation is:
 
-### 17.3 Chart and Formatting Issues
+`ROAS = Attributed Revenue ÷ Marketing Spend`
 
-- Dashboard 1, monthly cost trend: months are in alphabetical order (Apr, Aug, Feb, ...). Sort chronologically.
-- Dashboard 1 title and KPI typos: "Transportatin" (chart title) and "AVRAGE" (KPI label).
-- Several data labels are cut off or overlap (QuickLoad and MetroLink on-time labels, 32ft SXL utilization, RT-010 actual transit label).
-- On-time rate by route shows values such as 74.4 and 83.0 without a % sign.
-- 3D column and bar charts make values harder to compare. Consider 2D charts.
-- Currency formatting is mixed (₹ on some labels, none on KPI cards). Use one format.
-- "Order_Date" slicer starts at 2026-01-01. Confirm whether October is a full month (it shows the lowest monthly cost).
+The resulting ROAS is approximately **1.29**, which is consistent with the reported value when rounded to two decimal places.
 
-### 17.4 Simulated Data and Estimates
+### Validation 2 — Marketing ROI
 
-- `[PLACEHOLDER: confirm whether the dataset is synthetic / simulated. If so, say so prominently at the top of this README.]`
-- All savings figures are **scenario-based estimates** and should not be presented as realized or guaranteed savings.
-- Figures taken from chart labels are rounded and may differ slightly from underlying values.
+Using the conventional revenue-based formula:
 
----
+`Marketing ROI = (Attributed Revenue − Marketing Spend) ÷ Marketing Spend × 100`
 
-## 18. Dashboard Preview
+The result is approximately **29.06%**, not the reported **122.80%**.
 
-> Replace the paths below with your actual image files.
+This discrepancy requires investigation. Possible explanations include a different ROI definition, a different revenue or cost measure, or inconsistent aggregation or filters. These are possibilities, not confirmed causes.
 
-### Dashboard 1: Transportation Performance Overview
-![Transportation Performance Overview](https://github.com/Ankar-G/Marketing-Campaign-Customer-Acquisition-Analytics/blob/main/Dashboards%20Screenshots/Dashboard%201.png)
+### Validation 3 — CTR
 
-### Dashboard 2: Carrier & Route Optimization
-![Carrier & Route Optimization](https://github.com/Ankar-G/Marketing-Campaign-Customer-Acquisition-Analytics/blob/main/Dashboards%20Screenshots/Dashboard%202.png)
+Using the available traffic metrics:
 
-### Dashboard 3: Vehicle Utilization & Cost Saving
-![Vehicle Utilization & Cost Saving](https://github.com/Ankar-G/Marketing-Campaign-Customer-Acquisition-Analytics/blob/main/Dashboards%20Screenshots/Dashboard%203.png)
+- Impressions = 18,648,225
+- Clicks = 270,703
 
----
+`CTR = Clicks ÷ Impressions × 100`
 
-## 19. Connect With Me
+The result is approximately **1.45%**, consistent with the reported CTR after rounding.
 
-**Name:** `[PLACEHOLDER]`
-**Role:** Supply Chain / Data Analyst
-**LinkedIn:** `[PLACEHOLDER: link]`
-**GitHub:** `[PLACEHOLDER: link]`
-**Email:** `[PLACEHOLDER]`
-**Portfolio:** `[PLACEHOLDER]`
+### Validation 4 — Conversion Rate
 
----
+Using the available leads and conversions:
 
-⭐ If you found this project useful, consider giving the repository a star.
+- Leads = 17,416
+- Conversions = 2,050
+
+Conversions divided by leads is approximately **11.77%**.
+
+This reconciles with the reported conversion rate **if** the dashboard defines conversion rate as conversions divided by leads. Confirm that this is the actual definition used.
+
+### Validation 5 — CAC and Cost per Conversion
+
+The reported values are:
+
+- CAC = 1,601.50
+- Cost per Conversion = 188.51
+
+These values cannot be fully verified without the exact acquisition-spend measure, acquired-customer count, conversion definition, and aggregation logic.
+
+### Validation 6 — CLV-to-CAC
+
+The reported CLV-to-CAC ratio is 2.2, and historical revenue per customer is 3,568.10. These figures should not be assumed to reconcile without confirming the precise CLV measure, CAC denominator, and calculation context.
+
+### Validation Summary
+
+| Metric | Status | Notes |
+|---|---|---|
+| ROAS | Reconciles approximately | Matches the conventional calculation using reported attributed revenue and marketing spend. |
+| Marketing ROI | Requires confirmation | Reported value does not match the conventional calculation using the same figures. |
+| CTR | Reconciles approximately | Clicks divided by impressions is approximately 1.45%. |
+| Conversion Rate | Conditionally reconciles | Matches conversions divided by leads; confirm the dashboard definition. |
+| CAC | Requires confirmation | Underlying acquisition-spend and acquired-customer values are unavailable here. |
+| Cost per Conversion | Requires confirmation | Underlying spend and conversion definition are unavailable here. |
+| CLV-to-CAC | Requires confirmation | Underlying CLV and CAC calculation details are unavailable here. |
+
+## 16. Dashboard Preview
+
+Save the dashboard screenshots in an `images/` folder in the repository root. The following filenames are proposed and should be changed to match the actual dashboard titles and screenshot files.
+
+### Marketing Campaign Performance
+
+![Marketing Campaign Performance Dashboard](images/dashboard_1_campaign_performance.png)
+
+### Customer Acquisition and Conversion Funnel
+
+![Customer Acquisition and Conversion Funnel Dashboard](images/dashboard_2_customer_acquisition.png)
+
+### Channel, Campaign, and Customer Value Analysis
+
+![Channel, Campaign, and Customer Value Analysis Dashboard](images/dashboard_3_customer_value.png)
+
+### GitHub Image Setup
+
+1. Create an `images/` folder in the repository root.
+2. Save each dashboard screenshot in that folder.
+3. Rename the files to match the paths used in this section, or update the Markdown paths.
+4. Commit and push the screenshots along with `README.md`.
+5. Open the README on GitHub and confirm that all images render correctly.
+
+If the project contains more or fewer dashboards, add or remove the relevant preview subsections.
+
+## 17. Connect With Me
+
+**Ankar Goswami**
+
+- **LinkedIn:** [linkedin.com/in/ankar-goswami-23a196245](https://www.linkedin.com/in/ankar-goswami-23a196245/)
+- **GitHub:** [github.com/Ankar-G](https://github.com/Ankar-G)
+- **Email:** [goswamijit99@gmail.com](mailto:goswamijit99@gmail.com)
+
